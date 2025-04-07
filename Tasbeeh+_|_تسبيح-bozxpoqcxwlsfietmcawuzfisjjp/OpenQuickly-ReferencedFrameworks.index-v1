@@ -7,14 +7,14 @@
 	<string>WatchKit</string>
 	<string>SwiftUI</string>
 	<string>XCTest</string>
-	<string>CoreData</string>
-	<string>WidgetKit</string>
 	<string>Tests</string>
-	<string>StoreKit</string>
+	<string>WidgetKit</string>
 	<string>Charts</string>
+	<string>StoreKit</string>
+	<string>CoreLocation</string>
 	<string>UIKit</string>
 	<string>PackageDescription</string>
-	<string>CoreLocation</string>
 	<string>Foundation</string>
+	<string>CoreData</string>
 </array>
 </plist>
