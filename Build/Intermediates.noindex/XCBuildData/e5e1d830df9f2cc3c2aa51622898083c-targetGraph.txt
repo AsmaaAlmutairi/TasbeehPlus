@@ -1,6 +1,0 @@
-Target dependency graph (3 targets)
-Adhan in Adhan, no dependencies
-Adhan in Adhan, depends on:
-Adhan in Adhan (explicit)
-Tasbeeh+ | تسبيح in Tasbeeh+ | تسبيح, depends on:
-Adhan in Adhan (explicit)

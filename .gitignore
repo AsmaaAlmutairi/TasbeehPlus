@@ -1,0 +1,12 @@
+# Ignore build files
+Build/
+DerivedData/
+*.xcuserstate
+
+# Ignore user-specific settings
+*.xcworkspace/xcuserdata
+*.xcodeproj/project.xcworkspace/xcuserdata
+
+# Ignore temporary files
+*.DS_Store
+*.swp

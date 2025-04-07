@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>060AB1AC-CA4A-4276-93F4-16C895B8EB68</key>
+		<key>0D13C959-6BF0-443E-A5B9-4C7D73425400</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,91 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>060AB1AC-CA4A-4276-93F4-16C895B8EB68.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hc2t5XC9EZXNrdG9wXC9UYXNiZWVoKyB8INiq2LPYqNmK2K1cL1Rhc2JlZWgrIHwg2KrYs9io2YrYrS54Y29kZXByb2oifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>765659204.13080204</real>
-			<key>timeStoppedRecording</key>
-			<real>63113904000</real>
-			<key>title</key>
-			<string>Build Tasbeeh+ | تسبيح</string>
-			<key>uniqueIdentifier</key>
-			<string>060AB1AC-CA4A-4276-93F4-16C895B8EB68</string>
-		</dict>
-		<key>1D93FE0A-328B-44B5-BA3A-F1AB8F950013</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>1D93FE0A-328B-44B5-BA3A-F1AB8F950013.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXNreVwvRGVza3RvcFwvVGFzYmVlaCsgfCDYqtiz2KjZititXC9UYXNiZWVoKyB8INiq2LPYqNmK2K0ueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI2NkNENTlCNTJEODE1RTU2MDA1N0QzMjQifQ==</string>
-			<key>timeStartedRecording</key>
-			<real>765659204.13080204</real>
-			<key>timeStoppedRecording</key>
-			<real>765659222.83916795</real>
-			<key>title</key>
-			<string>Build Tasbeeh+ | تسبيح</string>
-			<key>uniqueIdentifier</key>
-			<string>1D93FE0A-328B-44B5-BA3A-F1AB8F950013</string>
-		</dict>
-		<key>44791B9E-7C2B-4EFD-B696-BB57BF1E07C1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>44791B9E-7C2B-4EFD-B696-BB57BF1E07C1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>signature</key>
-			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
-			<key>timeStartedRecording</key>
-			<real>765659204.13080204</real>
-			<key>timeStoppedRecording</key>
-			<real>765659222.83916795</real>
-			<key>title</key>
-			<string>Build Tasbeeh+ | تسبيح</string>
-			<key>uniqueIdentifier</key>
-			<string>44791B9E-7C2B-4EFD-B696-BB57BF1E07C1</string>
-		</dict>
-		<key>B24A790B-5C76-4A7A-A10E-D6F70B45CCAF</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B24A790B-5C76-4A7A-A10E-D6F70B45CCAF.xcactivitylog</string>
+			<string>0D13C959-6BF0-443E-A5B9-4C7D73425400.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -110,15 +26,15 @@
 			<key>signature</key>
 			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXNreVwvRGVza3RvcFwvVGFzYmVlaCsgfCDYqtiz2KjZititXC9UYXNiZWVoK198X9iq2LPYqNmK2K0tYm96eHBvcWN4d2xzZmlldG1jYXd1emZpc2pqcFwvU291cmNlUGFja2FnZXNcL2NoZWNrb3V0c1wvYWRoYW4tc3dpZnQiLCJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IkFkaGFuIn0=</string>
 			<key>timeStartedRecording</key>
-			<real>765659204.13080204</real>
+			<real>765724080.22639</real>
 			<key>timeStoppedRecording</key>
-			<real>765659222.83916795</real>
+			<real>765724103.57700098</real>
 			<key>title</key>
 			<string>Build Tasbeeh+ | تسبيح</string>
 			<key>uniqueIdentifier</key>
-			<string>B24A790B-5C76-4A7A-A10E-D6F70B45CCAF</string>
+			<string>0D13C959-6BF0-443E-A5B9-4C7D73425400</string>
 		</dict>
-		<key>BAF7D7D5-184D-413D-9BC6-93501EEAE0D8</key>
+		<key>45A07E61-42BF-4DBD-BCF9-92487AB3B87F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -127,7 +43,35 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>BAF7D7D5-184D-413D-9BC6-93501EEAE0D8.xcactivitylog</string>
+			<string>45A07E61-42BF-4DBD-BCF9-92487AB3B87F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXNreVwvRGVza3RvcFwvVGFzYmVlaCsgfCDYqtiz2KjZititXC9UYXNiZWVoKyB8INiq2LPYqNmK2K0ueGNvZGVwcm9qIiwidHlwZSI6eyJibHVlcHJpbnQiOnt9fSwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI2NkNENTlCNTJEODE1RTU2MDA1N0QzMjQifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>765724080.22639</real>
+			<key>timeStoppedRecording</key>
+			<real>765724103.57700098</real>
+			<key>title</key>
+			<string>Build Tasbeeh+ | تسبيح</string>
+			<key>uniqueIdentifier</key>
+			<string>45A07E61-42BF-4DBD-BCF9-92487AB3B87F</string>
+		</dict>
+		<key>6C5D53FB-07DF-4163-AF92-A65189A5E74E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6C5D53FB-07DF-4163-AF92-A65189A5E74E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -138,13 +82,69 @@
 			<key>signature</key>
 			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9hc2t5XC9EZXNrdG9wXC9UYXNiZWVoKyB8INiq2LPYqNmK2K1cL1Rhc2JlZWgrIHwg2KrYs9io2YrYrS54Y29kZXByb2oifQ==</string>
 			<key>timeStartedRecording</key>
-			<real>765659204.13080204</real>
+			<real>765724080.22639</real>
 			<key>timeStoppedRecording</key>
-			<real>765659222.83916795</real>
+			<real>765724103.57700098</real>
 			<key>title</key>
 			<string>Build Tasbeeh+ | تسبيح</string>
 			<key>uniqueIdentifier</key>
-			<string>BAF7D7D5-184D-413D-9BC6-93501EEAE0D8</string>
+			<string>6C5D53FB-07DF-4163-AF92-A65189A5E74E</string>
+		</dict>
+		<key>8DBF7825-A4F2-478A-9237-2D7D3DC4CB73</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8DBF7825-A4F2-478A-9237-2D7D3DC4CB73.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJibHVlcHJpbnRfYmx1ZXByaW50VmFyaWFudCI6eyJnZW5lcmljIjp7fX0sImJsdWVwcmludF9wcm92aWRlckZpbGVQYXRoU3RyaW5nIjoiXC9Vc2Vyc1wvYXNreVwvRGVza3RvcFwvVGFzYmVlaCsgfCDYqtiz2KjZititXC9UYXNiZWVoK198X9iq2LPYqNmK2K0tYm96eHBvcWN4d2xzZmlldG1jYXd1emZpc2pqcFwvU291cmNlUGFja2FnZXNcL2NoZWNrb3V0c1wvYWRoYW4tc3dpZnQiLCJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfYmx1ZXByaW50SWRlbnRpZmllciI6IkFkaGFuIn0=</string>
+			<key>timeStartedRecording</key>
+			<real>765724080.22639</real>
+			<key>timeStoppedRecording</key>
+			<real>765724103.57700098</real>
+			<key>title</key>
+			<string>Build Tasbeeh+ | تسبيح</string>
+			<key>uniqueIdentifier</key>
+			<string>8DBF7825-A4F2-478A-9237-2D7D3DC4CB73</string>
+		</dict>
+		<key>A83A443E-A311-47FA-A638-10329AC04867</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A83A443E-A311-47FA-A638-10329AC04867.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>765724080.22639</real>
+			<key>timeStoppedRecording</key>
+			<real>765724103.57700098</real>
+			<key>title</key>
+			<string>Build Tasbeeh+ | تسبيح</string>
+			<key>uniqueIdentifier</key>
+			<string>A83A443E-A311-47FA-A638-10329AC04867</string>
 		</dict>
 	</dict>
 </dict>

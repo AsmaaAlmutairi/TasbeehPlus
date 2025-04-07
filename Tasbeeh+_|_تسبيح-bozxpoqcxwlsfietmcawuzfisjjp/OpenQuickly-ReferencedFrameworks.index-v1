@@ -9,12 +9,12 @@
 	<string>XCTest</string>
 	<string>CoreData</string>
 	<string>WidgetKit</string>
-	<string>Charts</string>
-	<string>StoreKit</string>
 	<string>Tests</string>
+	<string>StoreKit</string>
+	<string>Charts</string>
 	<string>UIKit</string>
+	<string>PackageDescription</string>
 	<string>CoreLocation</string>
 	<string>Foundation</string>
-	<string>PackageDescription</string>
 </array>
 </plist>
