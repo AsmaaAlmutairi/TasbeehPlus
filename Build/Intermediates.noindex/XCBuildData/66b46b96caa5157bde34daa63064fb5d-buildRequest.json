@@ -1,0 +1,66 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "77c194e94a6445176010b1a225266a2c3f1140267d872bc4214e45ac201258e3"
+    }
+  ],
+  "containerPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Tasbeeh+ | تسبيح.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos16.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Build/Products",
+      "derivedDataPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح",
+      "indexDataStoreFolderPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Tasbeeh+_|_تسبيح-bozxpoqcxwlsfietmcawuzfisjjp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Tasbeeh+_|_تسبيح-bozxpoqcxwlsfietmcawuzfisjjp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone11,8",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.1.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone11,8",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008020-001C09E22679002E",
+          "TARGET_DEVICE_MODEL" : "iPhone11,8",
+          "TARGET_DEVICE_OS_VERSION" : "16.1.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

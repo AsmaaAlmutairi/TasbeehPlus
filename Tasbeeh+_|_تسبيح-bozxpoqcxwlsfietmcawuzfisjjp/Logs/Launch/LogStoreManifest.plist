@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>33F6CED9-B054-4D8B-8DB1-6B3CBF5E48F2</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>9E39F4FF-A5AE-461C-A915-A20D54DD739D</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-Tasbeeh+ | تسبيح-1446.10.08_21-34-59-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tasbeeh+ | تسبيح project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tasbeeh+ | تسبيح</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Tasbeeh+ | تسبيح</string>
+			<key>timeStartedRecording</key>
+			<real>765657299.58058906</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run Tasbeeh+ | تسبيح</string>
+			<key>uniqueIdentifier</key>
+			<string>33F6CED9-B054-4D8B-8DB1-6B3CBF5E48F2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

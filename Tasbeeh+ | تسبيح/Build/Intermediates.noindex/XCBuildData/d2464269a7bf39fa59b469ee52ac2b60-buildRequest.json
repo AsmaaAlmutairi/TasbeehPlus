@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "77c194e94a6445176010b1a225266a2c3f1140267d872bc4214e45ac201258e3"
+    }
+  ],
+  "containerPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Tasbeeh+ | تسبيح.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Tasbeeh+ | تسبيح/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Tasbeeh+ | تسبيح/Build/Products",
+      "derivedDataPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Tasbeeh+ | تسبيح",
+      "indexDataStoreFolderPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Tasbeeh+ | تسبيح/Tasbeeh+_|_تسبيح-bozxpoqcxwlsfietmcawuzfisjjp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Tasbeeh+ | تسبيح/Tasbeeh+_|_تسبيح-bozxpoqcxwlsfietmcawuzfisjjp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Tasbeeh+ | تسبيح/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "04D38884-C408-4302-8FED-421AC2F7C987",
+          "TARGET_DEVICE_MODEL" : "iPhone15,2",
+          "TARGET_DEVICE_OS_VERSION" : "16.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

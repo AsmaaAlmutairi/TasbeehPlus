@@ -7,18 +7,113 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		66CD59BA2D815E560057D324 /* Tasbeeh_________App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66CD59B92D815E560057D324 /* Tasbeeh_________App.swift */; };
-		66CD59BC2D815E560057D324 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66CD59BB2D815E560057D324 /* ContentView.swift */; };
-		66CD59BE2D815E590057D324 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66CD59BD2D815E590057D324 /* Assets.xcassets */; };
-		66CD59C12D815E590057D324 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66CD59C02D815E590057D324 /* Preview Assets.xcassets */; };
+		665AD89D2D9A99E900B65AA9 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 665AD89C2D9A99E900B65AA9 /* Contents.json */; };
+		665C948D2D9AA28F0094F0D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66C1AC952D8C181B00AC36A6 /* Assets.xcassets */; };
+		665C948F2D9FF6810094F0D2 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 665C948E2D9FF6810094F0D2 /* StoreKit.framework */; };
+		66827E832DA1394D00CBB124 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66827E822DA1394D00CBB124 /* LaunchScreen.storyboard */; };
+		66827E862DA164B300CBB124 /* Adhan in Frameworks */ = {isa = PBXBuildFile; productRef = 66827E852DA164B300CBB124 /* Adhan */; };
+		66C1AEBD2D8C181E00AC36A6 /* Tasbeeh+ | تسبيح.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC792D8C181A00AC36A6 /* Tasbeeh+ | تسبيح.swift */; };
+		66C1AEBE2D8C181E00AC36A6 /* ScaleButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC7A2D8C181A00AC36A6 /* ScaleButtonStyle.swift */; };
+		66C1AEBF2D8C181E00AC36A6 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC7B2D8C181A00AC36A6 /* Home.swift */; };
+		66C1AEC02D8C181E00AC36A6 /*  SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC7C2D8C181A00AC36A6 /*  SceneDelegate.swift */; };
+		66C1AEC12D8C181E00AC36A6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC7D2D8C181A00AC36A6 /* AppDelegate.swift */; };
+		66C1AEC22D8C181E00AC36A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC7E2D8C181A00AC36A6 /* ContentView.swift */; };
+		66C1AEC32D8C181E00AC36A6 /* ZikrDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC802D8C181A00AC36A6 /* ZikrDetailView.swift */; };
+		66C1AEC42D8C181E00AC36A6 /* ZikrSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC812D8C181A00AC36A6 /* ZikrSettingsView.swift */; };
+		66C1AEC52D8C181E00AC36A6 /* SideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC822D8C181A00AC36A6 /* SideMenu.swift */; };
+		66C1AEC62D8C181E00AC36A6 /* StatisticsDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC832D8C181A00AC36A6 /* StatisticsDetailView.swift */; };
+		66C1AEC72D8C181E00AC36A6 /* CustomButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC852D8C181B00AC36A6 /* CustomButtons.swift */; };
+		66C1AEC82D8C181E00AC36A6 /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC862D8C181B00AC36A6 /* BlurView.swift */; };
+		66C1AEC92D8C181E00AC36A6 /* ZikrFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC872D8C181B00AC36A6 /* ZikrFooterView.swift */; };
+		66C1AECA2D8C181E00AC36A6 /* TabItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC882D8C181B00AC36A6 /* TabItem.swift */; };
+		66C1AECB2D8C181E00AC36A6 /* CircleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC892D8C181B00AC36A6 /* CircleButton.swift */; };
+		66C1AECC2D8C181E00AC36A6 /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC8A2D8C181B00AC36A6 /* CustomTabBar.swift */; };
+		66C1AECD2D8C181E00AC36A6 /* ButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC8B2D8C181B00AC36A6 /* ButtonStyle.swift */; };
+		66C1AECE2D8C181E00AC36A6 /* Zikr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC8D2D8C181B00AC36A6 /* Zikr.swift */; };
+		66C1AECF2D8C181E00AC36A6 /* city.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC8E2D8C181B00AC36A6 /* city.swift */; };
+		66C1AED02D8C181E00AC36A6 /* PrayerTimesResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC8F2D8C181B00AC36A6 /* PrayerTimesResponse.swift */; };
+		66C1AED12D8C181E00AC36A6 /* AppColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC902D8C181B00AC36A6 /* AppColor.swift */; };
+		66C1AED22D8C181E00AC36A6 /* PrayerTimesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC912D8C181B00AC36A6 /* PrayerTimesManager.swift */; };
+		66C1AED32D8C181E00AC36A6 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC922D8C181B00AC36A6 /* Tab.swift */; };
+		66C1AED42D8C181E00AC36A6 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC932D8C181B00AC36A6 /* LocationManager.swift */; };
+		66C1AED52D8C181E00AC36A6 /* AzkarCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC942D8C181B00AC36A6 /* AzkarCategory.swift */; };
+		66C1B0CD2D8C181F00AC36A6 /* CounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEA32D8C181E00AC36A6 /* CounterView.swift */; };
+		66C1B0CE2D8C181F00AC36A6 /* ZikrCounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEA42D8C181E00AC36A6 /* ZikrCounterView.swift */; };
+		66C1B0CF2D8C181F00AC36A6 /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEA52D8C181E00AC36A6 /* ActivityView.swift */; };
+		66C1B0D02D8C182000AC36A6 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEA72D8C181E00AC36A6 /* SettingsView.swift */; };
+		66C1B0D12D8C182000AC36A6 /* AdvancedStatisticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEA82D8C181E00AC36A6 /* AdvancedStatisticsView.swift */; };
+		66C1B0D22D8C182000AC36A6 /* PrayerTimesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEA92D8C181E00AC36A6 /* PrayerTimesView.swift */; };
+		66C1B0D32D8C182000AC36A6 /* CityPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEAA2D8C181E00AC36A6 /* CityPickerView.swift */; };
+		66C1B0D42D8C182000AC36A6 /* SupportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEAB2D8C181E00AC36A6 /* SupportView.swift */; };
+		66C1B0D52D8C182000AC36A6 /* AzkarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEAC2D8C181E00AC36A6 /* AzkarView.swift */; };
+		66C1B0DD2D8C182000AC36A6 /* ZikrCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEB82D8C181E00AC36A6 /* ZikrCardView.swift */; };
+		66C1B0DE2D8C182000AC36A6 /* StatCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEB92D8C181E00AC36A6 /* StatCard.swift */; };
+		66C1B0DF2D8C182000AC36A6 /* PieSliceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEBA2D8C181E00AC36A6 /* PieSliceView.swift */; };
+		66C1B0E02D8C182000AC36A6 /* PrayerCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEBB2D8C181E00AC36A6 /* PrayerCardView.swift */; };
+		66C1B0E12D8C182000AC36A6 /* PieChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEBC2D8C181E00AC36A6 /* PieChartView.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		66C1AC5A2D88FBD800AC36A6 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		66516CB02D9663DC00429FFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		665AD89C2D9A99E900B65AA9 /* Contents.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		665C948E2D9FF6810094F0D2 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		66827E822DA1394D00CBB124 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		66C1AC432D88FBD400AC36A6 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
+		66C1AC452D88FBD500AC36A6 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
+		66C1AC792D8C181A00AC36A6 /* Tasbeeh+ | تسبيح.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Tasbeeh+ | تسبيح.swift"; sourceTree = "<group>"; };
+		66C1AC7A2D8C181A00AC36A6 /* ScaleButtonStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScaleButtonStyle.swift; sourceTree = "<group>"; };
+		66C1AC7B2D8C181A00AC36A6 /* Home.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		66C1AC7C2D8C181A00AC36A6 /*  SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = " SceneDelegate.swift"; sourceTree = "<group>"; };
+		66C1AC7D2D8C181A00AC36A6 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		66C1AC7E2D8C181A00AC36A6 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		66C1AC802D8C181A00AC36A6 /* ZikrDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrDetailView.swift; sourceTree = "<group>"; };
+		66C1AC812D8C181A00AC36A6 /* ZikrSettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrSettingsView.swift; sourceTree = "<group>"; };
+		66C1AC822D8C181A00AC36A6 /* SideMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideMenu.swift; sourceTree = "<group>"; };
+		66C1AC832D8C181A00AC36A6 /* StatisticsDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatisticsDetailView.swift; sourceTree = "<group>"; };
+		66C1AC852D8C181B00AC36A6 /* CustomButtons.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButtons.swift; sourceTree = "<group>"; };
+		66C1AC862D8C181B00AC36A6 /* BlurView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurView.swift; sourceTree = "<group>"; };
+		66C1AC872D8C181B00AC36A6 /* ZikrFooterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrFooterView.swift; sourceTree = "<group>"; };
+		66C1AC882D8C181B00AC36A6 /* TabItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabItem.swift; sourceTree = "<group>"; };
+		66C1AC892D8C181B00AC36A6 /* CircleButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleButton.swift; sourceTree = "<group>"; };
+		66C1AC8A2D8C181B00AC36A6 /* CustomTabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
+		66C1AC8B2D8C181B00AC36A6 /* ButtonStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonStyle.swift; sourceTree = "<group>"; };
+		66C1AC8D2D8C181B00AC36A6 /* Zikr.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Zikr.swift; sourceTree = "<group>"; };
+		66C1AC8E2D8C181B00AC36A6 /* city.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = city.swift; sourceTree = "<group>"; };
+		66C1AC8F2D8C181B00AC36A6 /* PrayerTimesResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerTimesResponse.swift; sourceTree = "<group>"; };
+		66C1AC902D8C181B00AC36A6 /* AppColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppColor.swift; sourceTree = "<group>"; };
+		66C1AC912D8C181B00AC36A6 /* PrayerTimesManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerTimesManager.swift; sourceTree = "<group>"; };
+		66C1AC922D8C181B00AC36A6 /* Tab.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
+		66C1AC932D8C181B00AC36A6 /* LocationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		66C1AC942D8C181B00AC36A6 /* AzkarCategory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AzkarCategory.swift; sourceTree = "<group>"; };
+		66C1AC952D8C181B00AC36A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		66C1AEA32D8C181E00AC36A6 /* CounterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CounterView.swift; sourceTree = "<group>"; };
+		66C1AEA42D8C181E00AC36A6 /* ZikrCounterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrCounterView.swift; sourceTree = "<group>"; };
+		66C1AEA52D8C181E00AC36A6 /* ActivityView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
+		66C1AEA72D8C181E00AC36A6 /* SettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		66C1AEA82D8C181E00AC36A6 /* AdvancedStatisticsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvancedStatisticsView.swift; sourceTree = "<group>"; };
+		66C1AEA92D8C181E00AC36A6 /* PrayerTimesView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerTimesView.swift; sourceTree = "<group>"; };
+		66C1AEAA2D8C181E00AC36A6 /* CityPickerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CityPickerView.swift; sourceTree = "<group>"; };
+		66C1AEAB2D8C181E00AC36A6 /* SupportView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SupportView.swift; sourceTree = "<group>"; };
+		66C1AEAC2D8C181E00AC36A6 /* AzkarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AzkarView.swift; sourceTree = "<group>"; };
+		66C1AEB82D8C181E00AC36A6 /* ZikrCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrCardView.swift; sourceTree = "<group>"; };
+		66C1AEB92D8C181E00AC36A6 /* StatCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatCard.swift; sourceTree = "<group>"; };
+		66C1AEBA2D8C181E00AC36A6 /* PieSliceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieSliceView.swift; sourceTree = "<group>"; };
+		66C1AEBB2D8C181E00AC36A6 /* PrayerCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerCardView.swift; sourceTree = "<group>"; };
+		66C1AEBC2D8C181E00AC36A6 /* PieChartView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieChartView.swift; sourceTree = "<group>"; };
 		66CD59B62D815E560057D324 /* Tasbeeh+ | تسبيح.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tasbeeh+ | تسبيح.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		66CD59B92D815E560057D324 /* Tasbeeh_________App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tasbeeh_________App.swift"; sourceTree = "<group>"; };
-		66CD59BB2D815E560057D324 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		66CD59BD2D815E590057D324 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		66CD59C02D815E590057D324 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,16 +121,135 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				665C948F2D9FF6810094F0D2 /* StoreKit.framework in Frameworks */,
+				66827E862DA164B300CBB124 /* Adhan in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		66C1AC422D88FBD400AC36A6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				665C948E2D9FF6810094F0D2 /* StoreKit.framework */,
+				66C1AC432D88FBD400AC36A6 /* WidgetKit.framework */,
+				66C1AC452D88FBD500AC36A6 /* SwiftUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		66C1AC772D8C181A00AC36A6 /* Tasbeeh+ | تسبيح */ = {
+			isa = PBXGroup;
+			children = (
+				66827E822DA1394D00CBB124 /* LaunchScreen.storyboard */,
+				66C1AC782D8C181A00AC36A6 /* Application Structure */,
+				66C1AC7F2D8C181A00AC36A6 /* Additional Settings & Details */,
+				66C1AC842D8C181A00AC36A6 /* UI Components */,
+				66C1AC8C2D8C181B00AC36A6 /* Logic & Data Management */,
+				66C1AC952D8C181B00AC36A6 /* Assets.xcassets */,
+				665AD89C2D9A99E900B65AA9 /* Contents.json */,
+				66C1AEA22D8C181E00AC36A6 /* Interactive Components */,
+				66C1AEA62D8C181E00AC36A6 /* Main Screens */,
+				66C1AEB72D8C181E00AC36A6 /* Data Display Components */,
+				66516CB02D9663DC00429FFE /* Info.plist */,
+			);
+			path = "Tasbeeh+ | تسبيح";
+			sourceTree = "<group>";
+		};
+		66C1AC782D8C181A00AC36A6 /* Application Structure */ = {
+			isa = PBXGroup;
+			children = (
+				66C1AC792D8C181A00AC36A6 /* Tasbeeh+ | تسبيح.swift */,
+				66C1AC7A2D8C181A00AC36A6 /* ScaleButtonStyle.swift */,
+				66C1AC7B2D8C181A00AC36A6 /* Home.swift */,
+				66C1AC7C2D8C181A00AC36A6 /*  SceneDelegate.swift */,
+				66C1AC7D2D8C181A00AC36A6 /* AppDelegate.swift */,
+				66C1AC7E2D8C181A00AC36A6 /* ContentView.swift */,
+			);
+			path = "Application Structure";
+			sourceTree = "<group>";
+		};
+		66C1AC7F2D8C181A00AC36A6 /* Additional Settings & Details */ = {
+			isa = PBXGroup;
+			children = (
+				66C1AC802D8C181A00AC36A6 /* ZikrDetailView.swift */,
+				66C1AC812D8C181A00AC36A6 /* ZikrSettingsView.swift */,
+				66C1AC822D8C181A00AC36A6 /* SideMenu.swift */,
+				66C1AC832D8C181A00AC36A6 /* StatisticsDetailView.swift */,
+			);
+			path = "Additional Settings & Details";
+			sourceTree = "<group>";
+		};
+		66C1AC842D8C181A00AC36A6 /* UI Components */ = {
+			isa = PBXGroup;
+			children = (
+				66C1AC852D8C181B00AC36A6 /* CustomButtons.swift */,
+				66C1AC862D8C181B00AC36A6 /* BlurView.swift */,
+				66C1AC872D8C181B00AC36A6 /* ZikrFooterView.swift */,
+				66C1AC882D8C181B00AC36A6 /* TabItem.swift */,
+				66C1AC892D8C181B00AC36A6 /* CircleButton.swift */,
+				66C1AC8A2D8C181B00AC36A6 /* CustomTabBar.swift */,
+				66C1AC8B2D8C181B00AC36A6 /* ButtonStyle.swift */,
+			);
+			path = "UI Components";
+			sourceTree = "<group>";
+		};
+		66C1AC8C2D8C181B00AC36A6 /* Logic & Data Management */ = {
+			isa = PBXGroup;
+			children = (
+				66C1AC8D2D8C181B00AC36A6 /* Zikr.swift */,
+				66C1AC8E2D8C181B00AC36A6 /* city.swift */,
+				66C1AC8F2D8C181B00AC36A6 /* PrayerTimesResponse.swift */,
+				66C1AC902D8C181B00AC36A6 /* AppColor.swift */,
+				66C1AC912D8C181B00AC36A6 /* PrayerTimesManager.swift */,
+				66C1AC922D8C181B00AC36A6 /* Tab.swift */,
+				66C1AC932D8C181B00AC36A6 /* LocationManager.swift */,
+				66C1AC942D8C181B00AC36A6 /* AzkarCategory.swift */,
+			);
+			path = "Logic & Data Management";
+			sourceTree = "<group>";
+		};
+		66C1AEA22D8C181E00AC36A6 /* Interactive Components */ = {
+			isa = PBXGroup;
+			children = (
+				66C1AEA32D8C181E00AC36A6 /* CounterView.swift */,
+				66C1AEA42D8C181E00AC36A6 /* ZikrCounterView.swift */,
+				66C1AEA52D8C181E00AC36A6 /* ActivityView.swift */,
+			);
+			path = "Interactive Components";
+			sourceTree = "<group>";
+		};
+		66C1AEA62D8C181E00AC36A6 /* Main Screens */ = {
+			isa = PBXGroup;
+			children = (
+				66C1AEA72D8C181E00AC36A6 /* SettingsView.swift */,
+				66C1AEA82D8C181E00AC36A6 /* AdvancedStatisticsView.swift */,
+				66C1AEA92D8C181E00AC36A6 /* PrayerTimesView.swift */,
+				66C1AEAA2D8C181E00AC36A6 /* CityPickerView.swift */,
+				66C1AEAB2D8C181E00AC36A6 /* SupportView.swift */,
+				66C1AEAC2D8C181E00AC36A6 /* AzkarView.swift */,
+			);
+			path = "Main Screens";
+			sourceTree = "<group>";
+		};
+		66C1AEB72D8C181E00AC36A6 /* Data Display Components */ = {
+			isa = PBXGroup;
+			children = (
+				66C1AEB82D8C181E00AC36A6 /* ZikrCardView.swift */,
+				66C1AEB92D8C181E00AC36A6 /* StatCard.swift */,
+				66C1AEBA2D8C181E00AC36A6 /* PieSliceView.swift */,
+				66C1AEBB2D8C181E00AC36A6 /* PrayerCardView.swift */,
+				66C1AEBC2D8C181E00AC36A6 /* PieChartView.swift */,
+			);
+			path = "Data Display Components";
+			sourceTree = "<group>";
+		};
 		66CD59AD2D815E560057D324 = {
 			isa = PBXGroup;
 			children = (
-				66CD59B82D815E560057D324 /* Tasbeeh+ | تسبيح */,
+				66C1AC772D8C181A00AC36A6 /* Tasbeeh+ | تسبيح */,
+				66C1AC422D88FBD400AC36A6 /* Frameworks */,
 				66CD59B72D815E560057D324 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,25 +262,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		66CD59B82D815E560057D324 /* Tasbeeh+ | تسبيح */ = {
-			isa = PBXGroup;
-			children = (
-				66CD59B92D815E560057D324 /* Tasbeeh_________App.swift */,
-				66CD59BB2D815E560057D324 /* ContentView.swift */,
-				66CD59BD2D815E590057D324 /* Assets.xcassets */,
-				66CD59BF2D815E590057D324 /* Preview Content */,
-			);
-			path = "Tasbeeh+ | تسبيح";
-			sourceTree = "<group>";
-		};
-		66CD59BF2D815E590057D324 /* Preview Content */ = {
-			isa = PBXGroup;
-			children = (
-				66CD59C02D815E590057D324 /* Preview Assets.xcassets */,
-			);
-			path = "Preview Content";
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -76,13 +271,17 @@
 			buildPhases = (
 				66CD59B22D815E560057D324 /* Sources */,
 				66CD59B32D815E560057D324 /* Frameworks */,
-				66CD59B42D815E560057D324 /* Resources */,
+				66C1B0E82D8C1D3E00AC36A6 /* Resources */,
+				66C1AC5A2D88FBD800AC36A6 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = "Tasbeeh+ | تسبيح";
+			packageProductDependencies = (
+				66827E852DA164B300CBB124 /* Adhan */,
+			);
 			productName = "Tasbeeh+ | تسبيح";
 			productReference = 66CD59B62D815E560057D324 /* Tasbeeh+ | تسبيح.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +310,9 @@
 				Base,
 			);
 			mainGroup = 66CD59AD2D815E560057D324;
+			packageReferences = (
+				66827E842DA164B300CBB124 /* XCRemoteSwiftPackageReference "adhan-swift" */,
+			);
 			productRefGroup = 66CD59B72D815E560057D324 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -121,12 +323,13 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		66CD59B42D815E560057D324 /* Resources */ = {
+		66C1B0E82D8C1D3E00AC36A6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				66CD59C12D815E590057D324 /* Preview Assets.xcassets in Resources */,
-				66CD59BE2D815E590057D324 /* Assets.xcassets in Resources */,
+				66827E832DA1394D00CBB124 /* LaunchScreen.storyboard in Resources */,
+				665C948D2D9AA28F0094F0D2 /* Assets.xcassets in Resources */,
+				665AD89D2D9A99E900B65AA9 /* Contents.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +340,45 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				66CD59BC2D815E560057D324 /* ContentView.swift in Sources */,
-				66CD59BA2D815E560057D324 /* Tasbeeh_________App.swift in Sources */,
+				66C1AEC12D8C181E00AC36A6 /* AppDelegate.swift in Sources */,
+				66C1AECE2D8C181E00AC36A6 /* Zikr.swift in Sources */,
+				66C1B0DE2D8C182000AC36A6 /* StatCard.swift in Sources */,
+				66C1AEC42D8C181E00AC36A6 /* ZikrSettingsView.swift in Sources */,
+				66C1AEC52D8C181E00AC36A6 /* SideMenu.swift in Sources */,
+				66C1B0D02D8C182000AC36A6 /* SettingsView.swift in Sources */,
+				66C1AEC72D8C181E00AC36A6 /* CustomButtons.swift in Sources */,
+				66C1AED32D8C181E00AC36A6 /* Tab.swift in Sources */,
+				66C1AED02D8C181E00AC36A6 /* PrayerTimesResponse.swift in Sources */,
+				66C1AED22D8C181E00AC36A6 /* PrayerTimesManager.swift in Sources */,
+				66C1B0D12D8C182000AC36A6 /* AdvancedStatisticsView.swift in Sources */,
+				66C1B0DD2D8C182000AC36A6 /* ZikrCardView.swift in Sources */,
+				66C1B0E02D8C182000AC36A6 /* PrayerCardView.swift in Sources */,
+				66C1AEBE2D8C181E00AC36A6 /* ScaleButtonStyle.swift in Sources */,
+				66C1AECA2D8C181E00AC36A6 /* TabItem.swift in Sources */,
+				66C1AEC92D8C181E00AC36A6 /* ZikrFooterView.swift in Sources */,
+				66C1AEC02D8C181E00AC36A6 /*  SceneDelegate.swift in Sources */,
+				66C1AED42D8C181E00AC36A6 /* LocationManager.swift in Sources */,
+				66C1AECB2D8C181E00AC36A6 /* CircleButton.swift in Sources */,
+				66C1B0D52D8C182000AC36A6 /* AzkarView.swift in Sources */,
+				66C1AEC62D8C181E00AC36A6 /* StatisticsDetailView.swift in Sources */,
+				66C1B0DF2D8C182000AC36A6 /* PieSliceView.swift in Sources */,
+				66C1B0D22D8C182000AC36A6 /* PrayerTimesView.swift in Sources */,
+				66C1AECF2D8C181E00AC36A6 /* city.swift in Sources */,
+				66C1B0CE2D8C181F00AC36A6 /* ZikrCounterView.swift in Sources */,
+				66C1B0CD2D8C181F00AC36A6 /* CounterView.swift in Sources */,
+				66C1AED52D8C181E00AC36A6 /* AzkarCategory.swift in Sources */,
+				66C1B0CF2D8C181F00AC36A6 /* ActivityView.swift in Sources */,
+				66C1B0E12D8C182000AC36A6 /* PieChartView.swift in Sources */,
+				66C1B0D32D8C182000AC36A6 /* CityPickerView.swift in Sources */,
+				66C1AECC2D8C181E00AC36A6 /* CustomTabBar.swift in Sources */,
+				66C1AED12D8C181E00AC36A6 /* AppColor.swift in Sources */,
+				66C1AEC32D8C181E00AC36A6 /* ZikrDetailView.swift in Sources */,
+				66C1AECD2D8C181E00AC36A6 /* ButtonStyle.swift in Sources */,
+				66C1B0D42D8C182000AC36A6 /* SupportView.swift in Sources */,
+				66C1AEBD2D8C181E00AC36A6 /* Tasbeeh+ | تسبيح.swift in Sources */,
+				66C1AEBF2D8C181E00AC36A6 /* Home.swift in Sources */,
+				66C1AEC22D8C181E00AC36A6 /* ContentView.swift in Sources */,
+				66C1AEC82D8C181E00AC36A6 /* BlurView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -195,7 +435,9 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -249,7 +491,9 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -264,27 +508,29 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Tasbeeh+ | تسبيح/Preview Content\"";
 				DEVELOPMENT_TEAM = BSFW4YJUKY;
 				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "$(SRCROOT)/Tasbeeh+ | تسبيح/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-.Tasbeeh---------";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sky.tasbeeh;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -293,27 +539,29 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Tasbeeh+ | تسبيح/Preview Content\"";
 				DEVELOPMENT_TEAM = BSFW4YJUKY;
 				ENABLE_PREVIEWS = YES;
-				GENERATE_INFOPLIST_FILE = YES;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = "$(SRCROOT)/Tasbeeh+ | تسبيح/Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-.Tasbeeh---------";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sky.tasbeeh;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -339,6 +587,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		66827E842DA164B300CBB124 /* XCRemoteSwiftPackageReference "adhan-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/batoulapps/adhan-swift";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		66827E852DA164B300CBB124 /* Adhan */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 66827E842DA164B300CBB124 /* XCRemoteSwiftPackageReference "adhan-swift" */;
+			productName = Adhan;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 66CD59AE2D815E560057D324 /* Project object */;
 }

@@ -1,0 +1,44 @@
+{
+  "source": "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Tasbeeh+ | تسبيح/Main Screens/PrayerTimesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "🕌 مواقيت الصلاة"
+      },
+      {
+        "comment": "",
+        "key": "استخدام الموقع الحالي"
+      },
+      {
+        "comment": "",
+        "key": "تحديث المواقيت"
+      },
+      {
+        "comment": "",
+        "key": "تنسيق الوقت:"
+      },
+      {
+        "comment": "",
+        "key": ""
+      },
+      {
+        "comment": "",
+        "key": "12h"
+      },
+      {
+        "comment": "",
+        "key": "24h"
+      },
+      {
+        "comment": "",
+        "key": "🕰️ باقي على الصلاة القادمة"
+      },
+      {
+        "comment": "",
+        "key": "%@ بعد %@"
+      }
+    ]
+  },
+  "version": 1
+}

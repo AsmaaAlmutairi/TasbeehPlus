@@ -1,0 +1,25 @@
+"/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Tasbeeh+_|_\u062A\u0633\u0628\u064A\u062D-bozxpoqcxwlsfietmcawuzfisjjp/SourcePackages/checkouts/adhan-swift/Sources/PrayerTimes.swift":
+  dependencies: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/PrayerTimes.d"
+  object: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/PrayerTimes.o"
+  swift-dependencies: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/PrayerTimes.swiftdeps"
+  diagnostics: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/PrayerTimes.dia"
+"/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Tasbeeh+_|_\u062A\u0633\u0628\u064A\u062D-bozxpoqcxwlsfietmcawuzfisjjp/SourcePackages/checkouts/adhan-swift/Sources/Models/Rouding.swift":
+  swift-dependencies: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/Rouding.swiftdeps"
+  object: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/Rouding.o"
+  dependencies: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/Rouding.d"
+  diagnostics: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/Rouding.dia"
+"/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Tasbeeh+_|_\u062A\u0633\u0628\u064A\u062D-bozxpoqcxwlsfietmcawuzfisjjp/SourcePackages/checkouts/adhan-swift/Sources/Models/PrayerAdjustment.swift":
+  swift-dependencies: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/PrayerAdjustment.swiftdeps"
+  dependencies: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/PrayerAdjustment.d"
+  object: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/PrayerAdjustment.o"
+  diagnostics: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/PrayerAdjustment.dia"
+"/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Tasbeeh+_|_\u062A\u0633\u0628\u064A\u062D-bozxpoqcxwlsfietmcawuzfisjjp/SourcePackages/checkouts/adhan-swift/Sources/Models/Shafaq.swift":
+  object: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/Shafaq.o"
+  swift-dependencies: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/Shafaq.swiftdeps"
+  dependencies: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/Shafaq.d"
+  diagnostics: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/Shafaq.dia"
+"/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Tasbeeh+_|_\u062A\u0633\u0628\u064A\u062D-bozxpoqcxwlsfietmcawuzfisjjp/SourcePackages/checkouts/adhan-swift/Sources/Models/Prayer.swift":
+  object: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/Prayer.o"
+  swift-dependencies: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/Prayer.swiftdeps"
+  dependencies: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/Prayer.d"
+  diagnostics: "/Users/asky/Desktop/Tasbeeh+ | \u062A\u0633\u0628\u064A\u062D/Build/Intermediates.noindex/Adhan.build/Debug-iphoneos/Adhan.build/Objects-normal/arm64/Prayer.dia"

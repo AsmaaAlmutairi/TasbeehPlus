@@ -1,0 +1,16 @@
+{
+  "source": "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Tasbeeh+ | تسبيح/Additional Settings & Details/StatisticsDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "تفاصيل الإحصائيات"
+      },
+      {
+        "comment": "",
+        "key": "%lld"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/asky/Desktop/Tasbeeh+ | تسبيح/Tasbeeh+ | تسبيح/Additional Settings & Details/ZikrDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "أذكار %@"
+      },
+      {
+        "comment": "",
+        "key": "%lld"
+      }
+    ]
+  },
+  "version": 1
+}
