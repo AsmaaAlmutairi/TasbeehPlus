@@ -113,7 +113,7 @@
 		66C1AEBA2D8C181E00AC36A6 /* PieSliceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieSliceView.swift; sourceTree = "<group>"; };
 		66C1AEBB2D8C181E00AC36A6 /* PrayerCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerCardView.swift; sourceTree = "<group>"; };
 		66C1AEBC2D8C181E00AC36A6 /* PieChartView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieChartView.swift; sourceTree = "<group>"; };
-		66CD59B62D815E560057D324 /* Tasbeeh+ | تسبيح.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tasbeeh+ | تسبيح.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		66CD59B62D815E560057D324 /* TasbeehPlus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TasbeehPlus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -257,7 +257,7 @@
 		66CD59B72D815E560057D324 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				66CD59B62D815E560057D324 /* Tasbeeh+ | تسبيح.app */,
+				66CD59B62D815E560057D324 /* TasbeehPlus.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -265,9 +265,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		66CD59B52D815E560057D324 /* Tasbeeh+ | تسبيح */ = {
+		66CD59B52D815E560057D324 /* TasbeehPlus */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 66CD59C42D815E590057D324 /* Build configuration list for PBXNativeTarget "Tasbeeh+ | تسبيح" */;
+			buildConfigurationList = 66CD59C42D815E590057D324 /* Build configuration list for PBXNativeTarget "TasbeehPlus" */;
 			buildPhases = (
 				66CD59B22D815E560057D324 /* Sources */,
 				66CD59B32D815E560057D324 /* Frameworks */,
@@ -278,12 +278,12 @@
 			);
 			dependencies = (
 			);
-			name = "Tasbeeh+ | تسبيح";
+			name = TasbeehPlus;
 			packageProductDependencies = (
 				66827E852DA164B300CBB124 /* Adhan */,
 			);
 			productName = "Tasbeeh+ | تسبيح";
-			productReference = 66CD59B62D815E560057D324 /* Tasbeeh+ | تسبيح.app */;
+			productReference = 66CD59B62D815E560057D324 /* TasbeehPlus.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -301,7 +301,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 66CD59B12D815E560057D324 /* Build configuration list for PBXProject "Tasbeeh+ | تسبيح" */;
+			buildConfigurationList = 66CD59B12D815E560057D324 /* Build configuration list for PBXProject "TasbeehPlus" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -317,7 +317,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				66CD59B52D815E560057D324 /* Tasbeeh+ | تسبيح */,
+				66CD59B52D815E560057D324 /* TasbeehPlus */,
 			);
 		};
 /* End PBXProject section */
@@ -568,7 +568,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		66CD59B12D815E560057D324 /* Build configuration list for PBXProject "Tasbeeh+ | تسبيح" */ = {
+		66CD59B12D815E560057D324 /* Build configuration list for PBXProject "TasbeehPlus" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				66CD59C22D815E590057D324 /* Debug */,
@@ -577,7 +577,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		66CD59C42D815E590057D324 /* Build configuration list for PBXNativeTarget "Tasbeeh+ | تسبيح" */ = {
+		66CD59C42D815E590057D324 /* Build configuration list for PBXNativeTarget "TasbeehPlus" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				66CD59C52D815E590057D324 /* Debug */,
