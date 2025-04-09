@@ -149,7 +149,11 @@ struct AzkarView: View {
                 
                 Spacer()
                 
-                zikrFooter
+                //zikrFooter
+                if currentZikrIndex != -1 {
+                    zikrFooter
+                }
+
             }
         }
         .onAppear { loadInitialAzkar() }
@@ -275,12 +279,12 @@ struct AzkarView: View {
                 .foregroundColor(AppColor.primary(forTheme: selectedTheme, isWarmLightOn: isWarmLightOn))
                 .padding()
             
-            Text("أحسنت! يمكنك تكرارها أو العودة لاحقًا.")
+          /*  Text("أحسنت! يمكنك تكرارها أو العودة لاحقًا.")
                 .font(.subheadline)
                 .foregroundColor(AppColor.secondary(forTheme: selectedTheme, isWarmLightOn: isWarmLightOn))
                 .multilineTextAlignment(.center)
-                .padding(.horizontal)
-        }
+                .padding(.horizontal)*/
+           }
     }
     
     private var zikrFooter: some View {
