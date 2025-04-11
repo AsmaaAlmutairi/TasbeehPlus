@@ -1,0 +1,8 @@
+app_identifier("com.sky.tasbeeh") # The bundle identifier of your app
+apple_id("asmaa_k26@icloud.com") # Your Apple Developer Portal username
+
+itc_team_id("127606341") # App Store Connect Team ID
+team_id("BSFW4YJUKY") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
