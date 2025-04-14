@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E3ECEB7CE65994187855F8917A3A801F8C67D222",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E3ECEB7CE65994187855F8917A3A801F8C67D222" : 0,
+    "2088FE00E26CDA623BD5E79EA7ADD858B0472B17" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "00561282-A59B-4E5C-AC78-06B0FA90D866",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E3ECEB7CE65994187855F8917A3A801F8C67D222" : "TasbeehPlus\/",
+    "2088FE00E26CDA623BD5E79EA7ADD858B0472B17" : "TasbeehPlus\/TasbeehPlus-cqnglfudnpejkthegsmobmhsiwzs\/SourcePackages\/checkouts\/adhan-swift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TasbeehPlus",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TasbeehPlus.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/asky\/Desktop\/TasbeehPlus\/TasbeehPlus-cqnglfudnpejkthegsmobmhsiwzs\/SourcePackages\/repositories\/adhan-swift-cbca186a",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2088FE00E26CDA623BD5E79EA7ADD858B0472B17"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/AsmaaAlmutairi\/TasbeehPlus.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E3ECEB7CE65994187855F8917A3A801F8C67D222"
+    }
+  ]
+}

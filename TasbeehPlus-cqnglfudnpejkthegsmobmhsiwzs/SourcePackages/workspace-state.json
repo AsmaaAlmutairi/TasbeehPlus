@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "adhan-swift",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/batoulapps/adhan-swift",
+          "name" : "Adhan"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "6dc8309951fdaa0cd124c52b9a8de7e0da1ff2ce",
+            "version" : "1.4.0"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "adhan-swift"
+      }
+    ]
+  },
+  "version" : 5
+}

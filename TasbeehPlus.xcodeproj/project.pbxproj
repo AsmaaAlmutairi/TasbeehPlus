@@ -7,50 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		665AD89D2D9A99E900B65AA9 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 665AD89C2D9A99E900B65AA9 /* Contents.json */; };
-		665C948D2D9AA28F0094F0D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66C1AC952D8C181B00AC36A6 /* Assets.xcassets */; };
+		6659ED212DAC0062003EAB20 /* Tasbeeh+ | تسبيح.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EADB2DAC005B003EAB20 /* Tasbeeh+ | تسبيح.swift */; };
+		6659ED222DAC0062003EAB20 /* ScaleButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EADC2DAC005B003EAB20 /* ScaleButtonStyle.swift */; };
+		6659ED232DAC0062003EAB20 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EADD2DAC005B003EAB20 /* Home.swift */; };
+		6659ED242DAC0062003EAB20 /*  SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EADE2DAC005B003EAB20 /*  SceneDelegate.swift */; };
+		6659ED252DAC0062003EAB20 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EADF2DAC005B003EAB20 /* AppDelegate.swift */; };
+		6659ED262DAC0062003EAB20 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAE02DAC005B003EAB20 /* ContentView.swift */; };
+		6659ED282DAC0062003EAB20 /* ZikrDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAE32DAC005B003EAB20 /* ZikrDetailView.swift */; };
+		6659ED292DAC0062003EAB20 /* ZikrSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAE42DAC005B003EAB20 /* ZikrSettingsView.swift */; };
+		6659ED2A2DAC0062003EAB20 /* SideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAE52DAC005B003EAB20 /* SideMenu.swift */; };
+		6659ED2B2DAC0062003EAB20 /* StatisticsDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAE62DAC005B003EAB20 /* StatisticsDetailView.swift */; };
+		6659ED2C2DAC0062003EAB20 /* CustomButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAE82DAC005B003EAB20 /* CustomButtons.swift */; };
+		6659ED2D2DAC0062003EAB20 /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAE92DAC005B003EAB20 /* BlurView.swift */; };
+		6659ED2E2DAC0062003EAB20 /* ZikrFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAEA2DAC005B003EAB20 /* ZikrFooterView.swift */; };
+		6659ED2F2DAC0062003EAB20 /* TabItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAEB2DAC005B003EAB20 /* TabItem.swift */; };
+		6659ED302DAC0062003EAB20 /* CircleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAEC2DAC005B003EAB20 /* CircleButton.swift */; };
+		6659ED312DAC0062003EAB20 /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAED2DAC005B003EAB20 /* CustomTabBar.swift */; };
+		6659ED322DAC0062003EAB20 /* ButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAEE2DAC005B003EAB20 /* ButtonStyle.swift */; };
+		6659ED332DAC0062003EAB20 /* Zikr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAF02DAC005B003EAB20 /* Zikr.swift */; };
+		6659ED342DAC0062003EAB20 /* city.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAF12DAC005C003EAB20 /* city.swift */; };
+		6659ED352DAC0062003EAB20 /* PrayerTimesResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAF22DAC005C003EAB20 /* PrayerTimesResponse.swift */; };
+		6659ED362DAC0062003EAB20 /* AppColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAF32DAC005C003EAB20 /* AppColor.swift */; };
+		6659ED372DAC0062003EAB20 /* PrayerTimesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAF42DAC005C003EAB20 /* PrayerTimesManager.swift */; };
+		6659ED382DAC0062003EAB20 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAF52DAC005C003EAB20 /* Tab.swift */; };
+		6659ED392DAC0062003EAB20 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAF62DAC005C003EAB20 /* LocationManager.swift */; };
+		6659ED3A2DAC0062003EAB20 /* AzkarCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EAF72DAC005C003EAB20 /* AzkarCategory.swift */; };
+		6659EF322DAC0063003EAB20 /* CounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED062DAC0062003EAB20 /* CounterView.swift */; };
+		6659EF332DAC0063003EAB20 /* ZikrCounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED072DAC0062003EAB20 /* ZikrCounterView.swift */; };
+		6659EF342DAC0063003EAB20 /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED082DAC0062003EAB20 /* ActivityView.swift */; };
+		6659EF362DAC0063003EAB20 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED0B2DAC0062003EAB20 /* SettingsView.swift */; };
+		6659EF372DAC0063003EAB20 /* AdvancedStatisticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED0C2DAC0062003EAB20 /* AdvancedStatisticsView.swift */; };
+		6659EF382DAC0063003EAB20 /* PrayerTimesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED0D2DAC0062003EAB20 /* PrayerTimesView.swift */; };
+		6659EF392DAC0063003EAB20 /* CityPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED0E2DAC0062003EAB20 /* CityPickerView.swift */; };
+		6659EF3A2DAC0063003EAB20 /* SupportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED0F2DAC0062003EAB20 /* SupportView.swift */; };
+		6659EF3B2DAC0063003EAB20 /* AzkarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED102DAC0062003EAB20 /* AzkarView.swift */; };
+		6659EF432DAC0063003EAB20 /* ZikrCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED1C2DAC0062003EAB20 /* ZikrCardView.swift */; };
+		6659EF442DAC0063003EAB20 /* StatCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED1D2DAC0062003EAB20 /* StatCard.swift */; };
+		6659EF452DAC0063003EAB20 /* PieSliceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED1E2DAC0062003EAB20 /* PieSliceView.swift */; };
+		6659EF462DAC0063003EAB20 /* PrayerCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED1F2DAC0062003EAB20 /* PrayerCardView.swift */; };
+		6659EF472DAC0063003EAB20 /* PieChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659ED202DAC0062003EAB20 /* PieChartView.swift */; };
+		6659EF4A2DAC014D003EAB20 /* Adhan in Frameworks */ = {isa = PBXBuildFile; productRef = 6659EF492DAC014D003EAB20 /* Adhan */; };
+		6659EF4B2DAC0372003EAB20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6659EAF82DAC005C003EAB20 /* Assets.xcassets */; };
+		6659EF4C2DAC0383003EAB20 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6659EAFA2DAC005C003EAB20 /* Preview Assets.xcassets */; };
+		6659EF4D2DAC038E003EAB20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6659EAE12DAC005B003EAB20 /* LaunchScreen.storyboard */; };
 		665C948F2D9FF6810094F0D2 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 665C948E2D9FF6810094F0D2 /* StoreKit.framework */; };
-		66827E832DA1394D00CBB124 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66827E822DA1394D00CBB124 /* LaunchScreen.storyboard */; };
-		66827E862DA164B300CBB124 /* Adhan in Frameworks */ = {isa = PBXBuildFile; productRef = 66827E852DA164B300CBB124 /* Adhan */; };
-		66C1AEBD2D8C181E00AC36A6 /* Tasbeeh+ | تسبيح.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC792D8C181A00AC36A6 /* Tasbeeh+ | تسبيح.swift */; };
-		66C1AEBE2D8C181E00AC36A6 /* ScaleButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC7A2D8C181A00AC36A6 /* ScaleButtonStyle.swift */; };
-		66C1AEBF2D8C181E00AC36A6 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC7B2D8C181A00AC36A6 /* Home.swift */; };
-		66C1AEC02D8C181E00AC36A6 /*  SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC7C2D8C181A00AC36A6 /*  SceneDelegate.swift */; };
-		66C1AEC12D8C181E00AC36A6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC7D2D8C181A00AC36A6 /* AppDelegate.swift */; };
-		66C1AEC22D8C181E00AC36A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC7E2D8C181A00AC36A6 /* ContentView.swift */; };
-		66C1AEC32D8C181E00AC36A6 /* ZikrDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC802D8C181A00AC36A6 /* ZikrDetailView.swift */; };
-		66C1AEC42D8C181E00AC36A6 /* ZikrSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC812D8C181A00AC36A6 /* ZikrSettingsView.swift */; };
-		66C1AEC52D8C181E00AC36A6 /* SideMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC822D8C181A00AC36A6 /* SideMenu.swift */; };
-		66C1AEC62D8C181E00AC36A6 /* StatisticsDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC832D8C181A00AC36A6 /* StatisticsDetailView.swift */; };
-		66C1AEC72D8C181E00AC36A6 /* CustomButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC852D8C181B00AC36A6 /* CustomButtons.swift */; };
-		66C1AEC82D8C181E00AC36A6 /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC862D8C181B00AC36A6 /* BlurView.swift */; };
-		66C1AEC92D8C181E00AC36A6 /* ZikrFooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC872D8C181B00AC36A6 /* ZikrFooterView.swift */; };
-		66C1AECA2D8C181E00AC36A6 /* TabItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC882D8C181B00AC36A6 /* TabItem.swift */; };
-		66C1AECB2D8C181E00AC36A6 /* CircleButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC892D8C181B00AC36A6 /* CircleButton.swift */; };
-		66C1AECC2D8C181E00AC36A6 /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC8A2D8C181B00AC36A6 /* CustomTabBar.swift */; };
-		66C1AECD2D8C181E00AC36A6 /* ButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC8B2D8C181B00AC36A6 /* ButtonStyle.swift */; };
-		66C1AECE2D8C181E00AC36A6 /* Zikr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC8D2D8C181B00AC36A6 /* Zikr.swift */; };
-		66C1AECF2D8C181E00AC36A6 /* city.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC8E2D8C181B00AC36A6 /* city.swift */; };
-		66C1AED02D8C181E00AC36A6 /* PrayerTimesResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC8F2D8C181B00AC36A6 /* PrayerTimesResponse.swift */; };
-		66C1AED12D8C181E00AC36A6 /* AppColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC902D8C181B00AC36A6 /* AppColor.swift */; };
-		66C1AED22D8C181E00AC36A6 /* PrayerTimesManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC912D8C181B00AC36A6 /* PrayerTimesManager.swift */; };
-		66C1AED32D8C181E00AC36A6 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC922D8C181B00AC36A6 /* Tab.swift */; };
-		66C1AED42D8C181E00AC36A6 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC932D8C181B00AC36A6 /* LocationManager.swift */; };
-		66C1AED52D8C181E00AC36A6 /* AzkarCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AC942D8C181B00AC36A6 /* AzkarCategory.swift */; };
-		66C1B0CD2D8C181F00AC36A6 /* CounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEA32D8C181E00AC36A6 /* CounterView.swift */; };
-		66C1B0CE2D8C181F00AC36A6 /* ZikrCounterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEA42D8C181E00AC36A6 /* ZikrCounterView.swift */; };
-		66C1B0CF2D8C181F00AC36A6 /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEA52D8C181E00AC36A6 /* ActivityView.swift */; };
-		66C1B0D02D8C182000AC36A6 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEA72D8C181E00AC36A6 /* SettingsView.swift */; };
-		66C1B0D12D8C182000AC36A6 /* AdvancedStatisticsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEA82D8C181E00AC36A6 /* AdvancedStatisticsView.swift */; };
-		66C1B0D22D8C182000AC36A6 /* PrayerTimesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEA92D8C181E00AC36A6 /* PrayerTimesView.swift */; };
-		66C1B0D32D8C182000AC36A6 /* CityPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEAA2D8C181E00AC36A6 /* CityPickerView.swift */; };
-		66C1B0D42D8C182000AC36A6 /* SupportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEAB2D8C181E00AC36A6 /* SupportView.swift */; };
-		66C1B0D52D8C182000AC36A6 /* AzkarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEAC2D8C181E00AC36A6 /* AzkarView.swift */; };
-		66C1B0DD2D8C182000AC36A6 /* ZikrCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEB82D8C181E00AC36A6 /* ZikrCardView.swift */; };
-		66C1B0DE2D8C182000AC36A6 /* StatCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEB92D8C181E00AC36A6 /* StatCard.swift */; };
-		66C1B0DF2D8C182000AC36A6 /* PieSliceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEBA2D8C181E00AC36A6 /* PieSliceView.swift */; };
-		66C1B0E02D8C182000AC36A6 /* PrayerCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEBB2D8C181E00AC36A6 /* PrayerCardView.swift */; };
-		66C1B0E12D8C182000AC36A6 /* PieChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C1AEBC2D8C181E00AC36A6 /* PieChartView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -67,52 +67,560 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		66516CB02D9663DC00429FFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		665AD89C2D9A99E900B65AA9 /* Contents.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		6659EADB2DAC005B003EAB20 /* Tasbeeh+ | تسبيح.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Tasbeeh+ | تسبيح.swift"; sourceTree = "<group>"; };
+		6659EADC2DAC005B003EAB20 /* ScaleButtonStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScaleButtonStyle.swift; sourceTree = "<group>"; };
+		6659EADD2DAC005B003EAB20 /* Home.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		6659EADE2DAC005B003EAB20 /*  SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = " SceneDelegate.swift"; sourceTree = "<group>"; };
+		6659EADF2DAC005B003EAB20 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6659EAE02DAC005B003EAB20 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		6659EAE12DAC005B003EAB20 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		6659EAE32DAC005B003EAB20 /* ZikrDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrDetailView.swift; sourceTree = "<group>"; };
+		6659EAE42DAC005B003EAB20 /* ZikrSettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrSettingsView.swift; sourceTree = "<group>"; };
+		6659EAE52DAC005B003EAB20 /* SideMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideMenu.swift; sourceTree = "<group>"; };
+		6659EAE62DAC005B003EAB20 /* StatisticsDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatisticsDetailView.swift; sourceTree = "<group>"; };
+		6659EAE82DAC005B003EAB20 /* CustomButtons.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButtons.swift; sourceTree = "<group>"; };
+		6659EAE92DAC005B003EAB20 /* BlurView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurView.swift; sourceTree = "<group>"; };
+		6659EAEA2DAC005B003EAB20 /* ZikrFooterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrFooterView.swift; sourceTree = "<group>"; };
+		6659EAEB2DAC005B003EAB20 /* TabItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabItem.swift; sourceTree = "<group>"; };
+		6659EAEC2DAC005B003EAB20 /* CircleButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleButton.swift; sourceTree = "<group>"; };
+		6659EAED2DAC005B003EAB20 /* CustomTabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
+		6659EAEE2DAC005B003EAB20 /* ButtonStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonStyle.swift; sourceTree = "<group>"; };
+		6659EAF02DAC005B003EAB20 /* Zikr.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Zikr.swift; sourceTree = "<group>"; };
+		6659EAF12DAC005C003EAB20 /* city.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = city.swift; sourceTree = "<group>"; };
+		6659EAF22DAC005C003EAB20 /* PrayerTimesResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerTimesResponse.swift; sourceTree = "<group>"; };
+		6659EAF32DAC005C003EAB20 /* AppColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppColor.swift; sourceTree = "<group>"; };
+		6659EAF42DAC005C003EAB20 /* PrayerTimesManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerTimesManager.swift; sourceTree = "<group>"; };
+		6659EAF52DAC005C003EAB20 /* Tab.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
+		6659EAF62DAC005C003EAB20 /* LocationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		6659EAF72DAC005C003EAB20 /* AzkarCategory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AzkarCategory.swift; sourceTree = "<group>"; };
+		6659EAF82DAC005C003EAB20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6659EAFA2DAC005C003EAB20 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6659EAFC2DAC005C003EAB20 /* ObjectiveC-1PFLLQ4DPY1HG.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ObjectiveC-1PFLLQ4DPY1HG.swiftmodule"; sourceTree = "<group>"; };
+		6659EAFE2DAC005C003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EAFF2DAC005C003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659EB002DAC005C003EAB20 /* DeveloperToolsSupport-36XENWZ6OLD1R.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "DeveloperToolsSupport-36XENWZ6OLD1R.swiftmodule"; sourceTree = "<group>"; };
+		6659EB012DAC005C003EAB20 /* Session.modulevalidation */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Session.modulevalidation; sourceTree = "<group>"; };
+		6659EB022DAC005C003EAB20 /* Metal-24JIDJVJYKZRH.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Metal-24JIDJVJYKZRH.swiftmodule"; sourceTree = "<group>"; };
+		6659EB042DAC005C003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "_Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EB052DAC005C003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB062DAC005C003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659EB082DAC005C003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ptrauth-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EB092DAC005C003EAB20 /* MachO-39EABXW17V9L4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MachO-39EABXW17V9L4.pcm"; sourceTree = "<group>"; };
+		6659EB0A2DAC005C003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB0B2DAC005C003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ObjectiveC-1R06XOY9T4FIM.pcm"; sourceTree = "<group>"; };
+		6659EB0C2DAC005C003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_workgroup-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB0D2DAC005C003EAB20 /* nanopb-38DDRJA73GMV7.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nanopb-38DDRJA73GMV7.pcm"; sourceTree = "<group>"; };
+		6659EB0E2DAC005C003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm"; sourceTree = "<group>"; };
+		6659EB0F2DAC005C003EAB20 /* os_object-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_object-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB102DAC005C003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659EB112DAC005C003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dispatch-2LX9MWM6UEPQW.pcm"; sourceTree = "<group>"; };
+		6659EB122DAC005C003EAB20 /* QuartzCore-11WKVCN2QDPNP.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "QuartzCore-11WKVCN2QDPNP.swiftmodule"; sourceTree = "<group>"; };
+		6659EB132DAC005C003EAB20 /* ActivityKit-12MCGSAQY8VMI.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ActivityKit-12MCGSAQY8VMI.swiftmodule"; sourceTree = "<group>"; };
+		6659EB152DAC005C003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "_Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EB162DAC005C003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB172DAC005C003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659EB182DAC005C003EAB20 /* _Builtin_intrinsics-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "_Builtin_intrinsics-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EB192DAC005C003EAB20 /* OSLog-37V2ITU580OE3.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "OSLog-37V2ITU580OE3.swiftmodule"; sourceTree = "<group>"; };
+		6659EB1B2DAC005C003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ptrauth-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EB1C2DAC005C003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CFNetwork-3188M7OK0JW08.pcm"; sourceTree = "<group>"; };
+		6659EB1D2DAC005C003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB1E2DAC005C003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ObjectiveC-1R06XOY9T4FIM.pcm"; sourceTree = "<group>"; };
+		6659EB1F2DAC005C003EAB20 /* Security-27ZMYP8CODFT0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Security-27ZMYP8CODFT0.pcm"; sourceTree = "<group>"; };
+		6659EB202DAC005C003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_workgroup-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB212DAC005C003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm"; sourceTree = "<group>"; };
+		6659EB222DAC005C003EAB20 /* os_object-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_object-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB232DAC005C003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659EB242DAC005C003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Foundation-3DFYNEBRQSXST.pcm"; sourceTree = "<group>"; };
+		6659EB252DAC005C003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dispatch-2LX9MWM6UEPQW.pcm"; sourceTree = "<group>"; };
+		6659EB262DAC005C003EAB20 /* SwiftUI-1WOTF35PIPRJ6.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "SwiftUI-1WOTF35PIPRJ6.swiftmodule"; sourceTree = "<group>"; };
+		6659EB272DAC005C003EAB20 /* _Concurrency-QENZZ2LRYPW7.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "_Concurrency-QENZZ2LRYPW7.swiftmodule"; sourceTree = "<group>"; };
+		6659EB292DAC005C003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ptrauth-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EB2A2DAC005C003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "QuartzCore-23I9VTX2KZMTH.pcm"; sourceTree = "<group>"; };
+		6659EB2B2DAC005C003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UIKit-1V5UHAPTOD24G.pcm"; sourceTree = "<group>"; };
+		6659EB2C2DAC005C003EAB20 /* zlib-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "zlib-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB2D2DAC005C003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreGraphics-54UV9QOCX3ZY.pcm"; sourceTree = "<group>"; };
+		6659EB2E2DAC005C003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenGLES-MDRMEQ3COFKY.pcm"; sourceTree = "<group>"; };
+		6659EB2F2DAC005C003EAB20 /* Metal-UMHL2WVYX9T4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metal-UMHL2WVYX9T4.pcm"; sourceTree = "<group>"; };
+		6659EB302DAC005C003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreImage-2L8M44C0CYIPM.pcm"; sourceTree = "<group>"; };
+		6659EB312DAC005C003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CFNetwork-3188M7OK0JW08.pcm"; sourceTree = "<group>"; };
+		6659EB322DAC005C003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB332DAC005C003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreVideo-1MLDN391V99P4.pcm"; sourceTree = "<group>"; };
+		6659EB342DAC005C003EAB20 /* SystemConfiguration-354UAJE49HRJF.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SystemConfiguration-354UAJE49HRJF.pcm"; sourceTree = "<group>"; };
+		6659EB352DAC005C003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UserNotifications-2WSP49G9OSOCW.pcm"; sourceTree = "<group>"; };
+		6659EB362DAC005C003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ObjectiveC-1R06XOY9T4FIM.pcm"; sourceTree = "<group>"; };
+		6659EB372DAC005C003EAB20 /* CoreText-3W9A51BO0R6G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreText-3W9A51BO0R6G.pcm"; sourceTree = "<group>"; };
+		6659EB382DAC005C003EAB20 /* Security-27ZMYP8CODFT0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Security-27ZMYP8CODFT0.pcm"; sourceTree = "<group>"; };
+		6659EB392DAC005C003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FileProvider-1OMUUHYDP2DYB.pcm"; sourceTree = "<group>"; };
+		6659EB3A2DAC005C003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_workgroup-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB3B2DAC005C003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IOSurface-2NV0LTM1HC45.pcm"; sourceTree = "<group>"; };
+		6659EB3C2DAC005C003EAB20 /* ImageIO-YVI44K06S0WO.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ImageIO-YVI44K06S0WO.pcm"; sourceTree = "<group>"; };
+		6659EB3D2DAC005C003EAB20 /* nanopb-38DDRJA73GMV7.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nanopb-38DDRJA73GMV7.pcm"; sourceTree = "<group>"; };
+		6659EB3E2DAC005C003EAB20 /* FBLPromises-2WQRRTGRYB940.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FBLPromises-2WQRRTGRYB940.pcm"; sourceTree = "<group>"; };
+		6659EB3F2DAC005C003EAB20 /* CoreTelephony-6O0UP606QVMK.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreTelephony-6O0UP606QVMK.pcm"; sourceTree = "<group>"; };
+		6659EB402DAC005C003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm"; sourceTree = "<group>"; };
+		6659EB412DAC005C003EAB20 /* os_object-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_object-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB422DAC005C003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659EB432DAC005C003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Foundation-3DFYNEBRQSXST.pcm"; sourceTree = "<group>"; };
+		6659EB442DAC005C003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dispatch-2LX9MWM6UEPQW.pcm"; sourceTree = "<group>"; };
+		6659EB452DAC005C003EAB20 /* GoogleUtilities_Environment-1SP2MC4AB71F8.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_Environment-1SP2MC4AB71F8.pcm"; sourceTree = "<group>"; };
+		6659EB472DAC005C003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ptrauth-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EB482DAC005C003EAB20 /* GLKit-1LWCSEMZSA41Q.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GLKit-1LWCSEMZSA41Q.pcm"; sourceTree = "<group>"; };
+		6659EB492DAC005C003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "QuartzCore-23I9VTX2KZMTH.pcm"; sourceTree = "<group>"; };
+		6659EB4A2DAC005C003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UIKit-1V5UHAPTOD24G.pcm"; sourceTree = "<group>"; };
+		6659EB4B2DAC005C003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseCore-3FLI14I3M8QBJ.pcm"; sourceTree = "<group>"; };
+		6659EB4C2DAC005D003EAB20 /* MachO-39EABXW17V9L4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MachO-39EABXW17V9L4.pcm"; sourceTree = "<group>"; };
+		6659EB4D2DAC005D003EAB20 /* CoreMedia-3JTCZ41S8BKUD.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreMedia-3JTCZ41S8BKUD.pcm"; sourceTree = "<group>"; };
+		6659EB4E2DAC005D003EAB20 /* zlib-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "zlib-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB4F2DAC005D003EAB20 /* third_party_IsAppEncrypted-377NM00TNEVYU.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "third_party_IsAppEncrypted-377NM00TNEVYU.pcm"; sourceTree = "<group>"; };
+		6659EB502DAC005D003EAB20 /* Contacts-18D9VF9RLRYYK.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Contacts-18D9VF9RLRYYK.pcm"; sourceTree = "<group>"; };
+		6659EB512DAC005D003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreGraphics-54UV9QOCX3ZY.pcm"; sourceTree = "<group>"; };
+		6659EB522DAC005D003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenGLES-MDRMEQ3COFKY.pcm"; sourceTree = "<group>"; };
+		6659EB532DAC005D003EAB20 /* Metal-UMHL2WVYX9T4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metal-UMHL2WVYX9T4.pcm"; sourceTree = "<group>"; };
+		6659EB542DAC005D003EAB20 /* AuthenticationServices-3PPXEBZPHZNV6.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AuthenticationServices-3PPXEBZPHZNV6.pcm"; sourceTree = "<group>"; };
+		6659EB552DAC005D003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreImage-2L8M44C0CYIPM.pcm"; sourceTree = "<group>"; };
+		6659EB562DAC005D003EAB20 /* CoreServices-30YOR7JH6ZXMB.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreServices-30YOR7JH6ZXMB.pcm"; sourceTree = "<group>"; };
+		6659EB572DAC005D003EAB20 /* UniformTypeIdentifiers-1VETKEPRAWW2V.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UniformTypeIdentifiers-1VETKEPRAWW2V.pcm"; sourceTree = "<group>"; };
+		6659EB582DAC005D003EAB20 /* MediaToolbox-3N6MLXYI7H98P.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MediaToolbox-3N6MLXYI7H98P.pcm"; sourceTree = "<group>"; };
+		6659EB592DAC005D003EAB20 /* simd-3V2MLXFFX3BH.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "simd-3V2MLXFFX3BH.pcm"; sourceTree = "<group>"; };
+		6659EB5A2DAC005D003EAB20 /* GameController-349WYKBWKHW2O.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GameController-349WYKBWKHW2O.pcm"; sourceTree = "<group>"; };
+		6659EB5B2DAC005D003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CFNetwork-3188M7OK0JW08.pcm"; sourceTree = "<group>"; };
+		6659EB5C2DAC005D003EAB20 /* GTMSessionFetcherCore-2HEVODT396WA7.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GTMSessionFetcherCore-2HEVODT396WA7.pcm"; sourceTree = "<group>"; };
+		6659EB5D2DAC005D003EAB20 /* FirebaseABTesting-3TKEST9ET884Y.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseABTesting-3TKEST9ET884Y.pcm"; sourceTree = "<group>"; };
+		6659EB5E2DAC005D003EAB20 /* WebKit-18VDYZKXRX7YI.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WebKit-18VDYZKXRX7YI.pcm"; sourceTree = "<group>"; };
+		6659EB5F2DAC005D003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB602DAC005D003EAB20 /* GoogleUtilities_Network-5360P7G9HDXZ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_Network-5360P7G9HDXZ.pcm"; sourceTree = "<group>"; };
+		6659EB612DAC005D003EAB20 /* FirebaseInstallations-B6LF3BE99NTJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseInstallations-B6LF3BE99NTJ.pcm"; sourceTree = "<group>"; };
+		6659EB622DAC005D003EAB20 /* SceneKit-3DRNHHSI1UI0S.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SceneKit-3DRNHHSI1UI0S.pcm"; sourceTree = "<group>"; };
+		6659EB632DAC005D003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreVideo-1MLDN391V99P4.pcm"; sourceTree = "<group>"; };
+		6659EB642DAC005D003EAB20 /* CoreMIDI-2OV5TK5CIMZXQ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreMIDI-2OV5TK5CIMZXQ.pcm"; sourceTree = "<group>"; };
+		6659EB652DAC005D003EAB20 /* CoreAudio-DU322UQPMITA.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreAudio-DU322UQPMITA.pcm"; sourceTree = "<group>"; };
+		6659EB662DAC005D003EAB20 /* ModelIO-3Q15989AJK0IF.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ModelIO-3Q15989AJK0IF.pcm"; sourceTree = "<group>"; };
+		6659EB672DAC005D003EAB20 /* AVFoundation-2W8OQOO5E005V.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AVFoundation-2W8OQOO5E005V.pcm"; sourceTree = "<group>"; };
+		6659EB682DAC005D003EAB20 /* SystemConfiguration-354UAJE49HRJF.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SystemConfiguration-354UAJE49HRJF.pcm"; sourceTree = "<group>"; };
+		6659EB692DAC005D003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UserNotifications-2WSP49G9OSOCW.pcm"; sourceTree = "<group>"; };
+		6659EB6A2DAC005D003EAB20 /* MobileCoreServices-3PK2VQ0R2SYLI.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MobileCoreServices-3PK2VQ0R2SYLI.pcm"; sourceTree = "<group>"; };
+		6659EB6B2DAC005D003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ObjectiveC-1R06XOY9T4FIM.pcm"; sourceTree = "<group>"; };
+		6659EB6C2DAC005D003EAB20 /* CoreText-3W9A51BO0R6G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreText-3W9A51BO0R6G.pcm"; sourceTree = "<group>"; };
+		6659EB6D2DAC005D003EAB20 /* Security-27ZMYP8CODFT0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Security-27ZMYP8CODFT0.pcm"; sourceTree = "<group>"; };
+		6659EB6E2DAC005D003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FileProvider-1OMUUHYDP2DYB.pcm"; sourceTree = "<group>"; };
+		6659EB6F2DAC005D003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_workgroup-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB702DAC005D003EAB20 /* GoogleUtilities_MethodSwizzler-8V6N272T1IB8.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_MethodSwizzler-8V6N272T1IB8.pcm"; sourceTree = "<group>"; };
+		6659EB712DAC005D003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IOSurface-2NV0LTM1HC45.pcm"; sourceTree = "<group>"; };
+		6659EB722DAC005D003EAB20 /* ReplayKit-L54QE14NAMDD.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ReplayKit-L54QE14NAMDD.pcm"; sourceTree = "<group>"; };
+		6659EB732DAC005D003EAB20 /* AVFAudio-10ERHHW4LJP37.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AVFAudio-10ERHHW4LJP37.pcm"; sourceTree = "<group>"; };
+		6659EB742DAC005D003EAB20 /* GameKit-19E2QQ1K19JA4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GameKit-19E2QQ1K19JA4.pcm"; sourceTree = "<group>"; };
+		6659EB752DAC005D003EAB20 /* CoreAudioTypes-XFXLG6SQQAFJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreAudioTypes-XFXLG6SQQAFJ.pcm"; sourceTree = "<group>"; };
+		6659EB762DAC005D003EAB20 /* CommonCrypto-3IJ2UQT7UNSLI.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CommonCrypto-3IJ2UQT7UNSLI.pcm"; sourceTree = "<group>"; };
+		6659EB772DAC005D003EAB20 /* ImageIO-YVI44K06S0WO.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ImageIO-YVI44K06S0WO.pcm"; sourceTree = "<group>"; };
+		6659EB782DAC005D003EAB20 /* FBLPromises-2WQRRTGRYB940.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FBLPromises-2WQRRTGRYB940.pcm"; sourceTree = "<group>"; };
+		6659EB792DAC005D003EAB20 /* CoreTelephony-6O0UP606QVMK.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreTelephony-6O0UP606QVMK.pcm"; sourceTree = "<group>"; };
+		6659EB7A2DAC005D003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm"; sourceTree = "<group>"; };
+		6659EB7B2DAC005D003EAB20 /* SQLite3-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SQLite3-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB7C2DAC005D003EAB20 /* GameplayKit-S4IVGYFNGN0P.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GameplayKit-S4IVGYFNGN0P.pcm"; sourceTree = "<group>"; };
+		6659EB7D2DAC005D003EAB20 /* asl-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "asl-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB7E2DAC005D003EAB20 /* os_object-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_object-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EB7F2DAC005D003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659EB802DAC005D003EAB20 /* GoogleUtilities_NSData-1JKHMBQA49BW6.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_NSData-1JKHMBQA49BW6.pcm"; sourceTree = "<group>"; };
+		6659EB812DAC005D003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Foundation-3DFYNEBRQSXST.pcm"; sourceTree = "<group>"; };
+		6659EB822DAC005D003EAB20 /* GoogleUtilities_AppDelegateSwizzler-2JGDKDZC0O3J5.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_AppDelegateSwizzler-2JGDKDZC0O3J5.pcm"; sourceTree = "<group>"; };
+		6659EB832DAC005D003EAB20 /* GoogleUtilities_Reachability-1MIZAUMZ8YJ1Y.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_Reachability-1MIZAUMZ8YJ1Y.pcm"; sourceTree = "<group>"; };
+		6659EB842DAC005D003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dispatch-2LX9MWM6UEPQW.pcm"; sourceTree = "<group>"; };
+		6659EB852DAC005D003EAB20 /* GoogleUtilities_UserDefaults-2B48RKJNCIOO0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_UserDefaults-2B48RKJNCIOO0.pcm"; sourceTree = "<group>"; };
+		6659EB862DAC005D003EAB20 /* GoogleUtilities_Environment-1SP2MC4AB71F8.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_Environment-1SP2MC4AB71F8.pcm"; sourceTree = "<group>"; };
+		6659EB872DAC005D003EAB20 /* AudioToolbox-29TRZLCW5QLKV.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "AudioToolbox-29TRZLCW5QLKV.pcm"; sourceTree = "<group>"; };
+		6659EB882DAC005D003EAB20 /* DeviceCheck-29H0DNAYHI7FD.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DeviceCheck-29H0DNAYHI7FD.pcm"; sourceTree = "<group>"; };
+		6659EB892DAC005D003EAB20 /* SafariServices-RKLF0CKN09BZ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SafariServices-RKLF0CKN09BZ.pcm"; sourceTree = "<group>"; };
+		6659EB8A2DAC005D003EAB20 /* _Builtin_intrinsics-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "_Builtin_intrinsics-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EB8B2DAC005D003EAB20 /* SpriteKit-2PAQN8TKSP6YS.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SpriteKit-2PAQN8TKSP6YS.pcm"; sourceTree = "<group>"; };
+		6659EB8C2DAC005D003EAB20 /* ICU-B85MI90IFS37.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ICU-B85MI90IFS37.pcm"; sourceTree = "<group>"; };
+		6659EB8D2DAC005D003EAB20 /* GoogleUtilities_Logger-1DJOUGE6Q02Q2.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_Logger-1DJOUGE6Q02Q2.pcm"; sourceTree = "<group>"; };
+		6659EB8E2DAC005D003EAB20 /* os-2QVE5FFF0R4IP.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "os-2QVE5FFF0R4IP.swiftmodule"; sourceTree = "<group>"; };
+		6659EB8F2DAC005D003EAB20 /* CoreFoundation-31HXL8WXTRM7.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreFoundation-31HXL8WXTRM7.swiftmodule"; sourceTree = "<group>"; };
+		6659EB902DAC005D003EAB20 /* FileProvider-HMPND8YWTKCI.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "FileProvider-HMPND8YWTKCI.swiftmodule"; sourceTree = "<group>"; };
+		6659EB922DAC005D003EAB20 /* MachO-39EABXW17V9L4.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "MachO-39EABXW17V9L4.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EB932DAC005D003EAB20 /* ActivityKit-1J45PB5RYP8DB.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ActivityKit-1J45PB5RYP8DB.pcm"; sourceTree = "<group>"; };
+		6659EB942DAC005D003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ptrauth-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EB952DAC005D003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "UserNotifications-2WSP49G9OSOCW.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EB962DAC005D003EAB20 /* Metal-UMHL2WVYX9T4.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Metal-UMHL2WVYX9T4.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EB972DAC005D003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "QuartzCore-23I9VTX2KZMTH.pcm"; sourceTree = "<group>"; };
+		6659EB982DAC005D003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "QuartzCore-23I9VTX2KZMTH.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EB992DAC005D003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UIKit-1V5UHAPTOD24G.pcm"; sourceTree = "<group>"; };
+		6659EB9A2DAC005D003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseCore-3FLI14I3M8QBJ.pcm"; sourceTree = "<group>"; };
+		6659EB9B2DAC005D003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "_Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EB9C2DAC005D003EAB20 /* MachO-39EABXW17V9L4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MachO-39EABXW17V9L4.pcm"; sourceTree = "<group>"; };
+		6659EB9D2DAC005D003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "OpenGLES-MDRMEQ3COFKY.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EB9E2DAC005D003EAB20 /* Intents-3PCQXSPZ610TZ.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Intents-3PCQXSPZ610TZ.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EB9F2DAC005D003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreGraphics-54UV9QOCX3ZY.pcm"; sourceTree = "<group>"; };
+		6659EBA02DAC005D003EAB20 /* CoreLocation-2RB9TGORWT0YQ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreLocation-2RB9TGORWT0YQ.pcm"; sourceTree = "<group>"; };
+		6659EBA12DAC005E003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenGLES-MDRMEQ3COFKY.pcm"; sourceTree = "<group>"; };
+		6659EBA22DAC005E003EAB20 /* Metal-UMHL2WVYX9T4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metal-UMHL2WVYX9T4.pcm"; sourceTree = "<group>"; };
+		6659EBA32DAC005E003EAB20 /* SwiftOverlayShims-2TTN5UXQBRCCQ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SwiftOverlayShims-2TTN5UXQBRCCQ.pcm"; sourceTree = "<group>"; };
+		6659EBA42DAC005E003EAB20 /* DataDetection-3HVFFRE0ACGRS.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DataDetection-3HVFFRE0ACGRS.pcm"; sourceTree = "<group>"; };
+		6659EBA52DAC005E003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ptrauth-2BO8AI7X08ED1.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBA62DAC005E003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreImage-2L8M44C0CYIPM.pcm"; sourceTree = "<group>"; };
+		6659EBA72DAC005E003EAB20 /* UIKit-1V5UHAPTOD24G.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "UIKit-1V5UHAPTOD24G.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBA82DAC005E003EAB20 /* CoreTransferable-2TQQO0TXGR13Z.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreTransferable-2TQQO0TXGR13Z.pcm"; sourceTree = "<group>"; };
+		6659EBA92DAC005E003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreImage-2L8M44C0CYIPM.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBAA2DAC005E003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ObjectiveC-1R06XOY9T4FIM.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBAB2DAC005E003EAB20 /* Foundation-3DFYNEBRQSXST.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Foundation-3DFYNEBRQSXST.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBAC2DAC005E003EAB20 /* SwiftOverlayShims-2TTN5UXQBRCCQ.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "SwiftOverlayShims-2TTN5UXQBRCCQ.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBAD2DAC005E003EAB20 /* CoreData-3VNVLAYFWQNJA.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreData-3VNVLAYFWQNJA.pcm"; sourceTree = "<group>"; };
+		6659EBAE2DAC005E003EAB20 /* UniformTypeIdentifiers-1VETKEPRAWW2V.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UniformTypeIdentifiers-1VETKEPRAWW2V.pcm"; sourceTree = "<group>"; };
+		6659EBAF2DAC005E003EAB20 /* IOSurface-2NV0LTM1HC45.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "IOSurface-2NV0LTM1HC45.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBB02DAC005E003EAB20 /* Accessibility-2TQG3QLJXQM83.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Accessibility-2TQG3QLJXQM83.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBB12DAC005E003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "_Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBB22DAC005E003EAB20 /* ActivityKit-1J45PB5RYP8DB.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ActivityKit-1J45PB5RYP8DB.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBB32DAC005E003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CFNetwork-3188M7OK0JW08.pcm"; sourceTree = "<group>"; };
+		6659EBB42DAC005E003EAB20 /* os-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EBB52DAC005E003EAB20 /* CoreLocation-2RB9TGORWT0YQ.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreLocation-2RB9TGORWT0YQ.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBB62DAC005E003EAB20 /* Security-27ZMYP8CODFT0.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Security-27ZMYP8CODFT0.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBB72DAC005E003EAB20 /* OSLog-28YIHDACFO0RL.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "OSLog-28YIHDACFO0RL.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBB82DAC005E003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EBB92DAC005E003EAB20 /* CoreText-3W9A51BO0R6G.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreText-3W9A51BO0R6G.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBBA2DAC005E003EAB20 /* Accessibility-2TQG3QLJXQM83.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Accessibility-2TQG3QLJXQM83.pcm"; sourceTree = "<group>"; };
+		6659EBBB2DAC005E003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreVideo-1MLDN391V99P4.pcm"; sourceTree = "<group>"; };
+		6659EBBC2DAC005E003EAB20 /* DataDetection-3HVFFRE0ACGRS.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "DataDetection-3HVFFRE0ACGRS.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBBD2DAC005E003EAB20 /* OSLog-28YIHDACFO0RL.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OSLog-28YIHDACFO0RL.pcm"; sourceTree = "<group>"; };
+		6659EBBE2DAC005E003EAB20 /* CFNetwork-3188M7OK0JW08.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CFNetwork-3188M7OK0JW08.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBBF2DAC005E003EAB20 /* SwiftShims-2TTN5UXQBRCCQ.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "SwiftShims-2TTN5UXQBRCCQ.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBC02DAC005E003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UserNotifications-2WSP49G9OSOCW.pcm"; sourceTree = "<group>"; };
+		6659EBC12DAC005E003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ObjectiveC-1R06XOY9T4FIM.pcm"; sourceTree = "<group>"; };
+		6659EBC22DAC005E003EAB20 /* CoreText-3W9A51BO0R6G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreText-3W9A51BO0R6G.pcm"; sourceTree = "<group>"; };
+		6659EBC32DAC005E003EAB20 /* Security-27ZMYP8CODFT0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Security-27ZMYP8CODFT0.pcm"; sourceTree = "<group>"; };
+		6659EBC42DAC005E003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FileProvider-1OMUUHYDP2DYB.pcm"; sourceTree = "<group>"; };
+		6659EBC52DAC005E003EAB20 /* ImageIO-YVI44K06S0WO.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ImageIO-YVI44K06S0WO.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBC62DAC005E003EAB20 /* CoreData-3VNVLAYFWQNJA.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreData-3VNVLAYFWQNJA.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBC72DAC005E003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_workgroup-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EBC82DAC005E003EAB20 /* WidgetKit-36NHO6CGOAJL0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WidgetKit-36NHO6CGOAJL0.pcm"; sourceTree = "<group>"; };
+		6659EBC92DAC005E003EAB20 /* os-38I6DLZ5IH61J.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "os-38I6DLZ5IH61J.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBCA2DAC005E003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IOSurface-2NV0LTM1HC45.pcm"; sourceTree = "<group>"; };
+		6659EBCB2DAC005E003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Dispatch-2LX9MWM6UEPQW.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBCC2DAC005E003EAB20 /* SwiftUI-2TKKFWYA6PY2M.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "SwiftUI-2TKKFWYA6PY2M.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBCD2DAC005E003EAB20 /* ImageIO-YVI44K06S0WO.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ImageIO-YVI44K06S0WO.pcm"; sourceTree = "<group>"; };
+		6659EBCE2DAC005E003EAB20 /* SwiftShims-2TTN5UXQBRCCQ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SwiftShims-2TTN5UXQBRCCQ.pcm"; sourceTree = "<group>"; };
+		6659EBCF2DAC005E003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm"; sourceTree = "<group>"; };
+		6659EBD02DAC005E003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "FileProvider-1OMUUHYDP2DYB.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBD12DAC005E003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "os_workgroup-38I6DLZ5IH61J.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBD22DAC005E003EAB20 /* Intents-3PCQXSPZ610TZ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Intents-3PCQXSPZ610TZ.pcm"; sourceTree = "<group>"; };
+		6659EBD32DAC005E003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreGraphics-54UV9QOCX3ZY.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBD42DAC005E003EAB20 /* DeveloperToolsSupport-IC4DW0B6F46U.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DeveloperToolsSupport-IC4DW0B6F46U.pcm"; sourceTree = "<group>"; };
+		6659EBD52DAC005E003EAB20 /* DeveloperToolsSupport-IC4DW0B6F46U.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "DeveloperToolsSupport-IC4DW0B6F46U.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBD62DAC005E003EAB20 /* CoreVideo-1MLDN391V99P4.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreVideo-1MLDN391V99P4.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBD72DAC005E003EAB20 /* os_object-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_object-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EBD82DAC005E003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBD92DAC005E003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Foundation-3DFYNEBRQSXST.pcm"; sourceTree = "<group>"; };
+		6659EBDA2DAC005E003EAB20 /* WidgetKit-36NHO6CGOAJL0.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "WidgetKit-36NHO6CGOAJL0.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBDB2DAC005E003EAB20 /* os_object-38I6DLZ5IH61J.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "os_object-38I6DLZ5IH61J.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBDC2DAC005E003EAB20 /* Darwin-38I6DLZ5IH61J.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darwin-38I6DLZ5IH61J.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBDD2DAC005E003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dispatch-2LX9MWM6UEPQW.pcm"; sourceTree = "<group>"; };
+		6659EBDE2DAC005E003EAB20 /* UniformTypeIdentifiers-1VETKEPRAWW2V.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "UniformTypeIdentifiers-1VETKEPRAWW2V.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBDF2DAC005E003EAB20 /* SwiftUI-2TKKFWYA6PY2M.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SwiftUI-2TKKFWYA6PY2M.pcm"; sourceTree = "<group>"; };
+		6659EBE02DAC005E003EAB20 /* CoreTransferable-2TQQO0TXGR13Z.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreTransferable-2TQQO0TXGR13Z.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBE12DAC005E003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "FirebaseCore-3FLI14I3M8QBJ.pcm.timestamp"; sourceTree = "<group>"; };
+		6659EBE32DAC005E003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ptrauth-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EBE42DAC005E003EAB20 /* FirebaseStorageInternal-2RIA9P7KXMH2T.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseStorageInternal-2RIA9P7KXMH2T.pcm"; sourceTree = "<group>"; };
+		6659EBE52DAC005E003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "QuartzCore-23I9VTX2KZMTH.pcm"; sourceTree = "<group>"; };
+		6659EBE62DAC005E003EAB20 /* FirebaseAuth-1X24QRXXGH8Q1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseAuth-1X24QRXXGH8Q1.pcm"; sourceTree = "<group>"; };
+		6659EBE72DAC005E003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UIKit-1V5UHAPTOD24G.pcm"; sourceTree = "<group>"; };
+		6659EBE82DAC005E003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseCore-3FLI14I3M8QBJ.pcm"; sourceTree = "<group>"; };
+		6659EBE92DAC005E003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "_Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EBEA2DAC005E003EAB20 /* MachO-39EABXW17V9L4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MachO-39EABXW17V9L4.pcm"; sourceTree = "<group>"; };
+		6659EBEB2DAC005E003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreGraphics-54UV9QOCX3ZY.pcm"; sourceTree = "<group>"; };
+		6659EBEC2DAC005E003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenGLES-MDRMEQ3COFKY.pcm"; sourceTree = "<group>"; };
+		6659EBED2DAC005E003EAB20 /* Metal-UMHL2WVYX9T4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metal-UMHL2WVYX9T4.pcm"; sourceTree = "<group>"; };
+		6659EBEE2DAC005E003EAB20 /* SwiftOverlayShims-2TTN5UXQBRCCQ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SwiftOverlayShims-2TTN5UXQBRCCQ.pcm"; sourceTree = "<group>"; };
+		6659EBEF2DAC005E003EAB20 /* DataDetection-3HVFFRE0ACGRS.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DataDetection-3HVFFRE0ACGRS.pcm"; sourceTree = "<group>"; };
+		6659EBF02DAC005E003EAB20 /* FirebaseAppCheckInterop-2EPB0SWXW3VX2.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseAppCheckInterop-2EPB0SWXW3VX2.pcm"; sourceTree = "<group>"; };
+		6659EBF12DAC005E003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreImage-2L8M44C0CYIPM.pcm"; sourceTree = "<group>"; };
+		6659EBF22DAC005E003EAB20 /* FirebaseFirestore-3UZTXMVK5LWPR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseFirestore-3UZTXMVK5LWPR.pcm"; sourceTree = "<group>"; };
+		6659EBF32DAC005E003EAB20 /* CoreTransferable-2TQQO0TXGR13Z.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreTransferable-2TQQO0TXGR13Z.pcm"; sourceTree = "<group>"; };
+		6659EBF42DAC005E003EAB20 /* SwiftShims-2TTN5UXQBRCCQ.pcm.lock */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SwiftShims-2TTN5UXQBRCCQ.pcm.lock"; sourceTree = "<group>"; };
+		6659EBF52DAC005E003EAB20 /* CoreData-3VNVLAYFWQNJA.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreData-3VNVLAYFWQNJA.pcm"; sourceTree = "<group>"; };
+		6659EBF62DAC005E003EAB20 /* FirebaseDatabase-19KATEZME0DY6.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseDatabase-19KATEZME0DY6.pcm"; sourceTree = "<group>"; };
+		6659EBF72DAC005E003EAB20 /* UniformTypeIdentifiers-1VETKEPRAWW2V.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UniformTypeIdentifiers-1VETKEPRAWW2V.pcm"; sourceTree = "<group>"; };
+		6659EBF82DAC005F003EAB20 /* FirebaseCoreExtension-221SGHAR6MF3P.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseCoreExtension-221SGHAR6MF3P.pcm"; sourceTree = "<group>"; };
+		6659EBF92DAC005F003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CFNetwork-3188M7OK0JW08.pcm"; sourceTree = "<group>"; };
+		6659EBFA2DAC005F003EAB20 /* os-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EBFB2DAC005F003EAB20 /* FirebaseRemoteConfig-BGY5NLEN00KO.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseRemoteConfig-BGY5NLEN00KO.pcm"; sourceTree = "<group>"; };
+		6659EBFC2DAC005F003EAB20 /* GTMSessionFetcherCore-2HEVODT396WA7.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GTMSessionFetcherCore-2HEVODT396WA7.pcm"; sourceTree = "<group>"; };
+		6659EBFD2DAC005F003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EBFE2DAC005F003EAB20 /* FirebaseAnalytics-C72I5NEJP1UG.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseAnalytics-C72I5NEJP1UG.pcm"; sourceTree = "<group>"; };
+		6659EBFF2DAC005F003EAB20 /* Accessibility-2TQG3QLJXQM83.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Accessibility-2TQG3QLJXQM83.pcm"; sourceTree = "<group>"; };
+		6659EC002DAC005F003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreVideo-1MLDN391V99P4.pcm"; sourceTree = "<group>"; };
+		6659EC012DAC005F003EAB20 /* OSLog-28YIHDACFO0RL.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OSLog-28YIHDACFO0RL.pcm"; sourceTree = "<group>"; };
+		6659EC022DAC005F003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UserNotifications-2WSP49G9OSOCW.pcm"; sourceTree = "<group>"; };
+		6659EC032DAC005F003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ObjectiveC-1R06XOY9T4FIM.pcm"; sourceTree = "<group>"; };
+		6659EC042DAC005F003EAB20 /* CoreText-3W9A51BO0R6G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreText-3W9A51BO0R6G.pcm"; sourceTree = "<group>"; };
+		6659EC052DAC005F003EAB20 /* Security-27ZMYP8CODFT0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Security-27ZMYP8CODFT0.pcm"; sourceTree = "<group>"; };
+		6659EC062DAC005F003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FileProvider-1OMUUHYDP2DYB.pcm"; sourceTree = "<group>"; };
+		6659EC072DAC005F003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_workgroup-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC082DAC005F003EAB20 /* FirebaseInAppMessaging-3TTC8T0XZNS74.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseInAppMessaging-3TTC8T0XZNS74.pcm"; sourceTree = "<group>"; };
+		6659EC092DAC005F003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IOSurface-2NV0LTM1HC45.pcm"; sourceTree = "<group>"; };
+		6659EC0A2DAC005F003EAB20 /* ImageIO-YVI44K06S0WO.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ImageIO-YVI44K06S0WO.pcm"; sourceTree = "<group>"; };
+		6659EC0B2DAC005F003EAB20 /* FBLPromises-2WQRRTGRYB940.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FBLPromises-2WQRRTGRYB940.pcm"; sourceTree = "<group>"; };
+		6659EC0C2DAC005F003EAB20 /* SwiftShims-2TTN5UXQBRCCQ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SwiftShims-2TTN5UXQBRCCQ.pcm"; sourceTree = "<group>"; };
+		6659EC0D2DAC005F003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm"; sourceTree = "<group>"; };
+		6659EC0E2DAC005F003EAB20 /* FirebaseMessagingInterop-16W2EEBB62CRF.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseMessagingInterop-16W2EEBB62CRF.pcm"; sourceTree = "<group>"; };
+		6659EC0F2DAC005F003EAB20 /* DeveloperToolsSupport-IC4DW0B6F46U.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DeveloperToolsSupport-IC4DW0B6F46U.pcm"; sourceTree = "<group>"; };
+		6659EC102DAC005F003EAB20 /* os_object-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_object-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC112DAC005F003EAB20 /* GoogleUtilities_NSData-1JKHMBQA49BW6.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_NSData-1JKHMBQA49BW6.pcm"; sourceTree = "<group>"; };
+		6659EC122DAC005F003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Foundation-3DFYNEBRQSXST.pcm"; sourceTree = "<group>"; };
+		6659EC132DAC005F003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dispatch-2LX9MWM6UEPQW.pcm"; sourceTree = "<group>"; };
+		6659EC142DAC005F003EAB20 /* SwiftUI-2TKKFWYA6PY2M.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SwiftUI-2TKKFWYA6PY2M.pcm"; sourceTree = "<group>"; };
+		6659EC152DAC005F003EAB20 /* FirebaseAuthInterop-1I1XKWZH5LPCM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseAuthInterop-1I1XKWZH5LPCM.pcm"; sourceTree = "<group>"; };
+		6659EC162DAC005F003EAB20 /* Darwin-1O8ETTGG1RD6Y.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Darwin-1O8ETTGG1RD6Y.swiftmodule"; sourceTree = "<group>"; };
+		6659EC172DAC005F003EAB20 /* Swift-2YXW8PFZ259F5.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Swift-2YXW8PFZ259F5.swiftmodule"; sourceTree = "<group>"; };
+		6659EC192DAC005F003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC1A2DAC005F003EAB20 /* nanopb-38DDRJA73GMV7.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nanopb-38DDRJA73GMV7.pcm"; sourceTree = "<group>"; };
+		6659EC1B2DAC005F003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659EC1D2DAC005F003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ptrauth-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EC1E2DAC005F003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "QuartzCore-23I9VTX2KZMTH.pcm"; sourceTree = "<group>"; };
+		6659EC1F2DAC005F003EAB20 /* GoogleDataTransport-3J07PHYV4K5HP.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleDataTransport-3J07PHYV4K5HP.pcm"; sourceTree = "<group>"; };
+		6659EC202DAC005F003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UIKit-1V5UHAPTOD24G.pcm"; sourceTree = "<group>"; };
+		6659EC212DAC005F003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseCore-3FLI14I3M8QBJ.pcm"; sourceTree = "<group>"; };
+		6659EC222DAC005F003EAB20 /* MachO-39EABXW17V9L4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MachO-39EABXW17V9L4.pcm"; sourceTree = "<group>"; };
+		6659EC232DAC005F003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreGraphics-54UV9QOCX3ZY.pcm"; sourceTree = "<group>"; };
+		6659EC242DAC005F003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenGLES-MDRMEQ3COFKY.pcm"; sourceTree = "<group>"; };
+		6659EC252DAC005F003EAB20 /* Metal-UMHL2WVYX9T4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metal-UMHL2WVYX9T4.pcm"; sourceTree = "<group>"; };
+		6659EC262DAC005F003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreImage-2L8M44C0CYIPM.pcm"; sourceTree = "<group>"; };
+		6659EC272DAC005F003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CFNetwork-3188M7OK0JW08.pcm"; sourceTree = "<group>"; };
+		6659EC282DAC005F003EAB20 /* os-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC292DAC005F003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC2A2DAC005F003EAB20 /* FirebaseInstallations-B6LF3BE99NTJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseInstallations-B6LF3BE99NTJ.pcm"; sourceTree = "<group>"; };
+		6659EC2B2DAC005F003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreVideo-1MLDN391V99P4.pcm"; sourceTree = "<group>"; };
+		6659EC2C2DAC005F003EAB20 /* MetricKit-1Y4YWVMI0IOT6.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MetricKit-1Y4YWVMI0IOT6.pcm"; sourceTree = "<group>"; };
+		6659EC2D2DAC005F003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UserNotifications-2WSP49G9OSOCW.pcm"; sourceTree = "<group>"; };
+		6659EC2E2DAC005F003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ObjectiveC-1R06XOY9T4FIM.pcm"; sourceTree = "<group>"; };
+		6659EC2F2DAC005F003EAB20 /* CoreText-3W9A51BO0R6G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreText-3W9A51BO0R6G.pcm"; sourceTree = "<group>"; };
+		6659EC302DAC005F003EAB20 /* Security-27ZMYP8CODFT0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Security-27ZMYP8CODFT0.pcm"; sourceTree = "<group>"; };
+		6659EC312DAC005F003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FileProvider-1OMUUHYDP2DYB.pcm"; sourceTree = "<group>"; };
+		6659EC322DAC005F003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_workgroup-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC332DAC005F003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IOSurface-2NV0LTM1HC45.pcm"; sourceTree = "<group>"; };
+		6659EC342DAC005F003EAB20 /* CommonCrypto-3IJ2UQT7UNSLI.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CommonCrypto-3IJ2UQT7UNSLI.pcm"; sourceTree = "<group>"; };
+		6659EC352DAC005F003EAB20 /* ImageIO-YVI44K06S0WO.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ImageIO-YVI44K06S0WO.pcm"; sourceTree = "<group>"; };
+		6659EC362DAC005F003EAB20 /* nanopb-38DDRJA73GMV7.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nanopb-38DDRJA73GMV7.pcm"; sourceTree = "<group>"; };
+		6659EC372DAC005F003EAB20 /* FBLPromises-2WQRRTGRYB940.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FBLPromises-2WQRRTGRYB940.pcm"; sourceTree = "<group>"; };
+		6659EC382DAC005F003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm"; sourceTree = "<group>"; };
+		6659EC392DAC005F003EAB20 /* os_object-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_object-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC3A2DAC005F003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659EC3B2DAC005F003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Foundation-3DFYNEBRQSXST.pcm"; sourceTree = "<group>"; };
+		6659EC3C2DAC005F003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dispatch-2LX9MWM6UEPQW.pcm"; sourceTree = "<group>"; };
+		6659EC3D2DAC005F003EAB20 /* GoogleUtilities_Environment-1SP2MC4AB71F8.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_Environment-1SP2MC4AB71F8.pcm"; sourceTree = "<group>"; };
+		6659EC3F2DAC005F003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC402DAC005F003EAB20 /* nanopb-38DDRJA73GMV7.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nanopb-38DDRJA73GMV7.pcm"; sourceTree = "<group>"; };
+		6659EC412DAC005F003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659EC422DAC005F003EAB20 /* Dispatch-1ZM67CT5BL3Q1.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Dispatch-1ZM67CT5BL3Q1.swiftmodule"; sourceTree = "<group>"; };
+		6659EC432DAC005F003EAB20 /* CoreGraphics-3I2WX2FFHVTW2.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreGraphics-3I2WX2FFHVTW2.swiftmodule"; sourceTree = "<group>"; };
+		6659EC452DAC005F003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ptrauth-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EC462DAC005F003EAB20 /* GoogleDataTransport-3J07PHYV4K5HP.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleDataTransport-3J07PHYV4K5HP.pcm"; sourceTree = "<group>"; };
+		6659EC472DAC005F003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseCore-3FLI14I3M8QBJ.pcm"; sourceTree = "<group>"; };
+		6659EC482DAC005F003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "_Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EC492DAC005F003EAB20 /* SwiftOverlayShims-2TTN5UXQBRCCQ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SwiftOverlayShims-2TTN5UXQBRCCQ.pcm"; sourceTree = "<group>"; };
+		6659EC4A2DAC005F003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CFNetwork-3188M7OK0JW08.pcm"; sourceTree = "<group>"; };
+		6659EC4B2DAC005F003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC4C2DAC005F003EAB20 /* FirebaseInstallations-B6LF3BE99NTJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseInstallations-B6LF3BE99NTJ.pcm"; sourceTree = "<group>"; };
+		6659EC4D2DAC005F003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ObjectiveC-1R06XOY9T4FIM.pcm"; sourceTree = "<group>"; };
+		6659EC4E2DAC005F003EAB20 /* Security-27ZMYP8CODFT0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Security-27ZMYP8CODFT0.pcm"; sourceTree = "<group>"; };
+		6659EC4F2DAC005F003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_workgroup-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC502DAC0060003EAB20 /* SwiftShims-2TTN5UXQBRCCQ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SwiftShims-2TTN5UXQBRCCQ.pcm"; sourceTree = "<group>"; };
+		6659EC512DAC0060003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm"; sourceTree = "<group>"; };
+		6659EC522DAC0060003EAB20 /* os_object-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_object-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC532DAC0060003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Foundation-3DFYNEBRQSXST.pcm"; sourceTree = "<group>"; };
+		6659EC542DAC0060003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dispatch-2LX9MWM6UEPQW.pcm"; sourceTree = "<group>"; };
+		6659EC552DAC0060003EAB20 /* GoogleUtilities_Logger-1DJOUGE6Q02Q2.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_Logger-1DJOUGE6Q02Q2.pcm"; sourceTree = "<group>"; };
+		6659EC562DAC0060003EAB20 /* Combine-OI7PSG1FXGUI.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Combine-OI7PSG1FXGUI.swiftmodule"; sourceTree = "<group>"; };
+		6659EC582DAC0060003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ptrauth-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EC592DAC0060003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "QuartzCore-23I9VTX2KZMTH.pcm"; sourceTree = "<group>"; };
+		6659EC5A2DAC0060003EAB20 /* GoogleDataTransport-3J07PHYV4K5HP.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleDataTransport-3J07PHYV4K5HP.pcm"; sourceTree = "<group>"; };
+		6659EC5B2DAC0060003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UIKit-1V5UHAPTOD24G.pcm"; sourceTree = "<group>"; };
+		6659EC5C2DAC0060003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseCore-3FLI14I3M8QBJ.pcm"; sourceTree = "<group>"; };
+		6659EC5D2DAC0060003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreGraphics-54UV9QOCX3ZY.pcm"; sourceTree = "<group>"; };
+		6659EC5E2DAC0060003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenGLES-MDRMEQ3COFKY.pcm"; sourceTree = "<group>"; };
+		6659EC5F2DAC0060003EAB20 /* Metal-UMHL2WVYX9T4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metal-UMHL2WVYX9T4.pcm"; sourceTree = "<group>"; };
+		6659EC602DAC0060003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreImage-2L8M44C0CYIPM.pcm"; sourceTree = "<group>"; };
+		6659EC612DAC0060003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CFNetwork-3188M7OK0JW08.pcm"; sourceTree = "<group>"; };
+		6659EC622DAC0060003EAB20 /* FirebaseABTesting-3TKEST9ET884Y.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseABTesting-3TKEST9ET884Y.pcm"; sourceTree = "<group>"; };
+		6659EC632DAC0060003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC642DAC0060003EAB20 /* FirebaseInstallations-B6LF3BE99NTJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseInstallations-B6LF3BE99NTJ.pcm"; sourceTree = "<group>"; };
+		6659EC652DAC0060003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreVideo-1MLDN391V99P4.pcm"; sourceTree = "<group>"; };
+		6659EC662DAC0060003EAB20 /* SystemConfiguration-354UAJE49HRJF.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SystemConfiguration-354UAJE49HRJF.pcm"; sourceTree = "<group>"; };
+		6659EC672DAC0060003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UserNotifications-2WSP49G9OSOCW.pcm"; sourceTree = "<group>"; };
+		6659EC682DAC0060003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ObjectiveC-1R06XOY9T4FIM.pcm"; sourceTree = "<group>"; };
+		6659EC692DAC0060003EAB20 /* CoreText-3W9A51BO0R6G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreText-3W9A51BO0R6G.pcm"; sourceTree = "<group>"; };
+		6659EC6A2DAC0060003EAB20 /* Security-27ZMYP8CODFT0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Security-27ZMYP8CODFT0.pcm"; sourceTree = "<group>"; };
+		6659EC6B2DAC0060003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FileProvider-1OMUUHYDP2DYB.pcm"; sourceTree = "<group>"; };
+		6659EC6C2DAC0060003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_workgroup-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC6D2DAC0060003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IOSurface-2NV0LTM1HC45.pcm"; sourceTree = "<group>"; };
+		6659EC6E2DAC0060003EAB20 /* ImageIO-YVI44K06S0WO.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ImageIO-YVI44K06S0WO.pcm"; sourceTree = "<group>"; };
+		6659EC6F2DAC0060003EAB20 /* nanopb-38DDRJA73GMV7.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nanopb-38DDRJA73GMV7.pcm"; sourceTree = "<group>"; };
+		6659EC702DAC0060003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm"; sourceTree = "<group>"; };
+		6659EC712DAC0060003EAB20 /* SQLite3-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SQLite3-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC722DAC0060003EAB20 /* os_object-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_object-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC732DAC0060003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659EC742DAC0060003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Foundation-3DFYNEBRQSXST.pcm"; sourceTree = "<group>"; };
+		6659EC752DAC0060003EAB20 /* GoogleUtilities_AppDelegateSwizzler-2JGDKDZC0O3J5.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_AppDelegateSwizzler-2JGDKDZC0O3J5.pcm"; sourceTree = "<group>"; };
+		6659EC762DAC0060003EAB20 /* GoogleUtilities_Reachability-1MIZAUMZ8YJ1Y.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_Reachability-1MIZAUMZ8YJ1Y.pcm"; sourceTree = "<group>"; };
+		6659EC772DAC0060003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dispatch-2LX9MWM6UEPQW.pcm"; sourceTree = "<group>"; };
+		6659EC782DAC0060003EAB20 /* GoogleUtilities_UserDefaults-2B48RKJNCIOO0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_UserDefaults-2B48RKJNCIOO0.pcm"; sourceTree = "<group>"; };
+		6659EC792DAC0060003EAB20 /* GoogleUtilities_Environment-1SP2MC4AB71F8.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_Environment-1SP2MC4AB71F8.pcm"; sourceTree = "<group>"; };
+		6659EC7A2DAC0060003EAB20 /* GoogleUtilities_Logger-1DJOUGE6Q02Q2.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_Logger-1DJOUGE6Q02Q2.pcm"; sourceTree = "<group>"; };
+		6659EC7B2DAC0060003EAB20 /* Charts-261MOHYC7TOOK.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Charts-261MOHYC7TOOK.swiftmodule"; sourceTree = "<group>"; };
+		6659EC7C2DAC0060003EAB20 /* UniformTypeIdentifiers-2S1GEZ61700OO.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "UniformTypeIdentifiers-2S1GEZ61700OO.swiftmodule"; sourceTree = "<group>"; };
+		6659EC7D2DAC0060003EAB20 /* CoreLocation-1G8PNDEF8UU38.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreLocation-1G8PNDEF8UU38.swiftmodule"; sourceTree = "<group>"; };
+		6659EC7E2DAC0060003EAB20 /* UIKit-31QDASY0AM412.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "UIKit-31QDASY0AM412.swiftmodule"; sourceTree = "<group>"; };
+		6659EC7F2DAC0060003EAB20 /* Intents-1M0GGC2D5PS49.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Intents-1M0GGC2D5PS49.swiftmodule"; sourceTree = "<group>"; };
+		6659EC812DAC0060003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ptrauth-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EC822DAC0060003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "QuartzCore-23I9VTX2KZMTH.pcm"; sourceTree = "<group>"; };
+		6659EC832DAC0060003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UIKit-1V5UHAPTOD24G.pcm"; sourceTree = "<group>"; };
+		6659EC842DAC0060003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseCore-3FLI14I3M8QBJ.pcm"; sourceTree = "<group>"; };
+		6659EC852DAC0060003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreGraphics-54UV9QOCX3ZY.pcm"; sourceTree = "<group>"; };
+		6659EC862DAC0060003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenGLES-MDRMEQ3COFKY.pcm"; sourceTree = "<group>"; };
+		6659EC872DAC0060003EAB20 /* Metal-UMHL2WVYX9T4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metal-UMHL2WVYX9T4.pcm"; sourceTree = "<group>"; };
+		6659EC882DAC0060003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreImage-2L8M44C0CYIPM.pcm"; sourceTree = "<group>"; };
+		6659EC892DAC0060003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CFNetwork-3188M7OK0JW08.pcm"; sourceTree = "<group>"; };
+		6659EC8A2DAC0060003EAB20 /* WebKit-18VDYZKXRX7YI.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WebKit-18VDYZKXRX7YI.pcm"; sourceTree = "<group>"; };
+		6659EC8B2DAC0060003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC8C2DAC0060003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreVideo-1MLDN391V99P4.pcm"; sourceTree = "<group>"; };
+		6659EC8D2DAC0060003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UserNotifications-2WSP49G9OSOCW.pcm"; sourceTree = "<group>"; };
+		6659EC8E2DAC0060003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ObjectiveC-1R06XOY9T4FIM.pcm"; sourceTree = "<group>"; };
+		6659EC8F2DAC0060003EAB20 /* CoreText-3W9A51BO0R6G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreText-3W9A51BO0R6G.pcm"; sourceTree = "<group>"; };
+		6659EC902DAC0060003EAB20 /* Security-27ZMYP8CODFT0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Security-27ZMYP8CODFT0.pcm"; sourceTree = "<group>"; };
+		6659EC912DAC0060003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FileProvider-1OMUUHYDP2DYB.pcm"; sourceTree = "<group>"; };
+		6659EC922DAC0060003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_workgroup-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC932DAC0060003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IOSurface-2NV0LTM1HC45.pcm"; sourceTree = "<group>"; };
+		6659EC942DAC0060003EAB20 /* ImageIO-YVI44K06S0WO.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ImageIO-YVI44K06S0WO.pcm"; sourceTree = "<group>"; };
+		6659EC952DAC0060003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm"; sourceTree = "<group>"; };
+		6659EC962DAC0060003EAB20 /* os_object-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_object-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659EC972DAC0060003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659EC982DAC0060003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Foundation-3DFYNEBRQSXST.pcm"; sourceTree = "<group>"; };
+		6659EC992DAC0060003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dispatch-2LX9MWM6UEPQW.pcm"; sourceTree = "<group>"; };
+		6659EC9B2DAC0060003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ptrauth-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EC9C2DAC0060003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "QuartzCore-23I9VTX2KZMTH.pcm"; sourceTree = "<group>"; };
+		6659EC9D2DAC0060003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UIKit-1V5UHAPTOD24G.pcm"; sourceTree = "<group>"; };
+		6659EC9E2DAC0060003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "_Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659EC9F2DAC0060003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreGraphics-54UV9QOCX3ZY.pcm"; sourceTree = "<group>"; };
+		6659ECA02DAC0060003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenGLES-MDRMEQ3COFKY.pcm"; sourceTree = "<group>"; };
+		6659ECA12DAC0060003EAB20 /* Metal-UMHL2WVYX9T4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metal-UMHL2WVYX9T4.pcm"; sourceTree = "<group>"; };
+		6659ECA22DAC0060003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreImage-2L8M44C0CYIPM.pcm"; sourceTree = "<group>"; };
+		6659ECA32DAC0060003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CFNetwork-3188M7OK0JW08.pcm"; sourceTree = "<group>"; };
+		6659ECA42DAC0060003EAB20 /* GTMSessionFetcherCore-2HEVODT396WA7.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GTMSessionFetcherCore-2HEVODT396WA7.pcm"; sourceTree = "<group>"; };
+		6659ECA52DAC0060003EAB20 /* WebKit-18VDYZKXRX7YI.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "WebKit-18VDYZKXRX7YI.pcm"; sourceTree = "<group>"; };
+		6659ECA62DAC0060003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659ECA72DAC0060003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreVideo-1MLDN391V99P4.pcm"; sourceTree = "<group>"; };
+		6659ECA82DAC0060003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UserNotifications-2WSP49G9OSOCW.pcm"; sourceTree = "<group>"; };
+		6659ECA92DAC0060003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ObjectiveC-1R06XOY9T4FIM.pcm"; sourceTree = "<group>"; };
+		6659ECAA2DAC0060003EAB20 /* CoreText-3W9A51BO0R6G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreText-3W9A51BO0R6G.pcm"; sourceTree = "<group>"; };
+		6659ECAB2DAC0061003EAB20 /* Security-27ZMYP8CODFT0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Security-27ZMYP8CODFT0.pcm"; sourceTree = "<group>"; };
+		6659ECAC2DAC0061003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FileProvider-1OMUUHYDP2DYB.pcm"; sourceTree = "<group>"; };
+		6659ECAD2DAC0061003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_workgroup-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659ECAE2DAC0061003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IOSurface-2NV0LTM1HC45.pcm"; sourceTree = "<group>"; };
+		6659ECAF2DAC0061003EAB20 /* ImageIO-YVI44K06S0WO.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ImageIO-YVI44K06S0WO.pcm"; sourceTree = "<group>"; };
+		6659ECB02DAC0061003EAB20 /* FBLPromises-2WQRRTGRYB940.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FBLPromises-2WQRRTGRYB940.pcm"; sourceTree = "<group>"; };
+		6659ECB12DAC0061003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm"; sourceTree = "<group>"; };
+		6659ECB22DAC0061003EAB20 /* os_object-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_object-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659ECB32DAC0061003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659ECB42DAC0061003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Foundation-3DFYNEBRQSXST.pcm"; sourceTree = "<group>"; };
+		6659ECB52DAC0061003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dispatch-2LX9MWM6UEPQW.pcm"; sourceTree = "<group>"; };
+		6659ECB62DAC0061003EAB20 /* modules.timestamp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = modules.timestamp; sourceTree = "<group>"; };
+		6659ECB72DAC0061003EAB20 /* Foundation-37FIFSGWFEF2M.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Foundation-37FIFSGWFEF2M.swiftmodule"; sourceTree = "<group>"; };
+		6659ECB92DAC0061003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ptrauth-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659ECBA2DAC0061003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "QuartzCore-23I9VTX2KZMTH.pcm"; sourceTree = "<group>"; };
+		6659ECBB2DAC0061003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UIKit-1V5UHAPTOD24G.pcm"; sourceTree = "<group>"; };
+		6659ECBC2DAC0061003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreGraphics-54UV9QOCX3ZY.pcm"; sourceTree = "<group>"; };
+		6659ECBD2DAC0061003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenGLES-MDRMEQ3COFKY.pcm"; sourceTree = "<group>"; };
+		6659ECBE2DAC0061003EAB20 /* Metal-UMHL2WVYX9T4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metal-UMHL2WVYX9T4.pcm"; sourceTree = "<group>"; };
+		6659ECBF2DAC0061003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreImage-2L8M44C0CYIPM.pcm"; sourceTree = "<group>"; };
+		6659ECC02DAC0061003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CFNetwork-3188M7OK0JW08.pcm"; sourceTree = "<group>"; };
+		6659ECC12DAC0061003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659ECC22DAC0061003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreVideo-1MLDN391V99P4.pcm"; sourceTree = "<group>"; };
+		6659ECC32DAC0061003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UserNotifications-2WSP49G9OSOCW.pcm"; sourceTree = "<group>"; };
+		6659ECC42DAC0061003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ObjectiveC-1R06XOY9T4FIM.pcm"; sourceTree = "<group>"; };
+		6659ECC52DAC0061003EAB20 /* CoreText-3W9A51BO0R6G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreText-3W9A51BO0R6G.pcm"; sourceTree = "<group>"; };
+		6659ECC62DAC0061003EAB20 /* Security-27ZMYP8CODFT0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Security-27ZMYP8CODFT0.pcm"; sourceTree = "<group>"; };
+		6659ECC72DAC0061003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FileProvider-1OMUUHYDP2DYB.pcm"; sourceTree = "<group>"; };
+		6659ECC82DAC0061003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_workgroup-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659ECC92DAC0061003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IOSurface-2NV0LTM1HC45.pcm"; sourceTree = "<group>"; };
+		6659ECCA2DAC0061003EAB20 /* ImageIO-YVI44K06S0WO.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ImageIO-YVI44K06S0WO.pcm"; sourceTree = "<group>"; };
+		6659ECCB2DAC0061003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm"; sourceTree = "<group>"; };
+		6659ECCC2DAC0061003EAB20 /* os_object-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_object-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659ECCD2DAC0061003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659ECCE2DAC0061003EAB20 /* FirebaseCoreInternal-MSIBPWHLHNGH.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseCoreInternal-MSIBPWHLHNGH.pcm"; sourceTree = "<group>"; };
+		6659ECCF2DAC0061003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Foundation-3DFYNEBRQSXST.pcm"; sourceTree = "<group>"; };
+		6659ECD02DAC0061003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dispatch-2LX9MWM6UEPQW.pcm"; sourceTree = "<group>"; };
+		6659ECD12DAC0061003EAB20 /* GoogleUtilities_Environment-1SP2MC4AB71F8.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_Environment-1SP2MC4AB71F8.pcm"; sourceTree = "<group>"; };
+		6659ECD22DAC0061003EAB20 /* GoogleUtilities_Logger-1DJOUGE6Q02Q2.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_Logger-1DJOUGE6Q02Q2.pcm"; sourceTree = "<group>"; };
+		6659ECD32DAC0061003EAB20 /* SwiftOnoneSupport-27NNT5NZ8HVSR.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "SwiftOnoneSupport-27NNT5NZ8HVSR.swiftmodule"; sourceTree = "<group>"; };
+		6659ECD42DAC0061003EAB20 /* Accessibility-16LEZY78SFUKY.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Accessibility-16LEZY78SFUKY.swiftmodule"; sourceTree = "<group>"; };
+		6659ECD52DAC0061003EAB20 /* DataDetection-3CTV0HA96FFM4.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "DataDetection-3CTV0HA96FFM4.swiftmodule"; sourceTree = "<group>"; };
+		6659ECD62DAC0061003EAB20 /* CoreImage-3M98YZC6YWNLH.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreImage-3M98YZC6YWNLH.swiftmodule"; sourceTree = "<group>"; };
+		6659ECD82DAC0061003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ptrauth-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659ECD92DAC0061003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "QuartzCore-23I9VTX2KZMTH.pcm"; sourceTree = "<group>"; };
+		6659ECDA2DAC0061003EAB20 /* GoogleDataTransport-3J07PHYV4K5HP.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleDataTransport-3J07PHYV4K5HP.pcm"; sourceTree = "<group>"; };
+		6659ECDB2DAC0061003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UIKit-1V5UHAPTOD24G.pcm"; sourceTree = "<group>"; };
+		6659ECDC2DAC0061003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseCore-3FLI14I3M8QBJ.pcm"; sourceTree = "<group>"; };
+		6659ECDD2DAC0061003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreGraphics-54UV9QOCX3ZY.pcm"; sourceTree = "<group>"; };
+		6659ECDE2DAC0061003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenGLES-MDRMEQ3COFKY.pcm"; sourceTree = "<group>"; };
+		6659ECDF2DAC0061003EAB20 /* Metal-UMHL2WVYX9T4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Metal-UMHL2WVYX9T4.pcm"; sourceTree = "<group>"; };
+		6659ECE02DAC0061003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreImage-2L8M44C0CYIPM.pcm"; sourceTree = "<group>"; };
+		6659ECE12DAC0061003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CFNetwork-3188M7OK0JW08.pcm"; sourceTree = "<group>"; };
+		6659ECE22DAC0061003EAB20 /* FirebaseRemoteConfig-BGY5NLEN00KO.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseRemoteConfig-BGY5NLEN00KO.pcm"; sourceTree = "<group>"; };
+		6659ECE32DAC0061003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659ECE42DAC0061003EAB20 /* FirebaseInstallations-B6LF3BE99NTJ.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FirebaseInstallations-B6LF3BE99NTJ.pcm"; sourceTree = "<group>"; };
+		6659ECE52DAC0061003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreVideo-1MLDN391V99P4.pcm"; sourceTree = "<group>"; };
+		6659ECE62DAC0061003EAB20 /* SystemConfiguration-354UAJE49HRJF.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SystemConfiguration-354UAJE49HRJF.pcm"; sourceTree = "<group>"; };
+		6659ECE72DAC0061003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "UserNotifications-2WSP49G9OSOCW.pcm"; sourceTree = "<group>"; };
+		6659ECE82DAC0061003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ObjectiveC-1R06XOY9T4FIM.pcm"; sourceTree = "<group>"; };
+		6659ECE92DAC0061003EAB20 /* CoreText-3W9A51BO0R6G.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreText-3W9A51BO0R6G.pcm"; sourceTree = "<group>"; };
+		6659ECEA2DAC0061003EAB20 /* Security-27ZMYP8CODFT0.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Security-27ZMYP8CODFT0.pcm"; sourceTree = "<group>"; };
+		6659ECEB2DAC0061003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FileProvider-1OMUUHYDP2DYB.pcm"; sourceTree = "<group>"; };
+		6659ECEC2DAC0061003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_workgroup-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659ECED2DAC0061003EAB20 /* GoogleUtilities_MethodSwizzler-8V6N272T1IB8.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_MethodSwizzler-8V6N272T1IB8.pcm"; sourceTree = "<group>"; };
+		6659ECEE2DAC0061003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "IOSurface-2NV0LTM1HC45.pcm"; sourceTree = "<group>"; };
+		6659ECEF2DAC0061003EAB20 /* ImageIO-YVI44K06S0WO.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "ImageIO-YVI44K06S0WO.pcm"; sourceTree = "<group>"; };
+		6659ECF02DAC0061003EAB20 /* nanopb-38DDRJA73GMV7.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nanopb-38DDRJA73GMV7.pcm"; sourceTree = "<group>"; };
+		6659ECF12DAC0061003EAB20 /* CoreTelephony-6O0UP606QVMK.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreTelephony-6O0UP606QVMK.pcm"; sourceTree = "<group>"; };
+		6659ECF22DAC0061003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "CoreFoundation-J9ZOXGK4ZTRR.pcm"; sourceTree = "<group>"; };
+		6659ECF32DAC0061003EAB20 /* os_object-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "os_object-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659ECF42DAC0061003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659ECF52DAC0061003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Foundation-3DFYNEBRQSXST.pcm"; sourceTree = "<group>"; };
+		6659ECF62DAC0061003EAB20 /* GoogleUtilities_ISASwizzler-1WFNV9LYI4ALW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_ISASwizzler-1WFNV9LYI4ALW.pcm"; sourceTree = "<group>"; };
+		6659ECF72DAC0061003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Dispatch-2LX9MWM6UEPQW.pcm"; sourceTree = "<group>"; };
+		6659ECF82DAC0061003EAB20 /* GoogleUtilities_Environment-1SP2MC4AB71F8.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GoogleUtilities_Environment-1SP2MC4AB71F8.pcm"; sourceTree = "<group>"; };
+		6659ECF92DAC0061003EAB20 /* WidgetKit-3NTXOA8JC0Q12.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "WidgetKit-3NTXOA8JC0Q12.swiftmodule"; sourceTree = "<group>"; };
+		6659ECFA2DAC0061003EAB20 /* CoreTransferable-2ECFP9VPQHICH.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreTransferable-2ECFP9VPQHICH.swiftmodule"; sourceTree = "<group>"; };
+		6659ECFC2DAC0061003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "_Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm"; sourceTree = "<group>"; };
+		6659ECFD2DAC0061003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659ECFE2DAC0061003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659ECFF2DAC0061003EAB20 /* _StringProcessing-Z7543IF0G1TA.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "_StringProcessing-Z7543IF0G1TA.swiftmodule"; sourceTree = "<group>"; };
+		6659ED012DAC0061003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Darwin-38I6DLZ5IH61J.pcm"; sourceTree = "<group>"; };
+		6659ED022DAC0061003EAB20 /* nanopb-38DDRJA73GMV7.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = "nanopb-38DDRJA73GMV7.pcm"; sourceTree = "<group>"; };
+		6659ED032DAC0062003EAB20 /* modules.idx */ = {isa = PBXFileReference; lastKnownFileType = file; path = modules.idx; sourceTree = "<group>"; };
+		6659ED042DAC0062003EAB20 /* CoreData-1M9FYNT1FXRQI.swiftmodule */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "CoreData-1M9FYNT1FXRQI.swiftmodule"; sourceTree = "<group>"; };
+		6659ED062DAC0062003EAB20 /* CounterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CounterView.swift; sourceTree = "<group>"; };
+		6659ED072DAC0062003EAB20 /* ZikrCounterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrCounterView.swift; sourceTree = "<group>"; };
+		6659ED082DAC0062003EAB20 /* ActivityView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
+		6659ED092DAC0062003EAB20 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		6659ED0B2DAC0062003EAB20 /* SettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		6659ED0C2DAC0062003EAB20 /* AdvancedStatisticsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvancedStatisticsView.swift; sourceTree = "<group>"; };
+		6659ED0D2DAC0062003EAB20 /* PrayerTimesView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerTimesView.swift; sourceTree = "<group>"; };
+		6659ED0E2DAC0062003EAB20 /* CityPickerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CityPickerView.swift; sourceTree = "<group>"; };
+		6659ED0F2DAC0062003EAB20 /* SupportView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SupportView.swift; sourceTree = "<group>"; };
+		6659ED102DAC0062003EAB20 /* AzkarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AzkarView.swift; sourceTree = "<group>"; };
+		6659ED142DAC0062003EAB20 /* d2464269a7bf39fa59b469ee52ac2b60-manifest.xcbuild */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "d2464269a7bf39fa59b469ee52ac2b60-manifest.xcbuild"; sourceTree = "<group>"; };
+		6659ED152DAC0062003EAB20 /* BuildDescriptionCacheIndex-2e45fa92c82934554453e61ca8c1311f */ = {isa = PBXFileReference; lastKnownFileType = file; path = "BuildDescriptionCacheIndex-2e45fa92c82934554453e61ca8c1311f"; sourceTree = "<group>"; };
+		6659ED162DAC0062003EAB20 /* d2464269a7bf39fa59b469ee52ac2b60-buildRequest.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "d2464269a7bf39fa59b469ee52ac2b60-buildRequest.json"; sourceTree = "<group>"; };
+		6659ED172DAC0062003EAB20 /* build.db */ = {isa = PBXFileReference; lastKnownFileType = file; path = build.db; sourceTree = "<group>"; };
+		6659ED182DAC0062003EAB20 /* d2464269a7bf39fa59b469ee52ac2b60-desc.xcbuild */ = {isa = PBXFileReference; lastKnownFileType = file; path = "d2464269a7bf39fa59b469ee52ac2b60-desc.xcbuild"; sourceTree = "<group>"; };
+		6659ED192DAC0062003EAB20 /* d2464269a7bf39fa59b469ee52ac2b60-targetGraph.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "d2464269a7bf39fa59b469ee52ac2b60-targetGraph.txt"; sourceTree = "<group>"; };
+		6659ED1A2DAC0062003EAB20 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6659ED1C2DAC0062003EAB20 /* ZikrCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrCardView.swift; sourceTree = "<group>"; };
+		6659ED1D2DAC0062003EAB20 /* StatCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatCard.swift; sourceTree = "<group>"; };
+		6659ED1E2DAC0062003EAB20 /* PieSliceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieSliceView.swift; sourceTree = "<group>"; };
+		6659ED1F2DAC0062003EAB20 /* PrayerCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerCardView.swift; sourceTree = "<group>"; };
+		6659ED202DAC0062003EAB20 /* PieChartView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieChartView.swift; sourceTree = "<group>"; };
 		665C948E2D9FF6810094F0D2 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
-		66827E822DA1394D00CBB124 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		66C1AC432D88FBD400AC36A6 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		66C1AC452D88FBD500AC36A6 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
-		66C1AC792D8C181A00AC36A6 /* Tasbeeh+ | تسبيح.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Tasbeeh+ | تسبيح.swift"; sourceTree = "<group>"; };
-		66C1AC7A2D8C181A00AC36A6 /* ScaleButtonStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScaleButtonStyle.swift; sourceTree = "<group>"; };
-		66C1AC7B2D8C181A00AC36A6 /* Home.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
-		66C1AC7C2D8C181A00AC36A6 /*  SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = " SceneDelegate.swift"; sourceTree = "<group>"; };
-		66C1AC7D2D8C181A00AC36A6 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		66C1AC7E2D8C181A00AC36A6 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		66C1AC802D8C181A00AC36A6 /* ZikrDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrDetailView.swift; sourceTree = "<group>"; };
-		66C1AC812D8C181A00AC36A6 /* ZikrSettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrSettingsView.swift; sourceTree = "<group>"; };
-		66C1AC822D8C181A00AC36A6 /* SideMenu.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideMenu.swift; sourceTree = "<group>"; };
-		66C1AC832D8C181A00AC36A6 /* StatisticsDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatisticsDetailView.swift; sourceTree = "<group>"; };
-		66C1AC852D8C181B00AC36A6 /* CustomButtons.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomButtons.swift; sourceTree = "<group>"; };
-		66C1AC862D8C181B00AC36A6 /* BlurView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurView.swift; sourceTree = "<group>"; };
-		66C1AC872D8C181B00AC36A6 /* ZikrFooterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrFooterView.swift; sourceTree = "<group>"; };
-		66C1AC882D8C181B00AC36A6 /* TabItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabItem.swift; sourceTree = "<group>"; };
-		66C1AC892D8C181B00AC36A6 /* CircleButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleButton.swift; sourceTree = "<group>"; };
-		66C1AC8A2D8C181B00AC36A6 /* CustomTabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
-		66C1AC8B2D8C181B00AC36A6 /* ButtonStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ButtonStyle.swift; sourceTree = "<group>"; };
-		66C1AC8D2D8C181B00AC36A6 /* Zikr.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Zikr.swift; sourceTree = "<group>"; };
-		66C1AC8E2D8C181B00AC36A6 /* city.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = city.swift; sourceTree = "<group>"; };
-		66C1AC8F2D8C181B00AC36A6 /* PrayerTimesResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerTimesResponse.swift; sourceTree = "<group>"; };
-		66C1AC902D8C181B00AC36A6 /* AppColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppColor.swift; sourceTree = "<group>"; };
-		66C1AC912D8C181B00AC36A6 /* PrayerTimesManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerTimesManager.swift; sourceTree = "<group>"; };
-		66C1AC922D8C181B00AC36A6 /* Tab.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
-		66C1AC932D8C181B00AC36A6 /* LocationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
-		66C1AC942D8C181B00AC36A6 /* AzkarCategory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AzkarCategory.swift; sourceTree = "<group>"; };
-		66C1AC952D8C181B00AC36A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		66C1AEA32D8C181E00AC36A6 /* CounterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CounterView.swift; sourceTree = "<group>"; };
-		66C1AEA42D8C181E00AC36A6 /* ZikrCounterView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrCounterView.swift; sourceTree = "<group>"; };
-		66C1AEA52D8C181E00AC36A6 /* ActivityView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
-		66C1AEA72D8C181E00AC36A6 /* SettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
-		66C1AEA82D8C181E00AC36A6 /* AdvancedStatisticsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdvancedStatisticsView.swift; sourceTree = "<group>"; };
-		66C1AEA92D8C181E00AC36A6 /* PrayerTimesView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerTimesView.swift; sourceTree = "<group>"; };
-		66C1AEAA2D8C181E00AC36A6 /* CityPickerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CityPickerView.swift; sourceTree = "<group>"; };
-		66C1AEAB2D8C181E00AC36A6 /* SupportView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SupportView.swift; sourceTree = "<group>"; };
-		66C1AEAC2D8C181E00AC36A6 /* AzkarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AzkarView.swift; sourceTree = "<group>"; };
-		66C1AEB82D8C181E00AC36A6 /* ZikrCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZikrCardView.swift; sourceTree = "<group>"; };
-		66C1AEB92D8C181E00AC36A6 /* StatCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StatCard.swift; sourceTree = "<group>"; };
-		66C1AEBA2D8C181E00AC36A6 /* PieSliceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieSliceView.swift; sourceTree = "<group>"; };
-		66C1AEBB2D8C181E00AC36A6 /* PrayerCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerCardView.swift; sourceTree = "<group>"; };
-		66C1AEBC2D8C181E00AC36A6 /* PieChartView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieChartView.swift; sourceTree = "<group>"; };
 		66CD59B62D815E560057D324 /* TasbeehPlus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TasbeehPlus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -122,13 +630,827 @@
 			buildActionMask = 2147483647;
 			files = (
 				665C948F2D9FF6810094F0D2 /* StoreKit.framework in Frameworks */,
-				66827E862DA164B300CBB124 /* Adhan in Frameworks */,
+				6659EF4A2DAC014D003EAB20 /* Adhan in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6659EAD92DAC005B003EAB20 /* TasbeehApp */ = {
+			isa = PBXGroup;
+			children = (
+				6659EADA2DAC005B003EAB20 /* Application Structure */,
+				6659EAE12DAC005B003EAB20 /* LaunchScreen.storyboard */,
+				6659EAE22DAC005B003EAB20 /* Additional Settings & Details */,
+				6659EAE72DAC005B003EAB20 /* UI Components */,
+				6659EAEF2DAC005B003EAB20 /* Logic & Data Management */,
+				6659EAF82DAC005C003EAB20 /* Assets.xcassets */,
+				6659EAF92DAC005C003EAB20 /* Preview Content */,
+				6659EAFB2DAC005C003EAB20 /* ModuleCache.noindex */,
+				6659ED052DAC0062003EAB20 /* Interactive Components */,
+				6659ED092DAC0062003EAB20 /* Contents.json */,
+				6659ED0A2DAC0062003EAB20 /* Main Screens */,
+				6659ED112DAC0062003EAB20 /* Build */,
+				6659ED1A2DAC0062003EAB20 /* Info.plist */,
+				6659ED1B2DAC0062003EAB20 /* Data Display Components */,
+			);
+			path = TasbeehApp;
+			sourceTree = "<group>";
+		};
+		6659EADA2DAC005B003EAB20 /* Application Structure */ = {
+			isa = PBXGroup;
+			children = (
+				6659EADB2DAC005B003EAB20 /* Tasbeeh+ | تسبيح.swift */,
+				6659EADC2DAC005B003EAB20 /* ScaleButtonStyle.swift */,
+				6659EADD2DAC005B003EAB20 /* Home.swift */,
+				6659EADE2DAC005B003EAB20 /*  SceneDelegate.swift */,
+				6659EADF2DAC005B003EAB20 /* AppDelegate.swift */,
+				6659EAE02DAC005B003EAB20 /* ContentView.swift */,
+			);
+			path = "Application Structure";
+			sourceTree = "<group>";
+		};
+		6659EAE22DAC005B003EAB20 /* Additional Settings & Details */ = {
+			isa = PBXGroup;
+			children = (
+				6659EAE32DAC005B003EAB20 /* ZikrDetailView.swift */,
+				6659EAE42DAC005B003EAB20 /* ZikrSettingsView.swift */,
+				6659EAE52DAC005B003EAB20 /* SideMenu.swift */,
+				6659EAE62DAC005B003EAB20 /* StatisticsDetailView.swift */,
+			);
+			path = "Additional Settings & Details";
+			sourceTree = "<group>";
+		};
+		6659EAE72DAC005B003EAB20 /* UI Components */ = {
+			isa = PBXGroup;
+			children = (
+				6659EAE82DAC005B003EAB20 /* CustomButtons.swift */,
+				6659EAE92DAC005B003EAB20 /* BlurView.swift */,
+				6659EAEA2DAC005B003EAB20 /* ZikrFooterView.swift */,
+				6659EAEB2DAC005B003EAB20 /* TabItem.swift */,
+				6659EAEC2DAC005B003EAB20 /* CircleButton.swift */,
+				6659EAED2DAC005B003EAB20 /* CustomTabBar.swift */,
+				6659EAEE2DAC005B003EAB20 /* ButtonStyle.swift */,
+			);
+			path = "UI Components";
+			sourceTree = "<group>";
+		};
+		6659EAEF2DAC005B003EAB20 /* Logic & Data Management */ = {
+			isa = PBXGroup;
+			children = (
+				6659EAF02DAC005B003EAB20 /* Zikr.swift */,
+				6659EAF12DAC005C003EAB20 /* city.swift */,
+				6659EAF22DAC005C003EAB20 /* PrayerTimesResponse.swift */,
+				6659EAF32DAC005C003EAB20 /* AppColor.swift */,
+				6659EAF42DAC005C003EAB20 /* PrayerTimesManager.swift */,
+				6659EAF52DAC005C003EAB20 /* Tab.swift */,
+				6659EAF62DAC005C003EAB20 /* LocationManager.swift */,
+				6659EAF72DAC005C003EAB20 /* AzkarCategory.swift */,
+			);
+			path = "Logic & Data Management";
+			sourceTree = "<group>";
+		};
+		6659EAF92DAC005C003EAB20 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				6659EAFA2DAC005C003EAB20 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6659EAFB2DAC005C003EAB20 /* ModuleCache.noindex */ = {
+			isa = PBXGroup;
+			children = (
+				6659EAFC2DAC005C003EAB20 /* ObjectiveC-1PFLLQ4DPY1HG.swiftmodule */,
+				6659EAFD2DAC005C003EAB20 /* E1O9F47X2EVZ */,
+				6659EB002DAC005C003EAB20 /* DeveloperToolsSupport-36XENWZ6OLD1R.swiftmodule */,
+				6659EB012DAC005C003EAB20 /* Session.modulevalidation */,
+				6659EB022DAC005C003EAB20 /* Metal-24JIDJVJYKZRH.swiftmodule */,
+				6659EB032DAC005C003EAB20 /* 39WKB43KGDWVW */,
+				6659EB072DAC005C003EAB20 /* 10GN878OX5XJX */,
+				6659EB122DAC005C003EAB20 /* QuartzCore-11WKVCN2QDPNP.swiftmodule */,
+				6659EB132DAC005C003EAB20 /* ActivityKit-12MCGSAQY8VMI.swiftmodule */,
+				6659EB142DAC005C003EAB20 /* WCBWATKTZRHX */,
+				6659EB192DAC005C003EAB20 /* OSLog-37V2ITU580OE3.swiftmodule */,
+				6659EB1A2DAC005C003EAB20 /* 1GR58HW5AA0UL */,
+				6659EB262DAC005C003EAB20 /* SwiftUI-1WOTF35PIPRJ6.swiftmodule */,
+				6659EB272DAC005C003EAB20 /* _Concurrency-QENZZ2LRYPW7.swiftmodule */,
+				6659EB282DAC005C003EAB20 /* LQHMSISGA0NS */,
+				6659EB462DAC005C003EAB20 /* 13FECVENPB6X5 */,
+				6659EB8E2DAC005D003EAB20 /* os-2QVE5FFF0R4IP.swiftmodule */,
+				6659EB8F2DAC005D003EAB20 /* CoreFoundation-31HXL8WXTRM7.swiftmodule */,
+				6659EB902DAC005D003EAB20 /* FileProvider-HMPND8YWTKCI.swiftmodule */,
+				6659EB912DAC005D003EAB20 /* 27IRO8YJS7QE5 */,
+				6659EBE22DAC005E003EAB20 /* AC33RT7K6SRY */,
+				6659EC162DAC005F003EAB20 /* Darwin-1O8ETTGG1RD6Y.swiftmodule */,
+				6659EC172DAC005F003EAB20 /* Swift-2YXW8PFZ259F5.swiftmodule */,
+				6659EC182DAC005F003EAB20 /* 3JVZKQG1LPKGU */,
+				6659EC1C2DAC005F003EAB20 /* 9OR9D4L707ZH */,
+				6659EC3E2DAC005F003EAB20 /* 207KATB39XNH1 */,
+				6659EC422DAC005F003EAB20 /* Dispatch-1ZM67CT5BL3Q1.swiftmodule */,
+				6659EC432DAC005F003EAB20 /* CoreGraphics-3I2WX2FFHVTW2.swiftmodule */,
+				6659EC442DAC005F003EAB20 /* 14AATFWWZ1SJC */,
+				6659EC562DAC0060003EAB20 /* Combine-OI7PSG1FXGUI.swiftmodule */,
+				6659EC572DAC0060003EAB20 /* 8KZAGYTTR3WD */,
+				6659EC7B2DAC0060003EAB20 /* Charts-261MOHYC7TOOK.swiftmodule */,
+				6659EC7C2DAC0060003EAB20 /* UniformTypeIdentifiers-2S1GEZ61700OO.swiftmodule */,
+				6659EC7D2DAC0060003EAB20 /* CoreLocation-1G8PNDEF8UU38.swiftmodule */,
+				6659EC7E2DAC0060003EAB20 /* UIKit-31QDASY0AM412.swiftmodule */,
+				6659EC7F2DAC0060003EAB20 /* Intents-1M0GGC2D5PS49.swiftmodule */,
+				6659EC802DAC0060003EAB20 /* 2R8O9RKANRYQ0 */,
+				6659EC9A2DAC0060003EAB20 /* 2XPDZ80K327OZ */,
+				6659ECB62DAC0061003EAB20 /* modules.timestamp */,
+				6659ECB72DAC0061003EAB20 /* Foundation-37FIFSGWFEF2M.swiftmodule */,
+				6659ECB82DAC0061003EAB20 /* 3LWNFSART2ZX4 */,
+				6659ECD32DAC0061003EAB20 /* SwiftOnoneSupport-27NNT5NZ8HVSR.swiftmodule */,
+				6659ECD42DAC0061003EAB20 /* Accessibility-16LEZY78SFUKY.swiftmodule */,
+				6659ECD52DAC0061003EAB20 /* DataDetection-3CTV0HA96FFM4.swiftmodule */,
+				6659ECD62DAC0061003EAB20 /* CoreImage-3M98YZC6YWNLH.swiftmodule */,
+				6659ECD72DAC0061003EAB20 /* 11GWS8CTI0VAE */,
+				6659ECF92DAC0061003EAB20 /* WidgetKit-3NTXOA8JC0Q12.swiftmodule */,
+				6659ECFA2DAC0061003EAB20 /* CoreTransferable-2ECFP9VPQHICH.swiftmodule */,
+				6659ECFB2DAC0061003EAB20 /* GF93ZVG43JFD */,
+				6659ECFF2DAC0061003EAB20 /* _StringProcessing-Z7543IF0G1TA.swiftmodule */,
+				6659ED002DAC0061003EAB20 /* TMB736Y21Y96 */,
+				6659ED042DAC0062003EAB20 /* CoreData-1M9FYNT1FXRQI.swiftmodule */,
+			);
+			path = ModuleCache.noindex;
+			sourceTree = "<group>";
+		};
+		6659EAFD2DAC005C003EAB20 /* E1O9F47X2EVZ */ = {
+			isa = PBXGroup;
+			children = (
+				6659EAFE2DAC005C003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EAFF2DAC005C003EAB20 /* modules.idx */,
+			);
+			path = E1O9F47X2EVZ;
+			sourceTree = "<group>";
+		};
+		6659EB032DAC005C003EAB20 /* 39WKB43KGDWVW */ = {
+			isa = PBXGroup;
+			children = (
+				6659EB042DAC005C003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */,
+				6659EB052DAC005C003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EB062DAC005C003EAB20 /* modules.idx */,
+			);
+			path = 39WKB43KGDWVW;
+			sourceTree = "<group>";
+		};
+		6659EB072DAC005C003EAB20 /* 10GN878OX5XJX */ = {
+			isa = PBXGroup;
+			children = (
+				6659EB082DAC005C003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */,
+				6659EB092DAC005C003EAB20 /* MachO-39EABXW17V9L4.pcm */,
+				6659EB0A2DAC005C003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EB0B2DAC005C003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */,
+				6659EB0C2DAC005C003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */,
+				6659EB0D2DAC005C003EAB20 /* nanopb-38DDRJA73GMV7.pcm */,
+				6659EB0E2DAC005C003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */,
+				6659EB0F2DAC005C003EAB20 /* os_object-38I6DLZ5IH61J.pcm */,
+				6659EB102DAC005C003EAB20 /* modules.idx */,
+				6659EB112DAC005C003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */,
+			);
+			path = 10GN878OX5XJX;
+			sourceTree = "<group>";
+		};
+		6659EB142DAC005C003EAB20 /* WCBWATKTZRHX */ = {
+			isa = PBXGroup;
+			children = (
+				6659EB152DAC005C003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */,
+				6659EB162DAC005C003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EB172DAC005C003EAB20 /* modules.idx */,
+				6659EB182DAC005C003EAB20 /* _Builtin_intrinsics-2BO8AI7X08ED1.pcm */,
+			);
+			path = WCBWATKTZRHX;
+			sourceTree = "<group>";
+		};
+		6659EB1A2DAC005C003EAB20 /* 1GR58HW5AA0UL */ = {
+			isa = PBXGroup;
+			children = (
+				6659EB1B2DAC005C003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */,
+				6659EB1C2DAC005C003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */,
+				6659EB1D2DAC005C003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EB1E2DAC005C003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */,
+				6659EB1F2DAC005C003EAB20 /* Security-27ZMYP8CODFT0.pcm */,
+				6659EB202DAC005C003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */,
+				6659EB212DAC005C003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */,
+				6659EB222DAC005C003EAB20 /* os_object-38I6DLZ5IH61J.pcm */,
+				6659EB232DAC005C003EAB20 /* modules.idx */,
+				6659EB242DAC005C003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */,
+				6659EB252DAC005C003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */,
+			);
+			path = 1GR58HW5AA0UL;
+			sourceTree = "<group>";
+		};
+		6659EB282DAC005C003EAB20 /* LQHMSISGA0NS */ = {
+			isa = PBXGroup;
+			children = (
+				6659EB292DAC005C003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */,
+				6659EB2A2DAC005C003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */,
+				6659EB2B2DAC005C003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */,
+				6659EB2C2DAC005C003EAB20 /* zlib-38I6DLZ5IH61J.pcm */,
+				6659EB2D2DAC005C003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */,
+				6659EB2E2DAC005C003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */,
+				6659EB2F2DAC005C003EAB20 /* Metal-UMHL2WVYX9T4.pcm */,
+				6659EB302DAC005C003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */,
+				6659EB312DAC005C003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */,
+				6659EB322DAC005C003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EB332DAC005C003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */,
+				6659EB342DAC005C003EAB20 /* SystemConfiguration-354UAJE49HRJF.pcm */,
+				6659EB352DAC005C003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */,
+				6659EB362DAC005C003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */,
+				6659EB372DAC005C003EAB20 /* CoreText-3W9A51BO0R6G.pcm */,
+				6659EB382DAC005C003EAB20 /* Security-27ZMYP8CODFT0.pcm */,
+				6659EB392DAC005C003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */,
+				6659EB3A2DAC005C003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */,
+				6659EB3B2DAC005C003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */,
+				6659EB3C2DAC005C003EAB20 /* ImageIO-YVI44K06S0WO.pcm */,
+				6659EB3D2DAC005C003EAB20 /* nanopb-38DDRJA73GMV7.pcm */,
+				6659EB3E2DAC005C003EAB20 /* FBLPromises-2WQRRTGRYB940.pcm */,
+				6659EB3F2DAC005C003EAB20 /* CoreTelephony-6O0UP606QVMK.pcm */,
+				6659EB402DAC005C003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */,
+				6659EB412DAC005C003EAB20 /* os_object-38I6DLZ5IH61J.pcm */,
+				6659EB422DAC005C003EAB20 /* modules.idx */,
+				6659EB432DAC005C003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */,
+				6659EB442DAC005C003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */,
+				6659EB452DAC005C003EAB20 /* GoogleUtilities_Environment-1SP2MC4AB71F8.pcm */,
+			);
+			path = LQHMSISGA0NS;
+			sourceTree = "<group>";
+		};
+		6659EB462DAC005C003EAB20 /* 13FECVENPB6X5 */ = {
+			isa = PBXGroup;
+			children = (
+				6659EB472DAC005C003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */,
+				6659EB482DAC005C003EAB20 /* GLKit-1LWCSEMZSA41Q.pcm */,
+				6659EB492DAC005C003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */,
+				6659EB4A2DAC005C003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */,
+				6659EB4B2DAC005C003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */,
+				6659EB4C2DAC005D003EAB20 /* MachO-39EABXW17V9L4.pcm */,
+				6659EB4D2DAC005D003EAB20 /* CoreMedia-3JTCZ41S8BKUD.pcm */,
+				6659EB4E2DAC005D003EAB20 /* zlib-38I6DLZ5IH61J.pcm */,
+				6659EB4F2DAC005D003EAB20 /* third_party_IsAppEncrypted-377NM00TNEVYU.pcm */,
+				6659EB502DAC005D003EAB20 /* Contacts-18D9VF9RLRYYK.pcm */,
+				6659EB512DAC005D003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */,
+				6659EB522DAC005D003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */,
+				6659EB532DAC005D003EAB20 /* Metal-UMHL2WVYX9T4.pcm */,
+				6659EB542DAC005D003EAB20 /* AuthenticationServices-3PPXEBZPHZNV6.pcm */,
+				6659EB552DAC005D003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */,
+				6659EB562DAC005D003EAB20 /* CoreServices-30YOR7JH6ZXMB.pcm */,
+				6659EB572DAC005D003EAB20 /* UniformTypeIdentifiers-1VETKEPRAWW2V.pcm */,
+				6659EB582DAC005D003EAB20 /* MediaToolbox-3N6MLXYI7H98P.pcm */,
+				6659EB592DAC005D003EAB20 /* simd-3V2MLXFFX3BH.pcm */,
+				6659EB5A2DAC005D003EAB20 /* GameController-349WYKBWKHW2O.pcm */,
+				6659EB5B2DAC005D003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */,
+				6659EB5C2DAC005D003EAB20 /* GTMSessionFetcherCore-2HEVODT396WA7.pcm */,
+				6659EB5D2DAC005D003EAB20 /* FirebaseABTesting-3TKEST9ET884Y.pcm */,
+				6659EB5E2DAC005D003EAB20 /* WebKit-18VDYZKXRX7YI.pcm */,
+				6659EB5F2DAC005D003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EB602DAC005D003EAB20 /* GoogleUtilities_Network-5360P7G9HDXZ.pcm */,
+				6659EB612DAC005D003EAB20 /* FirebaseInstallations-B6LF3BE99NTJ.pcm */,
+				6659EB622DAC005D003EAB20 /* SceneKit-3DRNHHSI1UI0S.pcm */,
+				6659EB632DAC005D003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */,
+				6659EB642DAC005D003EAB20 /* CoreMIDI-2OV5TK5CIMZXQ.pcm */,
+				6659EB652DAC005D003EAB20 /* CoreAudio-DU322UQPMITA.pcm */,
+				6659EB662DAC005D003EAB20 /* ModelIO-3Q15989AJK0IF.pcm */,
+				6659EB672DAC005D003EAB20 /* AVFoundation-2W8OQOO5E005V.pcm */,
+				6659EB682DAC005D003EAB20 /* SystemConfiguration-354UAJE49HRJF.pcm */,
+				6659EB692DAC005D003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */,
+				6659EB6A2DAC005D003EAB20 /* MobileCoreServices-3PK2VQ0R2SYLI.pcm */,
+				6659EB6B2DAC005D003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */,
+				6659EB6C2DAC005D003EAB20 /* CoreText-3W9A51BO0R6G.pcm */,
+				6659EB6D2DAC005D003EAB20 /* Security-27ZMYP8CODFT0.pcm */,
+				6659EB6E2DAC005D003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */,
+				6659EB6F2DAC005D003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */,
+				6659EB702DAC005D003EAB20 /* GoogleUtilities_MethodSwizzler-8V6N272T1IB8.pcm */,
+				6659EB712DAC005D003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */,
+				6659EB722DAC005D003EAB20 /* ReplayKit-L54QE14NAMDD.pcm */,
+				6659EB732DAC005D003EAB20 /* AVFAudio-10ERHHW4LJP37.pcm */,
+				6659EB742DAC005D003EAB20 /* GameKit-19E2QQ1K19JA4.pcm */,
+				6659EB752DAC005D003EAB20 /* CoreAudioTypes-XFXLG6SQQAFJ.pcm */,
+				6659EB762DAC005D003EAB20 /* CommonCrypto-3IJ2UQT7UNSLI.pcm */,
+				6659EB772DAC005D003EAB20 /* ImageIO-YVI44K06S0WO.pcm */,
+				6659EB782DAC005D003EAB20 /* FBLPromises-2WQRRTGRYB940.pcm */,
+				6659EB792DAC005D003EAB20 /* CoreTelephony-6O0UP606QVMK.pcm */,
+				6659EB7A2DAC005D003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */,
+				6659EB7B2DAC005D003EAB20 /* SQLite3-38I6DLZ5IH61J.pcm */,
+				6659EB7C2DAC005D003EAB20 /* GameplayKit-S4IVGYFNGN0P.pcm */,
+				6659EB7D2DAC005D003EAB20 /* asl-38I6DLZ5IH61J.pcm */,
+				6659EB7E2DAC005D003EAB20 /* os_object-38I6DLZ5IH61J.pcm */,
+				6659EB7F2DAC005D003EAB20 /* modules.idx */,
+				6659EB802DAC005D003EAB20 /* GoogleUtilities_NSData-1JKHMBQA49BW6.pcm */,
+				6659EB812DAC005D003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */,
+				6659EB822DAC005D003EAB20 /* GoogleUtilities_AppDelegateSwizzler-2JGDKDZC0O3J5.pcm */,
+				6659EB832DAC005D003EAB20 /* GoogleUtilities_Reachability-1MIZAUMZ8YJ1Y.pcm */,
+				6659EB842DAC005D003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */,
+				6659EB852DAC005D003EAB20 /* GoogleUtilities_UserDefaults-2B48RKJNCIOO0.pcm */,
+				6659EB862DAC005D003EAB20 /* GoogleUtilities_Environment-1SP2MC4AB71F8.pcm */,
+				6659EB872DAC005D003EAB20 /* AudioToolbox-29TRZLCW5QLKV.pcm */,
+				6659EB882DAC005D003EAB20 /* DeviceCheck-29H0DNAYHI7FD.pcm */,
+				6659EB892DAC005D003EAB20 /* SafariServices-RKLF0CKN09BZ.pcm */,
+				6659EB8A2DAC005D003EAB20 /* _Builtin_intrinsics-2BO8AI7X08ED1.pcm */,
+				6659EB8B2DAC005D003EAB20 /* SpriteKit-2PAQN8TKSP6YS.pcm */,
+				6659EB8C2DAC005D003EAB20 /* ICU-B85MI90IFS37.pcm */,
+				6659EB8D2DAC005D003EAB20 /* GoogleUtilities_Logger-1DJOUGE6Q02Q2.pcm */,
+			);
+			path = 13FECVENPB6X5;
+			sourceTree = "<group>";
+		};
+		6659EB912DAC005D003EAB20 /* 27IRO8YJS7QE5 */ = {
+			isa = PBXGroup;
+			children = (
+				6659EB922DAC005D003EAB20 /* MachO-39EABXW17V9L4.pcm.timestamp */,
+				6659EB932DAC005D003EAB20 /* ActivityKit-1J45PB5RYP8DB.pcm */,
+				6659EB942DAC005D003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */,
+				6659EB952DAC005D003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm.timestamp */,
+				6659EB962DAC005D003EAB20 /* Metal-UMHL2WVYX9T4.pcm.timestamp */,
+				6659EB972DAC005D003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */,
+				6659EB982DAC005D003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm.timestamp */,
+				6659EB992DAC005D003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */,
+				6659EB9A2DAC005D003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */,
+				6659EB9B2DAC005D003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */,
+				6659EB9C2DAC005D003EAB20 /* MachO-39EABXW17V9L4.pcm */,
+				6659EB9D2DAC005D003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm.timestamp */,
+				6659EB9E2DAC005D003EAB20 /* Intents-3PCQXSPZ610TZ.pcm.timestamp */,
+				6659EB9F2DAC005D003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */,
+				6659EBA02DAC005D003EAB20 /* CoreLocation-2RB9TGORWT0YQ.pcm */,
+				6659EBA12DAC005E003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */,
+				6659EBA22DAC005E003EAB20 /* Metal-UMHL2WVYX9T4.pcm */,
+				6659EBA32DAC005E003EAB20 /* SwiftOverlayShims-2TTN5UXQBRCCQ.pcm */,
+				6659EBA42DAC005E003EAB20 /* DataDetection-3HVFFRE0ACGRS.pcm */,
+				6659EBA52DAC005E003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm.timestamp */,
+				6659EBA62DAC005E003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */,
+				6659EBA72DAC005E003EAB20 /* UIKit-1V5UHAPTOD24G.pcm.timestamp */,
+				6659EBA82DAC005E003EAB20 /* CoreTransferable-2TQQO0TXGR13Z.pcm */,
+				6659EBA92DAC005E003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm.timestamp */,
+				6659EBAA2DAC005E003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm.timestamp */,
+				6659EBAB2DAC005E003EAB20 /* Foundation-3DFYNEBRQSXST.pcm.timestamp */,
+				6659EBAC2DAC005E003EAB20 /* SwiftOverlayShims-2TTN5UXQBRCCQ.pcm.timestamp */,
+				6659EBAD2DAC005E003EAB20 /* CoreData-3VNVLAYFWQNJA.pcm */,
+				6659EBAE2DAC005E003EAB20 /* UniformTypeIdentifiers-1VETKEPRAWW2V.pcm */,
+				6659EBAF2DAC005E003EAB20 /* IOSurface-2NV0LTM1HC45.pcm.timestamp */,
+				6659EBB02DAC005E003EAB20 /* Accessibility-2TQG3QLJXQM83.pcm.timestamp */,
+				6659EBB12DAC005E003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm.timestamp */,
+				6659EBB22DAC005E003EAB20 /* ActivityKit-1J45PB5RYP8DB.pcm.timestamp */,
+				6659EBB32DAC005E003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */,
+				6659EBB42DAC005E003EAB20 /* os-38I6DLZ5IH61J.pcm */,
+				6659EBB52DAC005E003EAB20 /* CoreLocation-2RB9TGORWT0YQ.pcm.timestamp */,
+				6659EBB62DAC005E003EAB20 /* Security-27ZMYP8CODFT0.pcm.timestamp */,
+				6659EBB72DAC005E003EAB20 /* OSLog-28YIHDACFO0RL.pcm.timestamp */,
+				6659EBB82DAC005E003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EBB92DAC005E003EAB20 /* CoreText-3W9A51BO0R6G.pcm.timestamp */,
+				6659EBBA2DAC005E003EAB20 /* Accessibility-2TQG3QLJXQM83.pcm */,
+				6659EBBB2DAC005E003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */,
+				6659EBBC2DAC005E003EAB20 /* DataDetection-3HVFFRE0ACGRS.pcm.timestamp */,
+				6659EBBD2DAC005E003EAB20 /* OSLog-28YIHDACFO0RL.pcm */,
+				6659EBBE2DAC005E003EAB20 /* CFNetwork-3188M7OK0JW08.pcm.timestamp */,
+				6659EBBF2DAC005E003EAB20 /* SwiftShims-2TTN5UXQBRCCQ.pcm.timestamp */,
+				6659EBC02DAC005E003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */,
+				6659EBC12DAC005E003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */,
+				6659EBC22DAC005E003EAB20 /* CoreText-3W9A51BO0R6G.pcm */,
+				6659EBC32DAC005E003EAB20 /* Security-27ZMYP8CODFT0.pcm */,
+				6659EBC42DAC005E003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */,
+				6659EBC52DAC005E003EAB20 /* ImageIO-YVI44K06S0WO.pcm.timestamp */,
+				6659EBC62DAC005E003EAB20 /* CoreData-3VNVLAYFWQNJA.pcm.timestamp */,
+				6659EBC72DAC005E003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */,
+				6659EBC82DAC005E003EAB20 /* WidgetKit-36NHO6CGOAJL0.pcm */,
+				6659EBC92DAC005E003EAB20 /* os-38I6DLZ5IH61J.pcm.timestamp */,
+				6659EBCA2DAC005E003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */,
+				6659EBCB2DAC005E003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm.timestamp */,
+				6659EBCC2DAC005E003EAB20 /* SwiftUI-2TKKFWYA6PY2M.pcm.timestamp */,
+				6659EBCD2DAC005E003EAB20 /* ImageIO-YVI44K06S0WO.pcm */,
+				6659EBCE2DAC005E003EAB20 /* SwiftShims-2TTN5UXQBRCCQ.pcm */,
+				6659EBCF2DAC005E003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */,
+				6659EBD02DAC005E003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm.timestamp */,
+				6659EBD12DAC005E003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm.timestamp */,
+				6659EBD22DAC005E003EAB20 /* Intents-3PCQXSPZ610TZ.pcm */,
+				6659EBD32DAC005E003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm.timestamp */,
+				6659EBD42DAC005E003EAB20 /* DeveloperToolsSupport-IC4DW0B6F46U.pcm */,
+				6659EBD52DAC005E003EAB20 /* DeveloperToolsSupport-IC4DW0B6F46U.pcm.timestamp */,
+				6659EBD62DAC005E003EAB20 /* CoreVideo-1MLDN391V99P4.pcm.timestamp */,
+				6659EBD72DAC005E003EAB20 /* os_object-38I6DLZ5IH61J.pcm */,
+				6659EBD82DAC005E003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm.timestamp */,
+				6659EBD92DAC005E003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */,
+				6659EBDA2DAC005E003EAB20 /* WidgetKit-36NHO6CGOAJL0.pcm.timestamp */,
+				6659EBDB2DAC005E003EAB20 /* os_object-38I6DLZ5IH61J.pcm.timestamp */,
+				6659EBDC2DAC005E003EAB20 /* Darwin-38I6DLZ5IH61J.pcm.timestamp */,
+				6659EBDD2DAC005E003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */,
+				6659EBDE2DAC005E003EAB20 /* UniformTypeIdentifiers-1VETKEPRAWW2V.pcm.timestamp */,
+				6659EBDF2DAC005E003EAB20 /* SwiftUI-2TKKFWYA6PY2M.pcm */,
+				6659EBE02DAC005E003EAB20 /* CoreTransferable-2TQQO0TXGR13Z.pcm.timestamp */,
+				6659EBE12DAC005E003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm.timestamp */,
+			);
+			path = 27IRO8YJS7QE5;
+			sourceTree = "<group>";
+		};
+		6659EBE22DAC005E003EAB20 /* AC33RT7K6SRY */ = {
+			isa = PBXGroup;
+			children = (
+				6659EBE32DAC005E003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */,
+				6659EBE42DAC005E003EAB20 /* FirebaseStorageInternal-2RIA9P7KXMH2T.pcm */,
+				6659EBE52DAC005E003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */,
+				6659EBE62DAC005E003EAB20 /* FirebaseAuth-1X24QRXXGH8Q1.pcm */,
+				6659EBE72DAC005E003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */,
+				6659EBE82DAC005E003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */,
+				6659EBE92DAC005E003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */,
+				6659EBEA2DAC005E003EAB20 /* MachO-39EABXW17V9L4.pcm */,
+				6659EBEB2DAC005E003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */,
+				6659EBEC2DAC005E003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */,
+				6659EBED2DAC005E003EAB20 /* Metal-UMHL2WVYX9T4.pcm */,
+				6659EBEE2DAC005E003EAB20 /* SwiftOverlayShims-2TTN5UXQBRCCQ.pcm */,
+				6659EBEF2DAC005E003EAB20 /* DataDetection-3HVFFRE0ACGRS.pcm */,
+				6659EBF02DAC005E003EAB20 /* FirebaseAppCheckInterop-2EPB0SWXW3VX2.pcm */,
+				6659EBF12DAC005E003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */,
+				6659EBF22DAC005E003EAB20 /* FirebaseFirestore-3UZTXMVK5LWPR.pcm */,
+				6659EBF32DAC005E003EAB20 /* CoreTransferable-2TQQO0TXGR13Z.pcm */,
+				6659EBF42DAC005E003EAB20 /* SwiftShims-2TTN5UXQBRCCQ.pcm.lock */,
+				6659EBF52DAC005E003EAB20 /* CoreData-3VNVLAYFWQNJA.pcm */,
+				6659EBF62DAC005E003EAB20 /* FirebaseDatabase-19KATEZME0DY6.pcm */,
+				6659EBF72DAC005E003EAB20 /* UniformTypeIdentifiers-1VETKEPRAWW2V.pcm */,
+				6659EBF82DAC005F003EAB20 /* FirebaseCoreExtension-221SGHAR6MF3P.pcm */,
+				6659EBF92DAC005F003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */,
+				6659EBFA2DAC005F003EAB20 /* os-38I6DLZ5IH61J.pcm */,
+				6659EBFB2DAC005F003EAB20 /* FirebaseRemoteConfig-BGY5NLEN00KO.pcm */,
+				6659EBFC2DAC005F003EAB20 /* GTMSessionFetcherCore-2HEVODT396WA7.pcm */,
+				6659EBFD2DAC005F003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EBFE2DAC005F003EAB20 /* FirebaseAnalytics-C72I5NEJP1UG.pcm */,
+				6659EBFF2DAC005F003EAB20 /* Accessibility-2TQG3QLJXQM83.pcm */,
+				6659EC002DAC005F003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */,
+				6659EC012DAC005F003EAB20 /* OSLog-28YIHDACFO0RL.pcm */,
+				6659EC022DAC005F003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */,
+				6659EC032DAC005F003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */,
+				6659EC042DAC005F003EAB20 /* CoreText-3W9A51BO0R6G.pcm */,
+				6659EC052DAC005F003EAB20 /* Security-27ZMYP8CODFT0.pcm */,
+				6659EC062DAC005F003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */,
+				6659EC072DAC005F003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */,
+				6659EC082DAC005F003EAB20 /* FirebaseInAppMessaging-3TTC8T0XZNS74.pcm */,
+				6659EC092DAC005F003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */,
+				6659EC0A2DAC005F003EAB20 /* ImageIO-YVI44K06S0WO.pcm */,
+				6659EC0B2DAC005F003EAB20 /* FBLPromises-2WQRRTGRYB940.pcm */,
+				6659EC0C2DAC005F003EAB20 /* SwiftShims-2TTN5UXQBRCCQ.pcm */,
+				6659EC0D2DAC005F003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */,
+				6659EC0E2DAC005F003EAB20 /* FirebaseMessagingInterop-16W2EEBB62CRF.pcm */,
+				6659EC0F2DAC005F003EAB20 /* DeveloperToolsSupport-IC4DW0B6F46U.pcm */,
+				6659EC102DAC005F003EAB20 /* os_object-38I6DLZ5IH61J.pcm */,
+				6659EC112DAC005F003EAB20 /* GoogleUtilities_NSData-1JKHMBQA49BW6.pcm */,
+				6659EC122DAC005F003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */,
+				6659EC132DAC005F003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */,
+				6659EC142DAC005F003EAB20 /* SwiftUI-2TKKFWYA6PY2M.pcm */,
+				6659EC152DAC005F003EAB20 /* FirebaseAuthInterop-1I1XKWZH5LPCM.pcm */,
+			);
+			path = AC33RT7K6SRY;
+			sourceTree = "<group>";
+		};
+		6659EC182DAC005F003EAB20 /* 3JVZKQG1LPKGU */ = {
+			isa = PBXGroup;
+			children = (
+				6659EC192DAC005F003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EC1A2DAC005F003EAB20 /* nanopb-38DDRJA73GMV7.pcm */,
+				6659EC1B2DAC005F003EAB20 /* modules.idx */,
+			);
+			path = 3JVZKQG1LPKGU;
+			sourceTree = "<group>";
+		};
+		6659EC1C2DAC005F003EAB20 /* 9OR9D4L707ZH */ = {
+			isa = PBXGroup;
+			children = (
+				6659EC1D2DAC005F003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */,
+				6659EC1E2DAC005F003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */,
+				6659EC1F2DAC005F003EAB20 /* GoogleDataTransport-3J07PHYV4K5HP.pcm */,
+				6659EC202DAC005F003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */,
+				6659EC212DAC005F003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */,
+				6659EC222DAC005F003EAB20 /* MachO-39EABXW17V9L4.pcm */,
+				6659EC232DAC005F003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */,
+				6659EC242DAC005F003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */,
+				6659EC252DAC005F003EAB20 /* Metal-UMHL2WVYX9T4.pcm */,
+				6659EC262DAC005F003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */,
+				6659EC272DAC005F003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */,
+				6659EC282DAC005F003EAB20 /* os-38I6DLZ5IH61J.pcm */,
+				6659EC292DAC005F003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EC2A2DAC005F003EAB20 /* FirebaseInstallations-B6LF3BE99NTJ.pcm */,
+				6659EC2B2DAC005F003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */,
+				6659EC2C2DAC005F003EAB20 /* MetricKit-1Y4YWVMI0IOT6.pcm */,
+				6659EC2D2DAC005F003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */,
+				6659EC2E2DAC005F003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */,
+				6659EC2F2DAC005F003EAB20 /* CoreText-3W9A51BO0R6G.pcm */,
+				6659EC302DAC005F003EAB20 /* Security-27ZMYP8CODFT0.pcm */,
+				6659EC312DAC005F003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */,
+				6659EC322DAC005F003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */,
+				6659EC332DAC005F003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */,
+				6659EC342DAC005F003EAB20 /* CommonCrypto-3IJ2UQT7UNSLI.pcm */,
+				6659EC352DAC005F003EAB20 /* ImageIO-YVI44K06S0WO.pcm */,
+				6659EC362DAC005F003EAB20 /* nanopb-38DDRJA73GMV7.pcm */,
+				6659EC372DAC005F003EAB20 /* FBLPromises-2WQRRTGRYB940.pcm */,
+				6659EC382DAC005F003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */,
+				6659EC392DAC005F003EAB20 /* os_object-38I6DLZ5IH61J.pcm */,
+				6659EC3A2DAC005F003EAB20 /* modules.idx */,
+				6659EC3B2DAC005F003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */,
+				6659EC3C2DAC005F003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */,
+				6659EC3D2DAC005F003EAB20 /* GoogleUtilities_Environment-1SP2MC4AB71F8.pcm */,
+			);
+			path = 9OR9D4L707ZH;
+			sourceTree = "<group>";
+		};
+		6659EC3E2DAC005F003EAB20 /* 207KATB39XNH1 */ = {
+			isa = PBXGroup;
+			children = (
+				6659EC3F2DAC005F003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EC402DAC005F003EAB20 /* nanopb-38DDRJA73GMV7.pcm */,
+				6659EC412DAC005F003EAB20 /* modules.idx */,
+			);
+			path = 207KATB39XNH1;
+			sourceTree = "<group>";
+		};
+		6659EC442DAC005F003EAB20 /* 14AATFWWZ1SJC */ = {
+			isa = PBXGroup;
+			children = (
+				6659EC452DAC005F003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */,
+				6659EC462DAC005F003EAB20 /* GoogleDataTransport-3J07PHYV4K5HP.pcm */,
+				6659EC472DAC005F003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */,
+				6659EC482DAC005F003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */,
+				6659EC492DAC005F003EAB20 /* SwiftOverlayShims-2TTN5UXQBRCCQ.pcm */,
+				6659EC4A2DAC005F003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */,
+				6659EC4B2DAC005F003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EC4C2DAC005F003EAB20 /* FirebaseInstallations-B6LF3BE99NTJ.pcm */,
+				6659EC4D2DAC005F003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */,
+				6659EC4E2DAC005F003EAB20 /* Security-27ZMYP8CODFT0.pcm */,
+				6659EC4F2DAC005F003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */,
+				6659EC502DAC0060003EAB20 /* SwiftShims-2TTN5UXQBRCCQ.pcm */,
+				6659EC512DAC0060003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */,
+				6659EC522DAC0060003EAB20 /* os_object-38I6DLZ5IH61J.pcm */,
+				6659EC532DAC0060003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */,
+				6659EC542DAC0060003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */,
+				6659EC552DAC0060003EAB20 /* GoogleUtilities_Logger-1DJOUGE6Q02Q2.pcm */,
+			);
+			path = 14AATFWWZ1SJC;
+			sourceTree = "<group>";
+		};
+		6659EC572DAC0060003EAB20 /* 8KZAGYTTR3WD */ = {
+			isa = PBXGroup;
+			children = (
+				6659EC582DAC0060003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */,
+				6659EC592DAC0060003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */,
+				6659EC5A2DAC0060003EAB20 /* GoogleDataTransport-3J07PHYV4K5HP.pcm */,
+				6659EC5B2DAC0060003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */,
+				6659EC5C2DAC0060003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */,
+				6659EC5D2DAC0060003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */,
+				6659EC5E2DAC0060003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */,
+				6659EC5F2DAC0060003EAB20 /* Metal-UMHL2WVYX9T4.pcm */,
+				6659EC602DAC0060003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */,
+				6659EC612DAC0060003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */,
+				6659EC622DAC0060003EAB20 /* FirebaseABTesting-3TKEST9ET884Y.pcm */,
+				6659EC632DAC0060003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EC642DAC0060003EAB20 /* FirebaseInstallations-B6LF3BE99NTJ.pcm */,
+				6659EC652DAC0060003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */,
+				6659EC662DAC0060003EAB20 /* SystemConfiguration-354UAJE49HRJF.pcm */,
+				6659EC672DAC0060003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */,
+				6659EC682DAC0060003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */,
+				6659EC692DAC0060003EAB20 /* CoreText-3W9A51BO0R6G.pcm */,
+				6659EC6A2DAC0060003EAB20 /* Security-27ZMYP8CODFT0.pcm */,
+				6659EC6B2DAC0060003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */,
+				6659EC6C2DAC0060003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */,
+				6659EC6D2DAC0060003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */,
+				6659EC6E2DAC0060003EAB20 /* ImageIO-YVI44K06S0WO.pcm */,
+				6659EC6F2DAC0060003EAB20 /* nanopb-38DDRJA73GMV7.pcm */,
+				6659EC702DAC0060003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */,
+				6659EC712DAC0060003EAB20 /* SQLite3-38I6DLZ5IH61J.pcm */,
+				6659EC722DAC0060003EAB20 /* os_object-38I6DLZ5IH61J.pcm */,
+				6659EC732DAC0060003EAB20 /* modules.idx */,
+				6659EC742DAC0060003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */,
+				6659EC752DAC0060003EAB20 /* GoogleUtilities_AppDelegateSwizzler-2JGDKDZC0O3J5.pcm */,
+				6659EC762DAC0060003EAB20 /* GoogleUtilities_Reachability-1MIZAUMZ8YJ1Y.pcm */,
+				6659EC772DAC0060003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */,
+				6659EC782DAC0060003EAB20 /* GoogleUtilities_UserDefaults-2B48RKJNCIOO0.pcm */,
+				6659EC792DAC0060003EAB20 /* GoogleUtilities_Environment-1SP2MC4AB71F8.pcm */,
+				6659EC7A2DAC0060003EAB20 /* GoogleUtilities_Logger-1DJOUGE6Q02Q2.pcm */,
+			);
+			path = 8KZAGYTTR3WD;
+			sourceTree = "<group>";
+		};
+		6659EC802DAC0060003EAB20 /* 2R8O9RKANRYQ0 */ = {
+			isa = PBXGroup;
+			children = (
+				6659EC812DAC0060003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */,
+				6659EC822DAC0060003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */,
+				6659EC832DAC0060003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */,
+				6659EC842DAC0060003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */,
+				6659EC852DAC0060003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */,
+				6659EC862DAC0060003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */,
+				6659EC872DAC0060003EAB20 /* Metal-UMHL2WVYX9T4.pcm */,
+				6659EC882DAC0060003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */,
+				6659EC892DAC0060003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */,
+				6659EC8A2DAC0060003EAB20 /* WebKit-18VDYZKXRX7YI.pcm */,
+				6659EC8B2DAC0060003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659EC8C2DAC0060003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */,
+				6659EC8D2DAC0060003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */,
+				6659EC8E2DAC0060003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */,
+				6659EC8F2DAC0060003EAB20 /* CoreText-3W9A51BO0R6G.pcm */,
+				6659EC902DAC0060003EAB20 /* Security-27ZMYP8CODFT0.pcm */,
+				6659EC912DAC0060003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */,
+				6659EC922DAC0060003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */,
+				6659EC932DAC0060003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */,
+				6659EC942DAC0060003EAB20 /* ImageIO-YVI44K06S0WO.pcm */,
+				6659EC952DAC0060003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */,
+				6659EC962DAC0060003EAB20 /* os_object-38I6DLZ5IH61J.pcm */,
+				6659EC972DAC0060003EAB20 /* modules.idx */,
+				6659EC982DAC0060003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */,
+				6659EC992DAC0060003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */,
+			);
+			path = 2R8O9RKANRYQ0;
+			sourceTree = "<group>";
+		};
+		6659EC9A2DAC0060003EAB20 /* 2XPDZ80K327OZ */ = {
+			isa = PBXGroup;
+			children = (
+				6659EC9B2DAC0060003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */,
+				6659EC9C2DAC0060003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */,
+				6659EC9D2DAC0060003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */,
+				6659EC9E2DAC0060003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */,
+				6659EC9F2DAC0060003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */,
+				6659ECA02DAC0060003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */,
+				6659ECA12DAC0060003EAB20 /* Metal-UMHL2WVYX9T4.pcm */,
+				6659ECA22DAC0060003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */,
+				6659ECA32DAC0060003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */,
+				6659ECA42DAC0060003EAB20 /* GTMSessionFetcherCore-2HEVODT396WA7.pcm */,
+				6659ECA52DAC0060003EAB20 /* WebKit-18VDYZKXRX7YI.pcm */,
+				6659ECA62DAC0060003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659ECA72DAC0060003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */,
+				6659ECA82DAC0060003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */,
+				6659ECA92DAC0060003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */,
+				6659ECAA2DAC0060003EAB20 /* CoreText-3W9A51BO0R6G.pcm */,
+				6659ECAB2DAC0061003EAB20 /* Security-27ZMYP8CODFT0.pcm */,
+				6659ECAC2DAC0061003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */,
+				6659ECAD2DAC0061003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */,
+				6659ECAE2DAC0061003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */,
+				6659ECAF2DAC0061003EAB20 /* ImageIO-YVI44K06S0WO.pcm */,
+				6659ECB02DAC0061003EAB20 /* FBLPromises-2WQRRTGRYB940.pcm */,
+				6659ECB12DAC0061003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */,
+				6659ECB22DAC0061003EAB20 /* os_object-38I6DLZ5IH61J.pcm */,
+				6659ECB32DAC0061003EAB20 /* modules.idx */,
+				6659ECB42DAC0061003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */,
+				6659ECB52DAC0061003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */,
+			);
+			path = 2XPDZ80K327OZ;
+			sourceTree = "<group>";
+		};
+		6659ECB82DAC0061003EAB20 /* 3LWNFSART2ZX4 */ = {
+			isa = PBXGroup;
+			children = (
+				6659ECB92DAC0061003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */,
+				6659ECBA2DAC0061003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */,
+				6659ECBB2DAC0061003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */,
+				6659ECBC2DAC0061003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */,
+				6659ECBD2DAC0061003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */,
+				6659ECBE2DAC0061003EAB20 /* Metal-UMHL2WVYX9T4.pcm */,
+				6659ECBF2DAC0061003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */,
+				6659ECC02DAC0061003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */,
+				6659ECC12DAC0061003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659ECC22DAC0061003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */,
+				6659ECC32DAC0061003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */,
+				6659ECC42DAC0061003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */,
+				6659ECC52DAC0061003EAB20 /* CoreText-3W9A51BO0R6G.pcm */,
+				6659ECC62DAC0061003EAB20 /* Security-27ZMYP8CODFT0.pcm */,
+				6659ECC72DAC0061003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */,
+				6659ECC82DAC0061003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */,
+				6659ECC92DAC0061003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */,
+				6659ECCA2DAC0061003EAB20 /* ImageIO-YVI44K06S0WO.pcm */,
+				6659ECCB2DAC0061003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */,
+				6659ECCC2DAC0061003EAB20 /* os_object-38I6DLZ5IH61J.pcm */,
+				6659ECCD2DAC0061003EAB20 /* modules.idx */,
+				6659ECCE2DAC0061003EAB20 /* FirebaseCoreInternal-MSIBPWHLHNGH.pcm */,
+				6659ECCF2DAC0061003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */,
+				6659ECD02DAC0061003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */,
+				6659ECD12DAC0061003EAB20 /* GoogleUtilities_Environment-1SP2MC4AB71F8.pcm */,
+				6659ECD22DAC0061003EAB20 /* GoogleUtilities_Logger-1DJOUGE6Q02Q2.pcm */,
+			);
+			path = 3LWNFSART2ZX4;
+			sourceTree = "<group>";
+		};
+		6659ECD72DAC0061003EAB20 /* 11GWS8CTI0VAE */ = {
+			isa = PBXGroup;
+			children = (
+				6659ECD82DAC0061003EAB20 /* ptrauth-2BO8AI7X08ED1.pcm */,
+				6659ECD92DAC0061003EAB20 /* QuartzCore-23I9VTX2KZMTH.pcm */,
+				6659ECDA2DAC0061003EAB20 /* GoogleDataTransport-3J07PHYV4K5HP.pcm */,
+				6659ECDB2DAC0061003EAB20 /* UIKit-1V5UHAPTOD24G.pcm */,
+				6659ECDC2DAC0061003EAB20 /* FirebaseCore-3FLI14I3M8QBJ.pcm */,
+				6659ECDD2DAC0061003EAB20 /* CoreGraphics-54UV9QOCX3ZY.pcm */,
+				6659ECDE2DAC0061003EAB20 /* OpenGLES-MDRMEQ3COFKY.pcm */,
+				6659ECDF2DAC0061003EAB20 /* Metal-UMHL2WVYX9T4.pcm */,
+				6659ECE02DAC0061003EAB20 /* CoreImage-2L8M44C0CYIPM.pcm */,
+				6659ECE12DAC0061003EAB20 /* CFNetwork-3188M7OK0JW08.pcm */,
+				6659ECE22DAC0061003EAB20 /* FirebaseRemoteConfig-BGY5NLEN00KO.pcm */,
+				6659ECE32DAC0061003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659ECE42DAC0061003EAB20 /* FirebaseInstallations-B6LF3BE99NTJ.pcm */,
+				6659ECE52DAC0061003EAB20 /* CoreVideo-1MLDN391V99P4.pcm */,
+				6659ECE62DAC0061003EAB20 /* SystemConfiguration-354UAJE49HRJF.pcm */,
+				6659ECE72DAC0061003EAB20 /* UserNotifications-2WSP49G9OSOCW.pcm */,
+				6659ECE82DAC0061003EAB20 /* ObjectiveC-1R06XOY9T4FIM.pcm */,
+				6659ECE92DAC0061003EAB20 /* CoreText-3W9A51BO0R6G.pcm */,
+				6659ECEA2DAC0061003EAB20 /* Security-27ZMYP8CODFT0.pcm */,
+				6659ECEB2DAC0061003EAB20 /* FileProvider-1OMUUHYDP2DYB.pcm */,
+				6659ECEC2DAC0061003EAB20 /* os_workgroup-38I6DLZ5IH61J.pcm */,
+				6659ECED2DAC0061003EAB20 /* GoogleUtilities_MethodSwizzler-8V6N272T1IB8.pcm */,
+				6659ECEE2DAC0061003EAB20 /* IOSurface-2NV0LTM1HC45.pcm */,
+				6659ECEF2DAC0061003EAB20 /* ImageIO-YVI44K06S0WO.pcm */,
+				6659ECF02DAC0061003EAB20 /* nanopb-38DDRJA73GMV7.pcm */,
+				6659ECF12DAC0061003EAB20 /* CoreTelephony-6O0UP606QVMK.pcm */,
+				6659ECF22DAC0061003EAB20 /* CoreFoundation-J9ZOXGK4ZTRR.pcm */,
+				6659ECF32DAC0061003EAB20 /* os_object-38I6DLZ5IH61J.pcm */,
+				6659ECF42DAC0061003EAB20 /* modules.idx */,
+				6659ECF52DAC0061003EAB20 /* Foundation-3DFYNEBRQSXST.pcm */,
+				6659ECF62DAC0061003EAB20 /* GoogleUtilities_ISASwizzler-1WFNV9LYI4ALW.pcm */,
+				6659ECF72DAC0061003EAB20 /* Dispatch-2LX9MWM6UEPQW.pcm */,
+				6659ECF82DAC0061003EAB20 /* GoogleUtilities_Environment-1SP2MC4AB71F8.pcm */,
+			);
+			path = 11GWS8CTI0VAE;
+			sourceTree = "<group>";
+		};
+		6659ECFB2DAC0061003EAB20 /* GF93ZVG43JFD */ = {
+			isa = PBXGroup;
+			children = (
+				6659ECFC2DAC0061003EAB20 /* _Builtin_stddef_max_align_t-2BO8AI7X08ED1.pcm */,
+				6659ECFD2DAC0061003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659ECFE2DAC0061003EAB20 /* modules.idx */,
+			);
+			path = GF93ZVG43JFD;
+			sourceTree = "<group>";
+		};
+		6659ED002DAC0061003EAB20 /* TMB736Y21Y96 */ = {
+			isa = PBXGroup;
+			children = (
+				6659ED012DAC0061003EAB20 /* Darwin-38I6DLZ5IH61J.pcm */,
+				6659ED022DAC0061003EAB20 /* nanopb-38DDRJA73GMV7.pcm */,
+				6659ED032DAC0062003EAB20 /* modules.idx */,
+			);
+			path = TMB736Y21Y96;
+			sourceTree = "<group>";
+		};
+		6659ED052DAC0062003EAB20 /* Interactive Components */ = {
+			isa = PBXGroup;
+			children = (
+				6659ED062DAC0062003EAB20 /* CounterView.swift */,
+				6659ED072DAC0062003EAB20 /* ZikrCounterView.swift */,
+				6659ED082DAC0062003EAB20 /* ActivityView.swift */,
+			);
+			path = "Interactive Components";
+			sourceTree = "<group>";
+		};
+		6659ED0A2DAC0062003EAB20 /* Main Screens */ = {
+			isa = PBXGroup;
+			children = (
+				6659ED0B2DAC0062003EAB20 /* SettingsView.swift */,
+				6659ED0C2DAC0062003EAB20 /* AdvancedStatisticsView.swift */,
+				6659ED0D2DAC0062003EAB20 /* PrayerTimesView.swift */,
+				6659ED0E2DAC0062003EAB20 /* CityPickerView.swift */,
+				6659ED0F2DAC0062003EAB20 /* SupportView.swift */,
+				6659ED102DAC0062003EAB20 /* AzkarView.swift */,
+			);
+			path = "Main Screens";
+			sourceTree = "<group>";
+		};
+		6659ED112DAC0062003EAB20 /* Build */ = {
+			isa = PBXGroup;
+			children = (
+				6659ED122DAC0062003EAB20 /* Intermediates.noindex */,
+			);
+			path = Build;
+			sourceTree = "<group>";
+		};
+		6659ED122DAC0062003EAB20 /* Intermediates.noindex */ = {
+			isa = PBXGroup;
+			children = (
+				6659ED132DAC0062003EAB20 /* XCBuildData */,
+			);
+			path = Intermediates.noindex;
+			sourceTree = "<group>";
+		};
+		6659ED132DAC0062003EAB20 /* XCBuildData */ = {
+			isa = PBXGroup;
+			children = (
+				6659ED142DAC0062003EAB20 /* d2464269a7bf39fa59b469ee52ac2b60-manifest.xcbuild */,
+				6659ED152DAC0062003EAB20 /* BuildDescriptionCacheIndex-2e45fa92c82934554453e61ca8c1311f */,
+				6659ED162DAC0062003EAB20 /* d2464269a7bf39fa59b469ee52ac2b60-buildRequest.json */,
+				6659ED172DAC0062003EAB20 /* build.db */,
+				6659ED182DAC0062003EAB20 /* d2464269a7bf39fa59b469ee52ac2b60-desc.xcbuild */,
+				6659ED192DAC0062003EAB20 /* d2464269a7bf39fa59b469ee52ac2b60-targetGraph.txt */,
+			);
+			path = XCBuildData;
+			sourceTree = "<group>";
+		};
+		6659ED1B2DAC0062003EAB20 /* Data Display Components */ = {
+			isa = PBXGroup;
+			children = (
+				6659ED1C2DAC0062003EAB20 /* ZikrCardView.swift */,
+				6659ED1D2DAC0062003EAB20 /* StatCard.swift */,
+				6659ED1E2DAC0062003EAB20 /* PieSliceView.swift */,
+				6659ED1F2DAC0062003EAB20 /* PrayerCardView.swift */,
+				6659ED202DAC0062003EAB20 /* PieChartView.swift */,
+			);
+			path = "Data Display Components";
+			sourceTree = "<group>";
+		};
 		66C1AC422D88FBD400AC36A6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -139,116 +1461,10 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		66C1AC772D8C181A00AC36A6 /* Tasbeeh+ | تسبيح */ = {
-			isa = PBXGroup;
-			children = (
-				66827E822DA1394D00CBB124 /* LaunchScreen.storyboard */,
-				66C1AC782D8C181A00AC36A6 /* Application Structure */,
-				66C1AC7F2D8C181A00AC36A6 /* Additional Settings & Details */,
-				66C1AC842D8C181A00AC36A6 /* UI Components */,
-				66C1AC8C2D8C181B00AC36A6 /* Logic & Data Management */,
-				66C1AC952D8C181B00AC36A6 /* Assets.xcassets */,
-				665AD89C2D9A99E900B65AA9 /* Contents.json */,
-				66C1AEA22D8C181E00AC36A6 /* Interactive Components */,
-				66C1AEA62D8C181E00AC36A6 /* Main Screens */,
-				66C1AEB72D8C181E00AC36A6 /* Data Display Components */,
-				66516CB02D9663DC00429FFE /* Info.plist */,
-			);
-			path = "Tasbeeh+ | تسبيح";
-			sourceTree = "<group>";
-		};
-		66C1AC782D8C181A00AC36A6 /* Application Structure */ = {
-			isa = PBXGroup;
-			children = (
-				66C1AC792D8C181A00AC36A6 /* Tasbeeh+ | تسبيح.swift */,
-				66C1AC7A2D8C181A00AC36A6 /* ScaleButtonStyle.swift */,
-				66C1AC7B2D8C181A00AC36A6 /* Home.swift */,
-				66C1AC7C2D8C181A00AC36A6 /*  SceneDelegate.swift */,
-				66C1AC7D2D8C181A00AC36A6 /* AppDelegate.swift */,
-				66C1AC7E2D8C181A00AC36A6 /* ContentView.swift */,
-			);
-			path = "Application Structure";
-			sourceTree = "<group>";
-		};
-		66C1AC7F2D8C181A00AC36A6 /* Additional Settings & Details */ = {
-			isa = PBXGroup;
-			children = (
-				66C1AC802D8C181A00AC36A6 /* ZikrDetailView.swift */,
-				66C1AC812D8C181A00AC36A6 /* ZikrSettingsView.swift */,
-				66C1AC822D8C181A00AC36A6 /* SideMenu.swift */,
-				66C1AC832D8C181A00AC36A6 /* StatisticsDetailView.swift */,
-			);
-			path = "Additional Settings & Details";
-			sourceTree = "<group>";
-		};
-		66C1AC842D8C181A00AC36A6 /* UI Components */ = {
-			isa = PBXGroup;
-			children = (
-				66C1AC852D8C181B00AC36A6 /* CustomButtons.swift */,
-				66C1AC862D8C181B00AC36A6 /* BlurView.swift */,
-				66C1AC872D8C181B00AC36A6 /* ZikrFooterView.swift */,
-				66C1AC882D8C181B00AC36A6 /* TabItem.swift */,
-				66C1AC892D8C181B00AC36A6 /* CircleButton.swift */,
-				66C1AC8A2D8C181B00AC36A6 /* CustomTabBar.swift */,
-				66C1AC8B2D8C181B00AC36A6 /* ButtonStyle.swift */,
-			);
-			path = "UI Components";
-			sourceTree = "<group>";
-		};
-		66C1AC8C2D8C181B00AC36A6 /* Logic & Data Management */ = {
-			isa = PBXGroup;
-			children = (
-				66C1AC8D2D8C181B00AC36A6 /* Zikr.swift */,
-				66C1AC8E2D8C181B00AC36A6 /* city.swift */,
-				66C1AC8F2D8C181B00AC36A6 /* PrayerTimesResponse.swift */,
-				66C1AC902D8C181B00AC36A6 /* AppColor.swift */,
-				66C1AC912D8C181B00AC36A6 /* PrayerTimesManager.swift */,
-				66C1AC922D8C181B00AC36A6 /* Tab.swift */,
-				66C1AC932D8C181B00AC36A6 /* LocationManager.swift */,
-				66C1AC942D8C181B00AC36A6 /* AzkarCategory.swift */,
-			);
-			path = "Logic & Data Management";
-			sourceTree = "<group>";
-		};
-		66C1AEA22D8C181E00AC36A6 /* Interactive Components */ = {
-			isa = PBXGroup;
-			children = (
-				66C1AEA32D8C181E00AC36A6 /* CounterView.swift */,
-				66C1AEA42D8C181E00AC36A6 /* ZikrCounterView.swift */,
-				66C1AEA52D8C181E00AC36A6 /* ActivityView.swift */,
-			);
-			path = "Interactive Components";
-			sourceTree = "<group>";
-		};
-		66C1AEA62D8C181E00AC36A6 /* Main Screens */ = {
-			isa = PBXGroup;
-			children = (
-				66C1AEA72D8C181E00AC36A6 /* SettingsView.swift */,
-				66C1AEA82D8C181E00AC36A6 /* AdvancedStatisticsView.swift */,
-				66C1AEA92D8C181E00AC36A6 /* PrayerTimesView.swift */,
-				66C1AEAA2D8C181E00AC36A6 /* CityPickerView.swift */,
-				66C1AEAB2D8C181E00AC36A6 /* SupportView.swift */,
-				66C1AEAC2D8C181E00AC36A6 /* AzkarView.swift */,
-			);
-			path = "Main Screens";
-			sourceTree = "<group>";
-		};
-		66C1AEB72D8C181E00AC36A6 /* Data Display Components */ = {
-			isa = PBXGroup;
-			children = (
-				66C1AEB82D8C181E00AC36A6 /* ZikrCardView.swift */,
-				66C1AEB92D8C181E00AC36A6 /* StatCard.swift */,
-				66C1AEBA2D8C181E00AC36A6 /* PieSliceView.swift */,
-				66C1AEBB2D8C181E00AC36A6 /* PrayerCardView.swift */,
-				66C1AEBC2D8C181E00AC36A6 /* PieChartView.swift */,
-			);
-			path = "Data Display Components";
-			sourceTree = "<group>";
-		};
 		66CD59AD2D815E560057D324 = {
 			isa = PBXGroup;
 			children = (
-				66C1AC772D8C181A00AC36A6 /* Tasbeeh+ | تسبيح */,
+				6659EAD92DAC005B003EAB20 /* TasbeehApp */,
 				66C1AC422D88FBD400AC36A6 /* Frameworks */,
 				66CD59B72D815E560057D324 /* Products */,
 			);
@@ -280,7 +1496,7 @@
 			);
 			name = TasbeehPlus;
 			packageProductDependencies = (
-				66827E852DA164B300CBB124 /* Adhan */,
+				6659EF492DAC014D003EAB20 /* Adhan */,
 			);
 			productName = "Tasbeeh+ | تسبيح";
 			productReference = 66CD59B62D815E560057D324 /* TasbeehPlus.app */;
@@ -311,7 +1527,7 @@
 			);
 			mainGroup = 66CD59AD2D815E560057D324;
 			packageReferences = (
-				66827E842DA164B300CBB124 /* XCRemoteSwiftPackageReference "adhan-swift" */,
+				6659EF482DAC014D003EAB20 /* XCRemoteSwiftPackageReference "adhan-swift" */,
 			);
 			productRefGroup = 66CD59B72D815E560057D324 /* Products */;
 			projectDirPath = "";
@@ -327,9 +1543,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				66827E832DA1394D00CBB124 /* LaunchScreen.storyboard in Resources */,
-				665C948D2D9AA28F0094F0D2 /* Assets.xcassets in Resources */,
-				665AD89D2D9A99E900B65AA9 /* Contents.json in Resources */,
+				6659EF4D2DAC038E003EAB20 /* LaunchScreen.storyboard in Resources */,
+				6659EF4C2DAC0383003EAB20 /* Preview Assets.xcassets in Resources */,
+				6659EF4B2DAC0372003EAB20 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -340,45 +1556,45 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				66C1AEC12D8C181E00AC36A6 /* AppDelegate.swift in Sources */,
-				66C1AECE2D8C181E00AC36A6 /* Zikr.swift in Sources */,
-				66C1B0DE2D8C182000AC36A6 /* StatCard.swift in Sources */,
-				66C1AEC42D8C181E00AC36A6 /* ZikrSettingsView.swift in Sources */,
-				66C1AEC52D8C181E00AC36A6 /* SideMenu.swift in Sources */,
-				66C1B0D02D8C182000AC36A6 /* SettingsView.swift in Sources */,
-				66C1AEC72D8C181E00AC36A6 /* CustomButtons.swift in Sources */,
-				66C1AED32D8C181E00AC36A6 /* Tab.swift in Sources */,
-				66C1AED02D8C181E00AC36A6 /* PrayerTimesResponse.swift in Sources */,
-				66C1AED22D8C181E00AC36A6 /* PrayerTimesManager.swift in Sources */,
-				66C1B0D12D8C182000AC36A6 /* AdvancedStatisticsView.swift in Sources */,
-				66C1B0DD2D8C182000AC36A6 /* ZikrCardView.swift in Sources */,
-				66C1B0E02D8C182000AC36A6 /* PrayerCardView.swift in Sources */,
-				66C1AEBE2D8C181E00AC36A6 /* ScaleButtonStyle.swift in Sources */,
-				66C1AECA2D8C181E00AC36A6 /* TabItem.swift in Sources */,
-				66C1AEC92D8C181E00AC36A6 /* ZikrFooterView.swift in Sources */,
-				66C1AEC02D8C181E00AC36A6 /*  SceneDelegate.swift in Sources */,
-				66C1AED42D8C181E00AC36A6 /* LocationManager.swift in Sources */,
-				66C1AECB2D8C181E00AC36A6 /* CircleButton.swift in Sources */,
-				66C1B0D52D8C182000AC36A6 /* AzkarView.swift in Sources */,
-				66C1AEC62D8C181E00AC36A6 /* StatisticsDetailView.swift in Sources */,
-				66C1B0DF2D8C182000AC36A6 /* PieSliceView.swift in Sources */,
-				66C1B0D22D8C182000AC36A6 /* PrayerTimesView.swift in Sources */,
-				66C1AECF2D8C181E00AC36A6 /* city.swift in Sources */,
-				66C1B0CE2D8C181F00AC36A6 /* ZikrCounterView.swift in Sources */,
-				66C1B0CD2D8C181F00AC36A6 /* CounterView.swift in Sources */,
-				66C1AED52D8C181E00AC36A6 /* AzkarCategory.swift in Sources */,
-				66C1B0CF2D8C181F00AC36A6 /* ActivityView.swift in Sources */,
-				66C1B0E12D8C182000AC36A6 /* PieChartView.swift in Sources */,
-				66C1B0D32D8C182000AC36A6 /* CityPickerView.swift in Sources */,
-				66C1AECC2D8C181E00AC36A6 /* CustomTabBar.swift in Sources */,
-				66C1AED12D8C181E00AC36A6 /* AppColor.swift in Sources */,
-				66C1AEC32D8C181E00AC36A6 /* ZikrDetailView.swift in Sources */,
-				66C1AECD2D8C181E00AC36A6 /* ButtonStyle.swift in Sources */,
-				66C1B0D42D8C182000AC36A6 /* SupportView.swift in Sources */,
-				66C1AEBD2D8C181E00AC36A6 /* Tasbeeh+ | تسبيح.swift in Sources */,
-				66C1AEBF2D8C181E00AC36A6 /* Home.swift in Sources */,
-				66C1AEC22D8C181E00AC36A6 /* ContentView.swift in Sources */,
-				66C1AEC82D8C181E00AC36A6 /* BlurView.swift in Sources */,
+				6659EF332DAC0063003EAB20 /* ZikrCounterView.swift in Sources */,
+				6659EF392DAC0063003EAB20 /* CityPickerView.swift in Sources */,
+				6659ED352DAC0062003EAB20 /* PrayerTimesResponse.swift in Sources */,
+				6659ED302DAC0062003EAB20 /* CircleButton.swift in Sources */,
+				6659ED342DAC0062003EAB20 /* city.swift in Sources */,
+				6659ED242DAC0062003EAB20 /*  SceneDelegate.swift in Sources */,
+				6659ED2C2DAC0062003EAB20 /* CustomButtons.swift in Sources */,
+				6659ED222DAC0062003EAB20 /* ScaleButtonStyle.swift in Sources */,
+				6659ED312DAC0062003EAB20 /* CustomTabBar.swift in Sources */,
+				6659ED282DAC0062003EAB20 /* ZikrDetailView.swift in Sources */,
+				6659ED2A2DAC0062003EAB20 /* SideMenu.swift in Sources */,
+				6659ED332DAC0062003EAB20 /* Zikr.swift in Sources */,
+				6659EF372DAC0063003EAB20 /* AdvancedStatisticsView.swift in Sources */,
+				6659ED322DAC0062003EAB20 /* ButtonStyle.swift in Sources */,
+				6659EF3B2DAC0063003EAB20 /* AzkarView.swift in Sources */,
+				6659EF472DAC0063003EAB20 /* PieChartView.swift in Sources */,
+				6659ED372DAC0062003EAB20 /* PrayerTimesManager.swift in Sources */,
+				6659ED2D2DAC0062003EAB20 /* BlurView.swift in Sources */,
+				6659EF382DAC0063003EAB20 /* PrayerTimesView.swift in Sources */,
+				6659EF452DAC0063003EAB20 /* PieSliceView.swift in Sources */,
+				6659ED262DAC0062003EAB20 /* ContentView.swift in Sources */,
+				6659EF3A2DAC0063003EAB20 /* SupportView.swift in Sources */,
+				6659ED232DAC0062003EAB20 /* Home.swift in Sources */,
+				6659EF432DAC0063003EAB20 /* ZikrCardView.swift in Sources */,
+				6659ED2B2DAC0062003EAB20 /* StatisticsDetailView.swift in Sources */,
+				6659ED2E2DAC0062003EAB20 /* ZikrFooterView.swift in Sources */,
+				6659EF362DAC0063003EAB20 /* SettingsView.swift in Sources */,
+				6659ED382DAC0062003EAB20 /* Tab.swift in Sources */,
+				6659ED2F2DAC0062003EAB20 /* TabItem.swift in Sources */,
+				6659EF442DAC0063003EAB20 /* StatCard.swift in Sources */,
+				6659ED362DAC0062003EAB20 /* AppColor.swift in Sources */,
+				6659ED392DAC0062003EAB20 /* LocationManager.swift in Sources */,
+				6659EF322DAC0063003EAB20 /* CounterView.swift in Sources */,
+				6659ED3A2DAC0062003EAB20 /* AzkarCategory.swift in Sources */,
+				6659ED292DAC0062003EAB20 /* ZikrSettingsView.swift in Sources */,
+				6659EF342DAC0063003EAB20 /* ActivityView.swift in Sources */,
+				6659ED252DAC0062003EAB20 /* AppDelegate.swift in Sources */,
+				6659ED212DAC0062003EAB20 /* Tasbeeh+ | تسبيح.swift in Sources */,
+				6659EF462DAC0063003EAB20 /* PrayerCardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -514,7 +1730,8 @@
 				DEVELOPMENT_TEAM = BSFW4YJUKY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = NO;
-				INFOPLIST_FILE = "$(SRCROOT)/Tasbeeh+ | تسبيح/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/TasbeehApp/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -545,7 +1762,8 @@
 				DEVELOPMENT_TEAM = BSFW4YJUKY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = NO;
-				INFOPLIST_FILE = "$(SRCROOT)/Tasbeeh+ | تسبيح/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/TasbeehApp/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -589,20 +1807,20 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		66827E842DA164B300CBB124 /* XCRemoteSwiftPackageReference "adhan-swift" */ = {
+		6659EF482DAC014D003EAB20 /* XCRemoteSwiftPackageReference "adhan-swift" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/batoulapps/adhan-swift";
 			requirement = {
-				branch = main;
-				kind = branch;
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		66827E852DA164B300CBB124 /* Adhan */ = {
+		6659EF492DAC014D003EAB20 /* Adhan */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 66827E842DA164B300CBB124 /* XCRemoteSwiftPackageReference "adhan-swift" */;
+			package = 6659EF482DAC014D003EAB20 /* XCRemoteSwiftPackageReference "adhan-swift" */;
 			productName = Adhan;
 		};
 /* End XCSwiftPackageProductDependency section */

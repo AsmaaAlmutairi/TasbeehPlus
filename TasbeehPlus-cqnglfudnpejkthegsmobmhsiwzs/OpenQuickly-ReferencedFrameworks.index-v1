@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>Adhan</string>
+	<string>FirebaseCore</string>
+	<string>WatchKit</string>
+	<string>SwiftUI</string>
+	<string>XCTest</string>
+	<string>CoreData</string>
+	<string>WidgetKit</string>
+	<string>Charts</string>
+	<string>StoreKit</string>
+	<string>Tests</string>
+	<string>UIKit</string>
+	<string>PackageDescription</string>
+	<string>CoreLocation</string>
+	<string>Foundation</string>
+</array>
+</plist>
