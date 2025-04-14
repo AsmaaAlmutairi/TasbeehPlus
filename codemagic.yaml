@@ -3,17 +3,17 @@ workflows:
     name: Build and release iOS app
     environment:
       vars:
-        XCODE_WORKSPACE: "TasbeehPlus.xcodeproj"
+        XCODE_PROJECT: "TasbeehPlus"
         XCODE_SCHEME: "TasbeehPlus"
         BUNDLE_ID: "com.sky.tasbeeh"
         APP_STORE_ID: "6744103046"
-      xcode: latest
+    xcode: latest
     scripts:
       - name: Set up keychain
         script: |
           keychain initialize
       - name: Build .ipa for distribution
         script: |
-          xcode-project build-ipa --project "$XCODE_WORKSPACE" --scheme "$XCODE_SCHEME"
+          xcode-project build-ipa --project "$XCODE_PROJECT.xcodeproj" --scheme "$XCODE_SCHEME"
     artifacts:
       - build/ios/ipa/*.ipa
