@@ -1,14 +1,15 @@
 default_platform(:ios)
 
 platform :ios do
-  desc "Upload build to the App Store"
+  desc "Push a new beta build to TestFlight"
+  lane :beta do
+    build_app(scheme: "TasbeehPlus")
+    upload_to_testflight
+  end
+
+  desc "Deploy to the App Store"
   lane :release do
-    build_app(
-      scheme: "TasbeehPlus"
-    )
-    upload_to_app_store(
-      skip_metadata: true,
-      skip_screenshots: true
-    )
+    build_app(scheme: "TasbeehPlus")
+    upload_to_app_store
   end
 end
