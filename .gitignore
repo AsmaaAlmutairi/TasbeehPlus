@@ -1,3 +1,6 @@
+nano .gitignore
+/.build/
+/SourcePackages/
 # Ignore build files
 Build/
 DerivedData/
