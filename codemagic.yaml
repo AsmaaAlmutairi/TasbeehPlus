@@ -16,7 +16,6 @@ workflows:
           xcode-project build-ipa \
             --project "$XCODE_PROJECT" \
             --scheme "$XCODE_SCHEME" \
-            --export-method app-store \
-            --export-team-id BSFW4YJUKY
+            --export-options-plist export_options.plist
     artifacts:
       - build/ios/ipa/*.ipa
