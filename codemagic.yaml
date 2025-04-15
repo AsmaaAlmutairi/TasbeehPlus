@@ -16,7 +16,6 @@ workflows:
           xcode-project build-ipa \
             --project "$XCODE_PROJECT" \
             --scheme "$XCODE_SCHEME" \
-            --export-options-plist export_options.plist \
-            --use-xcode-managed-signing
+            --export-options-plist exportOptions.plist
     artifacts:
       - build/ios/ipa/*.ipa
