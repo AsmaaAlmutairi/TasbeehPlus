@@ -16,6 +16,6 @@ workflows:
           xcode-project build-ipa \
             --project "$XCODE_PROJECT" \
             --scheme "$XCODE_SCHEME" \
-            --export-options-plist exportOptions.plist
+            --export-options-plist export_options.plist
     artifacts:
       - build/ios/ipa/*.ipa
