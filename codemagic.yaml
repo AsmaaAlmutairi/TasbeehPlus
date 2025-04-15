@@ -13,6 +13,10 @@ workflows:
           keychain initialize
       - name: Build .ipa for distribution
         script: |
-          xcode-project build-ipa --project "$XCODE_PROJECT" --scheme "$XCODE_SCHEME"
+          xcode-project build-ipa \
+            --project "$XCODE_PROJECT" \
+            --scheme "$XCODE_SCHEME" \
+            --export-method app-store \
+            --export-team-id BSFW4YJUKY
     artifacts:
       - build/ios/ipa/*.ipa
