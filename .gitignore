@@ -13,3 +13,10 @@ DerivedData/
 # Ignore temporary files
 *.DS_Store
 *.swp
+# Ignore IPA and build output
+*.ipa
+*.log
+*.plist
+build/
+*.xcarchive
+TasbeehPlus 1446-*/
