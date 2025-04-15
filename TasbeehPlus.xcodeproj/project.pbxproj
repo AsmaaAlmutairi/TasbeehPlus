@@ -49,8 +49,8 @@
 		6659EF4B2DAC0372003EAB20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6659EAF82DAC005C003EAB20 /* Assets.xcassets */; };
 		6659EF4C2DAC0383003EAB20 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6659EAFA2DAC005C003EAB20 /* Preview Assets.xcassets */; };
 		6659EF4D2DAC038E003EAB20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6659EAE12DAC005B003EAB20 /* LaunchScreen.storyboard */; };
-		665C948F2D9FF6810094F0D2 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 665C948E2D9FF6810094F0D2 /* StoreKit.framework */; };
 		668593112DADF576007B9AAA /* Tasbeeh.swift in Sources */ = {isa = PBXBuildFile; fileRef = 668593102DADF576007B9AAA /* Tasbeeh.swift */; };
+		668593132DAE2432007B9AAA /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 668593122DAE2432007B9AAA /* StoreKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -617,8 +617,8 @@
 		6659ED1E2DAC0062003EAB20 /* PieSliceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieSliceView.swift; sourceTree = "<group>"; };
 		6659ED1F2DAC0062003EAB20 /* PrayerCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerCardView.swift; sourceTree = "<group>"; };
 		6659ED202DAC0062003EAB20 /* PieChartView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieChartView.swift; sourceTree = "<group>"; };
-		665C948E2D9FF6810094F0D2 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		668593102DADF576007B9AAA /* Tasbeeh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tasbeeh.swift; sourceTree = "<group>"; };
+		668593122DAE2432007B9AAA /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		66C1AC432D88FBD400AC36A6 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		66C1AC452D88FBD500AC36A6 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
 		66CD59B62D815E560057D324 /* TasbeehPlus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TasbeehPlus.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -629,8 +629,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				665C948F2D9FF6810094F0D2 /* StoreKit.framework in Frameworks */,
 				6659EF4A2DAC014D003EAB20 /* Adhan in Frameworks */,
+				668593132DAE2432007B9AAA /* StoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1454,7 +1454,7 @@
 		66C1AC422D88FBD400AC36A6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				665C948E2D9FF6810094F0D2 /* StoreKit.framework */,
+				668593122DAE2432007B9AAA /* StoreKit.framework */,
 				66C1AC432D88FBD400AC36A6 /* WidgetKit.framework */,
 				66C1AC452D88FBD500AC36A6 /* SwiftUI.framework */,
 			);
