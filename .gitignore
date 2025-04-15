@@ -16,7 +16,8 @@ DerivedData/
 # Ignore IPA and build output
 *.ipa
 *.log
-*.plist
+*.plist*.mobileprovision
 build/
 *.xcarchive
 TasbeehPlus 1446-*/
+*.mobileprovision
