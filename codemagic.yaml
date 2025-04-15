@@ -11,12 +11,12 @@ workflows:
       - name: Set up keychain
         script: |
           keychain initialize
-      - name: Build .ipa for distribution
-        script: |
-          xcode-project build-ipa \
-            --project "$XCODE_PROJECT" \
-            --scheme "$XCODE_SCHEME" \
-            --use-xcode-managed-signing \
-            --export-options-plist export_options.plist
+    - name: Build .ipa for distribution
+   script: |
+    xcode-project build-ipa \
+      --project "$XCODE_PROJECT" \
+      --scheme "$XCODE_SCHEME" \
+      --export-options-plist export_options.plist
+      
     artifacts:
       - build/ios/ipa/*.ipa
