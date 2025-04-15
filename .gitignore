@@ -1,6 +1,6 @@
-nano .gitignore
 /.build/
 /SourcePackages/
+
 # Ignore build files
 Build/
 DerivedData/
@@ -13,10 +13,11 @@ DerivedData/
 # Ignore temporary files
 *.DS_Store
 *.swp
+
 # Ignore IPA and build output
 *.ipa
 *.log
-*.plist*.mobileprovision
+*.plist
 build/
 *.xcarchive
 TasbeehPlus 1446-*/
