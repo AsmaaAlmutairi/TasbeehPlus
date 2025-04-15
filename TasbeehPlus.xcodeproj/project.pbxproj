@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6659ED212DAC0062003EAB20 /* Tasbeeh+ | تسبيح.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EADB2DAC005B003EAB20 /* Tasbeeh+ | تسبيح.swift */; };
 		6659ED222DAC0062003EAB20 /* ScaleButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EADC2DAC005B003EAB20 /* ScaleButtonStyle.swift */; };
 		6659ED232DAC0062003EAB20 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EADD2DAC005B003EAB20 /* Home.swift */; };
 		6659ED242DAC0062003EAB20 /*  SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6659EADE2DAC005B003EAB20 /*  SceneDelegate.swift */; };
@@ -51,6 +50,7 @@
 		6659EF4C2DAC0383003EAB20 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6659EAFA2DAC005C003EAB20 /* Preview Assets.xcassets */; };
 		6659EF4D2DAC038E003EAB20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6659EAE12DAC005B003EAB20 /* LaunchScreen.storyboard */; };
 		665C948F2D9FF6810094F0D2 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 665C948E2D9FF6810094F0D2 /* StoreKit.framework */; };
+		668593112DADF576007B9AAA /* Tasbeeh.swift in Sources */ = {isa = PBXBuildFile; fileRef = 668593102DADF576007B9AAA /* Tasbeeh.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -67,7 +67,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		6659EADB2DAC005B003EAB20 /* Tasbeeh+ | تسبيح.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Tasbeeh+ | تسبيح.swift"; sourceTree = "<group>"; };
 		6659EADC2DAC005B003EAB20 /* ScaleButtonStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScaleButtonStyle.swift; sourceTree = "<group>"; };
 		6659EADD2DAC005B003EAB20 /* Home.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		6659EADE2DAC005B003EAB20 /*  SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = " SceneDelegate.swift"; sourceTree = "<group>"; };
@@ -619,6 +618,7 @@
 		6659ED1F2DAC0062003EAB20 /* PrayerCardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrayerCardView.swift; sourceTree = "<group>"; };
 		6659ED202DAC0062003EAB20 /* PieChartView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PieChartView.swift; sourceTree = "<group>"; };
 		665C948E2D9FF6810094F0D2 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		668593102DADF576007B9AAA /* Tasbeeh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tasbeeh.swift; sourceTree = "<group>"; };
 		66C1AC432D88FBD400AC36A6 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		66C1AC452D88FBD500AC36A6 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
 		66CD59B62D815E560057D324 /* TasbeehPlus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TasbeehPlus.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -661,12 +661,12 @@
 		6659EADA2DAC005B003EAB20 /* Application Structure */ = {
 			isa = PBXGroup;
 			children = (
-				6659EADB2DAC005B003EAB20 /* Tasbeeh+ | تسبيح.swift */,
 				6659EADC2DAC005B003EAB20 /* ScaleButtonStyle.swift */,
 				6659EADD2DAC005B003EAB20 /* Home.swift */,
 				6659EADE2DAC005B003EAB20 /*  SceneDelegate.swift */,
 				6659EADF2DAC005B003EAB20 /* AppDelegate.swift */,
 				6659EAE02DAC005B003EAB20 /* ContentView.swift */,
+				668593102DADF576007B9AAA /* Tasbeeh.swift */,
 			);
 			path = "Application Structure";
 			sourceTree = "<group>";
@@ -1579,6 +1579,7 @@
 				6659ED262DAC0062003EAB20 /* ContentView.swift in Sources */,
 				6659EF3A2DAC0063003EAB20 /* SupportView.swift in Sources */,
 				6659ED232DAC0062003EAB20 /* Home.swift in Sources */,
+				668593112DADF576007B9AAA /* Tasbeeh.swift in Sources */,
 				6659EF432DAC0063003EAB20 /* ZikrCardView.swift in Sources */,
 				6659ED2B2DAC0062003EAB20 /* StatisticsDetailView.swift in Sources */,
 				6659ED2E2DAC0062003EAB20 /* ZikrFooterView.swift in Sources */,
@@ -1593,7 +1594,6 @@
 				6659ED292DAC0062003EAB20 /* ZikrSettingsView.swift in Sources */,
 				6659EF342DAC0063003EAB20 /* ActivityView.swift in Sources */,
 				6659ED252DAC0062003EAB20 /* AppDelegate.swift in Sources */,
-				6659ED212DAC0062003EAB20 /* Tasbeeh+ | تسبيح.swift in Sources */,
 				6659EF462DAC0063003EAB20 /* PrayerCardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
