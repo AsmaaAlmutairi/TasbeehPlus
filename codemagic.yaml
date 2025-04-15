@@ -11,18 +11,15 @@ workflows:
       - name: Set up keychain
         script: |
           keychain initialize
-
       - name: Set provisioning profile
         script: |
           mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
-          cp TasbeehPlus_AppStore_Profile.mobileprovision ~/Library/MobileDevice/Provisioning\ Profiles/
-
+          cp TasbeehPlus_App_Store_Profile.mobileprovision ~/Library/MobileDevice/Provisioning\ Profiles/
       - name: Build .ipa for distribution
         script: |
           xcode-project build-ipa \
             --project "$XCODE_PROJECT" \
             --scheme "$XCODE_SCHEME" \
             --export-options-plist export_options.plist
-
     artifacts:
       - build/ios/ipa/*.ipa
