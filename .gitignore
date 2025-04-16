@@ -20,5 +20,7 @@ DerivedData/
 *.plist
 build/
 *.xcarchive
-TasbeehPlus 1446-*/
+
+# Allow export options and provisioning profile for Codemagic
 !export_options.plist
+!TasbeehPlus_App_Store_Profile.mobileprovision
