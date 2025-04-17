@@ -3,7 +3,7 @@ workflows:
     name: Build and release iOS app
     environment:
       vars:
-        XCODE_PROJECT: "TasbeehPlus.xcodeproj"
+        XCODE_WORKSPACE: "TasbeehPlus.xcworkspace"
         XCODE_SCHEME: "TasbeehPlus"
         BUNDLE_ID: "com.sky.tasbeeh"
         APP_STORE_ID: "6744103046"
@@ -22,7 +22,7 @@ workflows:
       - name: Build .ipa for distribution
         script: |
           xcode-project build-ipa \
-            --project "$XCODE_PROJECT" \
+            --workspace "$XCODE_WORKSPACE" \
             --scheme "$XCODE_SCHEME" \
             --export-options-plist export_options.plist
 

@@ -51,6 +51,8 @@
 		6659EF4D2DAC038E003EAB20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6659EAE12DAC005B003EAB20 /* LaunchScreen.storyboard */; };
 		668593112DADF576007B9AAA /* Tasbeeh.swift in Sources */ = {isa = PBXBuildFile; fileRef = 668593102DADF576007B9AAA /* Tasbeeh.swift */; };
 		668593132DAE2432007B9AAA /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 668593122DAE2432007B9AAA /* StoreKit.framework */; };
+		66F0C58E2DB112C30071D877 /* Pods_TasbeehPlus.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65AE2B7B93BD2DD710910ECC /* Pods_TasbeehPlus.framework */; };
+		66F6D3522DB125A500DE4DB7 /* KeyboardResponsive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66F6D3512DB125A500DE4DB7 /* KeyboardResponsive.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -67,6 +69,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		65AE2B7B93BD2DD710910ECC /* Pods_TasbeehPlus.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TasbeehPlus.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6659EADC2DAC005B003EAB20 /* ScaleButtonStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScaleButtonStyle.swift; sourceTree = "<group>"; };
 		6659EADD2DAC005B003EAB20 /* Home.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		6659EADE2DAC005B003EAB20 /*  SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = " SceneDelegate.swift"; sourceTree = "<group>"; };
@@ -622,6 +625,9 @@
 		66C1AC432D88FBD400AC36A6 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		66C1AC452D88FBD500AC36A6 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
 		66CD59B62D815E560057D324 /* TasbeehPlus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TasbeehPlus.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		66F6D3512DB125A500DE4DB7 /* KeyboardResponsive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardResponsive.swift; sourceTree = "<group>"; };
+		737D32FA61392567E3771363 /* Pods-TasbeehPlus.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TasbeehPlus.debug.xcconfig"; path = "Target Support Files/Pods-TasbeehPlus/Pods-TasbeehPlus.debug.xcconfig"; sourceTree = "<group>"; };
+		C679C65ED951112C961EAC50 /* Pods-TasbeehPlus.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TasbeehPlus.release.xcconfig"; path = "Target Support Files/Pods-TasbeehPlus/Pods-TasbeehPlus.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -631,12 +637,22 @@
 			files = (
 				6659EF4A2DAC014D003EAB20 /* Adhan in Frameworks */,
 				668593132DAE2432007B9AAA /* StoreKit.framework in Frameworks */,
+				66F0C58E2DB112C30071D877 /* Pods_TasbeehPlus.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		30905051A60B56693A6C2E50 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				737D32FA61392567E3771363 /* Pods-TasbeehPlus.debug.xcconfig */,
+				C679C65ED951112C961EAC50 /* Pods-TasbeehPlus.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		6659EAD92DAC005B003EAB20 /* TasbeehApp */ = {
 			isa = PBXGroup;
 			children = (
@@ -1393,6 +1409,7 @@
 				6659ED062DAC0062003EAB20 /* CounterView.swift */,
 				6659ED072DAC0062003EAB20 /* ZikrCounterView.swift */,
 				6659ED082DAC0062003EAB20 /* ActivityView.swift */,
+				66F6D3512DB125A500DE4DB7 /* KeyboardResponsive.swift */,
 			);
 			path = "Interactive Components";
 			sourceTree = "<group>";
@@ -1457,6 +1474,7 @@
 				668593122DAE2432007B9AAA /* StoreKit.framework */,
 				66C1AC432D88FBD400AC36A6 /* WidgetKit.framework */,
 				66C1AC452D88FBD500AC36A6 /* SwiftUI.framework */,
+				65AE2B7B93BD2DD710910ECC /* Pods_TasbeehPlus.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -1467,6 +1485,7 @@
 				6659EAD92DAC005B003EAB20 /* TasbeehApp */,
 				66C1AC422D88FBD400AC36A6 /* Frameworks */,
 				66CD59B72D815E560057D324 /* Products */,
+				30905051A60B56693A6C2E50 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -1485,6 +1504,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 66CD59C42D815E590057D324 /* Build configuration list for PBXNativeTarget "TasbeehPlus" */;
 			buildPhases = (
+				48538916297CC05EE07CED86 /* [CP] Check Pods Manifest.lock */,
 				66CD59B22D815E560057D324 /* Sources */,
 				66CD59B32D815E560057D324 /* Frameworks */,
 				66C1B0E82D8C1D3E00AC36A6 /* Resources */,
@@ -1551,6 +1571,31 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		48538916297CC05EE07CED86 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TasbeehPlus-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		66CD59B22D815E560057D324 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -1582,6 +1627,7 @@
 				668593112DADF576007B9AAA /* Tasbeeh.swift in Sources */,
 				6659EF432DAC0063003EAB20 /* ZikrCardView.swift in Sources */,
 				6659ED2B2DAC0062003EAB20 /* StatisticsDetailView.swift in Sources */,
+				66F6D3522DB125A500DE4DB7 /* KeyboardResponsive.swift in Sources */,
 				6659ED2E2DAC0062003EAB20 /* ZikrFooterView.swift in Sources */,
 				6659EF362DAC0063003EAB20 /* SettingsView.swift in Sources */,
 				6659ED382DAC0062003EAB20 /* Tab.swift in Sources */,
@@ -1721,6 +1767,7 @@
 		};
 		66CD59C52D815E590057D324 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 737D32FA61392567E3771363 /* Pods-TasbeehPlus.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -1754,6 +1801,7 @@
 		};
 		66CD59C62D815E590057D324 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C679C65ED951112C961EAC50 /* Pods-TasbeehPlus.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;

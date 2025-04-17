@@ -39,6 +39,8 @@ struct ZikrCounterView: View {
                 .padding(.horizontal, 15)
             }
             .padding(.horizontal, 20)
+            .background(AppColor.background(forTheme: selectedTheme, isWarmLightOn: isWarmLightOn))
+            .keyboardResponsive(offset: 20)
             
             Spacer()
             
