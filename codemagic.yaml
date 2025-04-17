@@ -17,7 +17,7 @@ workflows:
       - name: Set provisioning profile
         script: |
           mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
-          cp TasbeehPlus_App_Store_Profile.mobileprovision ~/Library/MobileDevice/Provisioning\ Profiles/
+          cp TasbeehPlus_FinalProfile_2025.mobileprovision ~/Library/MobileDevice/Provisioning\ Profiles/
 
       - name: Build .ipa for distribution
         script: |
