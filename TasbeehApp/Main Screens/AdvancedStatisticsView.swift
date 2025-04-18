@@ -213,6 +213,9 @@ struct AdvancedStatisticsView: View {
             Text("\(count)")
                 .font(.largeTitle)
                 .bold()
+                .minimumScaleFactor(0.5) // يصغر حتى 50% من الحجم الأصلي
+                .lineLimit(1) // سطر واحد فقط
+                .padding(.horizontal, 4) // زيادة بسيطة للحواف
                 .foregroundColor(AppColor.primary(forTheme: selectedTheme, isWarmLightOn: isWarmLightOn))
         }
         .padding()
